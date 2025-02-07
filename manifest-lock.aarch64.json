@@ -877,7 +877,7 @@
       }
     },
     "hwdata": {
-      "evra": "0.391-1.fc41.noarch",
+      "evra": "0.392-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "hwdata"
       }
@@ -1435,7 +1435,7 @@
       }
     },
     "libnfsidmap": {
-      "evra": "1:2.8.1-5.rc2.fc41.aarch64",
+      "evra": "1:2.8.1-7.rc2.fc41.aarch64",
       "metadata": {
         "sourcerpm": "nfs-utils"
       }
@@ -1903,7 +1903,7 @@
       }
     },
     "nfs-utils-coreos": {
-      "evra": "1:2.8.1-5.rc2.fc41.aarch64",
+      "evra": "1:2.8.1-7.rc2.fc41.aarch64",
       "metadata": {
         "sourcerpm": "nfs-utils"
       }
@@ -2624,16 +2624,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-02-04T00:00:00Z",
+    "generated": "2025-02-07T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-02-04T09:03:39Z"
+        "generated": "2025-02-06T22:35:23Z"
       },
       "fedora-updates": {
-        "generated": "2025-02-04T01:10:06Z"
+        "generated": "2025-02-07T01:58:48Z"
       }
     }
   }
