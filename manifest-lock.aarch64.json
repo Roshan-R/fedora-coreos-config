@@ -2599,7 +2599,7 @@
       }
     },
     "zincati": {
-      "evra": "0.0.27-3.fc41.aarch64",
+      "evra": "0.0.29-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "rust-zincati"
       }
@@ -2624,16 +2624,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-02-09T00:00:00Z",
+    "generated": "2025-02-11T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-02-09T10:35:42Z"
+        "generated": "2025-02-09T23:57:02Z"
       },
       "fedora-updates": {
-        "generated": "2025-02-09T01:12:57Z"
+        "generated": "2025-02-11T02:55:40Z"
       }
     }
   }
