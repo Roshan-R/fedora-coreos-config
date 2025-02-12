@@ -37,7 +37,7 @@
       }
     },
     "aardvark-dns": {
-      "evra": "2:1.13.1-1.fc41.s390x",
+      "evra": "2:1.14.0-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "aardvark-dns"
       }
@@ -139,19 +139,19 @@
       }
     },
     "bash-completion": {
-      "evra": "1:2.13-2.fc41.noarch",
+      "evra": "1:2.16-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "bash-completion"
       }
     },
     "bind-libs": {
-      "evra": "32:9.18.30-1.fc41.s390x",
+      "evra": "32:9.18.33-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "bind"
       }
     },
     "bind-utils": {
-      "evra": "32:9.18.30-1.fc41.s390x",
+      "evra": "32:9.18.33-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "bind"
       }
@@ -211,7 +211,7 @@
       }
     },
     "catatonit": {
-      "evra": "0.1.7-23.fc41.s390x",
+      "evra": "0.2.1-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "catatonit"
       }
@@ -379,7 +379,7 @@
       }
     },
     "crun": {
-      "evra": "1.19.1-1.fc41.s390x",
+      "evra": "1.20-2.fc41.s390x",
       "metadata": {
         "sourcerpm": "crun"
       }
@@ -1777,7 +1777,7 @@
       }
     },
     "netavark": {
-      "evra": "2:1.13.1-1.fc41.s390x",
+      "evra": "2:1.14.0-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "netavark"
       }
@@ -2498,16 +2498,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-02-11T00:00:00Z",
+    "generated": "2025-02-12T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:55Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-02-09T23:53:12Z"
+        "generated": "2025-02-12T08:02:13Z"
       },
       "fedora-updates": {
-        "generated": "2025-02-11T02:55:51Z"
+        "generated": "2025-02-12T01:21:58Z"
       }
     }
   }
