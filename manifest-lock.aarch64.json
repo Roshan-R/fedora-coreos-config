@@ -157,7 +157,7 @@
       }
     },
     "bootc": {
-      "evra": "1.1.4-6.fc41.aarch64",
+      "evra": "1.1.5-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "bootc"
       }
@@ -499,7 +499,7 @@
       }
     },
     "dnf5": {
-      "evra": "5.2.8.1-3.fc41.aarch64",
+      "evra": "5.2.10.0-2.fc41.aarch64",
       "metadata": {
         "sourcerpm": "dnf5"
       }
@@ -1225,13 +1225,13 @@
       }
     },
     "libdnf5": {
-      "evra": "5.2.8.1-3.fc41.aarch64",
+      "evra": "5.2.10.0-2.fc41.aarch64",
       "metadata": {
         "sourcerpm": "dnf5"
       }
     },
     "libdnf5-cli": {
-      "evra": "5.2.8.1-3.fc41.aarch64",
+      "evra": "5.2.10.0-2.fc41.aarch64",
       "metadata": {
         "sourcerpm": "dnf5"
       }
@@ -1369,7 +1369,7 @@
       }
     },
     "libldb": {
-      "evra": "2:4.21.3-5.fc41.aarch64",
+      "evra": "2:4.21.4-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -1567,7 +1567,7 @@
       }
     },
     "libsmbclient": {
-      "evra": "2:4.21.3-5.fc41.aarch64",
+      "evra": "2:4.21.4-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -1699,7 +1699,7 @@
       }
     },
     "libwbclient": {
-      "evra": "2:4.21.3-5.fc41.aarch64",
+      "evra": "2:4.21.4-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -2041,13 +2041,13 @@
       }
     },
     "passt": {
-      "evra": "0^20250121.g4f2c8e7-2.fc41.aarch64",
+      "evra": "0^20250217.ga1e48a0-2.fc41.aarch64",
       "metadata": {
         "sourcerpm": "passt"
       }
     },
     "passt-selinux": {
-      "evra": "0^20250121.g4f2c8e7-2.fc41.noarch",
+      "evra": "0^20250217.ga1e48a0-2.fc41.noarch",
       "metadata": {
         "sourcerpm": "passt"
       }
@@ -2227,19 +2227,19 @@
       }
     },
     "samba-client-libs": {
-      "evra": "2:4.21.3-5.fc41.aarch64",
+      "evra": "2:4.21.4-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "samba"
       }
     },
     "samba-common": {
-      "evra": "2:4.21.3-5.fc41.noarch",
+      "evra": "2:4.21.4-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "samba"
       }
     },
     "samba-common-libs": {
-      "evra": "2:4.21.3-5.fc41.aarch64",
+      "evra": "2:4.21.4-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -2624,16 +2624,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-02-17T00:00:00Z",
+    "generated": "2025-02-19T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-02-17T10:42:36Z"
+        "generated": "2025-02-19T08:16:53Z"
       },
       "fedora-updates": {
-        "generated": "2025-02-17T01:11:47Z"
+        "generated": "2025-02-19T01:49:35Z"
       }
     }
   }
