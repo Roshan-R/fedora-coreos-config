@@ -823,7 +823,7 @@
       }
     },
     "gnutls": {
-      "evra": "3.8.8-3.fc41.x86_64",
+      "evra": "3.8.9-2.fc41.x86_64",
       "metadata": {
         "sourcerpm": "gnutls"
       }
@@ -1063,25 +1063,25 @@
       }
     },
     "kernel": {
-      "evra": "6.12.13-200.fc41.x86_64",
+      "evra": "6.12.15-200.fc41.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.12.13-200.fc41.x86_64",
+      "evra": "6.12.15-200.fc41.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.12.13-200.fc41.x86_64",
+      "evra": "6.12.15-200.fc41.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.12.13-200.fc41.x86_64",
+      "evra": "6.12.15-200.fc41.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -1633,7 +1633,7 @@
       }
     },
     "libtasn1": {
-      "evra": "4.19.0-9.fc41.x86_64",
+      "evra": "4.20.0-1.fc41.x86_64",
       "metadata": {
         "sourcerpm": "libtasn1"
       }
@@ -1981,19 +1981,19 @@
       }
     },
     "openssh": {
-      "evra": "9.9p1-2.fc41.x86_64",
+      "evra": "9.9p1-3.fc41.x86_64",
       "metadata": {
         "sourcerpm": "openssh"
       }
     },
     "openssh-clients": {
-      "evra": "9.9p1-2.fc41.x86_64",
+      "evra": "9.9p1-3.fc41.x86_64",
       "metadata": {
         "sourcerpm": "openssh"
       }
     },
     "openssh-server": {
-      "evra": "9.9p1-2.fc41.x86_64",
+      "evra": "9.9p1-3.fc41.x86_64",
       "metadata": {
         "sourcerpm": "openssh"
       }
@@ -2269,13 +2269,13 @@
       }
     },
     "selinux-policy": {
-      "evra": "41.32-1.fc41.noarch",
+      "evra": "41.33-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
     },
     "selinux-policy-targeted": {
-      "evra": "41.32-1.fc41.noarch",
+      "evra": "41.33-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
@@ -2545,13 +2545,13 @@
       }
     },
     "vim-data": {
-      "evra": "2:9.1.1081-1.fc41.noarch",
+      "evra": "2:9.1.1122-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "vim"
       }
     },
     "vim-minimal": {
-      "evra": "2:9.1.1081-1.fc41.x86_64",
+      "evra": "2:9.1.1122-1.fc41.x86_64",
       "metadata": {
         "sourcerpm": "vim"
       }
@@ -2636,16 +2636,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-02-19T00:00:00Z",
+    "generated": "2025-02-21T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-02-19T08:16:24Z"
+        "generated": "2025-02-21T08:22:12Z"
       },
       "fedora-updates": {
-        "generated": "2025-02-19T01:49:50Z"
+        "generated": "2025-02-21T02:46:44Z"
       }
     }
   }
