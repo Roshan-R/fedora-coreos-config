@@ -2071,13 +2071,13 @@
       }
     },
     "rpm-ostree": {
-      "evra": "2024.9-1.fc41.s390x",
+      "evra": "2025.5-2.fc41.s390x",
       "metadata": {
         "sourcerpm": "rpm-ostree"
       }
     },
     "rpm-ostree-libs": {
-      "evra": "2024.9-1.fc41.s390x",
+      "evra": "2025.5-2.fc41.s390x",
       "metadata": {
         "sourcerpm": "rpm-ostree"
       }
@@ -2498,16 +2498,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-02-26T00:00:00Z",
+    "generated": "2025-02-27T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:55Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-02-26T08:58:18Z"
+        "generated": "2025-02-27T17:04:11Z"
       },
       "fedora-updates": {
-        "generated": "2025-02-26T01:09:36Z"
+        "generated": "2025-02-27T01:54:33Z"
       }
     }
   }
