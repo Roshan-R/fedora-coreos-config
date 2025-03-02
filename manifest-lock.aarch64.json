@@ -613,19 +613,19 @@
       }
     },
     "fedora-release-common": {
-      "evra": "41-29.noarch",
+      "evra": "41-31.noarch",
       "metadata": {
         "sourcerpm": "fedora-release"
       }
     },
     "fedora-release-coreos": {
-      "evra": "41-29.noarch",
+      "evra": "41-31.noarch",
       "metadata": {
         "sourcerpm": "fedora-release"
       }
     },
     "fedora-release-identity-coreos": {
-      "evra": "41-29.noarch",
+      "evra": "41-31.noarch",
       "metadata": {
         "sourcerpm": "fedora-release"
       }
@@ -2624,16 +2624,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-03-01T00:00:00Z",
+    "generated": "2025-03-02T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-02-28T14:42:02Z"
+        "generated": "2025-03-02T08:16:47Z"
       },
       "fedora-updates": {
-        "generated": "2025-03-01T01:15:31Z"
+        "generated": "2025-03-02T02:14:40Z"
       }
     }
   }
