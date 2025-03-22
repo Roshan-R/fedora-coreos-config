@@ -163,7 +163,7 @@
       }
     },
     "bootc": {
-      "evra": "1.1.5-1.fc41.aarch64",
+      "evra": "1.1.6-3.fc41.aarch64",
       "metadata": {
         "sourcerpm": "bootc"
       }
@@ -313,7 +313,7 @@
       }
     },
     "container-selinux": {
-      "evra": "4:2.235.0-2.fc41.noarch",
+      "evra": "4:2.236.0-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "container-selinux"
       }
@@ -607,7 +607,7 @@
       }
     },
     "expat": {
-      "evra": "2.6.4-1.fc41.aarch64",
+      "evra": "2.7.0-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "expat"
       }
@@ -727,7 +727,7 @@
       }
     },
     "fwupd": {
-      "evra": "1.9.28-1.fc41.aarch64",
+      "evra": "1.9.29-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "fwupd"
       }
@@ -775,7 +775,7 @@
       }
     },
     "git-core": {
-      "evra": "2.48.1-1.fc41.aarch64",
+      "evra": "2.49.0-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "git"
       }
@@ -889,7 +889,13 @@
       }
     },
     "ignition": {
-      "evra": "2.20.0-5.fc41.aarch64",
+      "evra": "2.21.0-2.fc41.aarch64",
+      "metadata": {
+        "sourcerpm": "ignition"
+      }
+    },
+    "ignition-grub": {
+      "evra": "2.21.0-2.fc41.aarch64",
       "metadata": {
         "sourcerpm": "ignition"
       }
@@ -1051,25 +1057,25 @@
       }
     },
     "kernel": {
-      "evra": "6.13.6-200.fc41.aarch64",
+      "evra": "6.13.7-200.fc41.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.13.6-200.fc41.aarch64",
+      "evra": "6.13.7-200.fc41.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.13.6-200.fc41.aarch64",
+      "evra": "6.13.7-200.fc41.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.13.6-200.fc41.aarch64",
+      "evra": "6.13.7-200.fc41.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -1717,7 +1723,7 @@
       }
     },
     "libxml2": {
-      "evra": "2.12.9-1.fc41.aarch64",
+      "evra": "2.12.10-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "libxml2"
       }
@@ -2167,7 +2173,7 @@
       }
     },
     "qemu-user-static-x86": {
-      "evra": "2:9.1.3-1.fc41.aarch64",
+      "evra": "2:9.1.3-2.fc41.aarch64",
       "metadata": {
         "sourcerpm": "qemu"
       }
@@ -2185,13 +2191,13 @@
       }
     },
     "rpm": {
-      "evra": "4.20.0-1.fc41.aarch64",
+      "evra": "4.20.1-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "rpm"
       }
     },
     "rpm-libs": {
-      "evra": "4.20.0-1.fc41.aarch64",
+      "evra": "4.20.1-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "rpm"
       }
@@ -2209,7 +2215,7 @@
       }
     },
     "rpm-plugin-selinux": {
-      "evra": "4.20.0-1.fc41.aarch64",
+      "evra": "4.20.1-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "rpm"
       }
@@ -2539,13 +2545,13 @@
       }
     },
     "vim-data": {
-      "evra": "2:9.1.1169-1.fc41.noarch",
+      "evra": "2:9.1.1202-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "vim"
       }
     },
     "vim-minimal": {
-      "evra": "2:9.1.1169-1.fc41.aarch64",
+      "evra": "2:9.1.1202-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "vim"
       }
@@ -2605,7 +2611,7 @@
       }
     },
     "zincati": {
-      "evra": "0.0.29-1.fc41.aarch64",
+      "evra": "0.0.30-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "rust-zincati"
       }
@@ -2630,16 +2636,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-03-15T00:00:00Z",
+    "generated": "2025-03-22T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-03-15T17:32:34Z"
+        "generated": "2025-03-21T18:46:45Z"
       },
       "fedora-updates": {
-        "generated": "2025-03-15T02:15:22Z"
+        "generated": "2025-03-22T04:05:43Z"
       }
     }
   }
