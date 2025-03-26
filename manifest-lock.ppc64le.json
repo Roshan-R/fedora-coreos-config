@@ -763,7 +763,7 @@
       }
     },
     "glib2": {
-      "evra": "2.82.2-1.fc41.ppc64le",
+      "evra": "2.82.5-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "glib2"
       }
@@ -1009,7 +1009,7 @@
       }
     },
     "json-glib": {
-      "evra": "1.10.0-1.fc41.ppc64le",
+      "evra": "1.10.6-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "json-glib"
       }
@@ -2618,16 +2618,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-03-24T00:00:00Z",
+    "generated": "2025-03-26T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-03-23T20:18:31Z"
+        "generated": "2025-03-25T15:58:31Z"
       },
       "fedora-updates": {
-        "generated": "2025-03-24T02:14:35Z"
+        "generated": "2025-03-26T02:18:06Z"
       }
     }
   }
