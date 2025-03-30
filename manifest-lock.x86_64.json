@@ -853,37 +853,37 @@
       }
     },
     "grub2-common": {
-      "evra": "1:2.12-20.fc41.noarch",
+      "evra": "1:2.12-21.fc41.noarch",
       "metadata": {
         "sourcerpm": "grub2"
       }
     },
     "grub2-efi-x64": {
-      "evra": "1:2.12-20.fc41.x86_64",
+      "evra": "1:2.12-21.fc41.x86_64",
       "metadata": {
         "sourcerpm": "grub2"
       }
     },
     "grub2-pc": {
-      "evra": "1:2.12-20.fc41.x86_64",
+      "evra": "1:2.12-21.fc41.x86_64",
       "metadata": {
         "sourcerpm": "grub2"
       }
     },
     "grub2-pc-modules": {
-      "evra": "1:2.12-20.fc41.noarch",
+      "evra": "1:2.12-21.fc41.noarch",
       "metadata": {
         "sourcerpm": "grub2"
       }
     },
     "grub2-tools": {
-      "evra": "1:2.12-20.fc41.x86_64",
+      "evra": "1:2.12-21.fc41.x86_64",
       "metadata": {
         "sourcerpm": "grub2"
       }
     },
     "grub2-tools-minimal": {
-      "evra": "1:2.12-20.fc41.x86_64",
+      "evra": "1:2.12-21.fc41.x86_64",
       "metadata": {
         "sourcerpm": "grub2"
       }
@@ -1693,7 +1693,7 @@
       }
     },
     "libusb1": {
-      "evra": "1.0.27-9.fc41.x86_64",
+      "evra": "1.0.28-2.fc41.x86_64",
       "metadata": {
         "sourcerpm": "libusb1"
       }
@@ -2648,16 +2648,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-03-29T00:00:00Z",
+    "generated": "2025-03-30T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-03-28T16:27:45Z"
+        "generated": "2025-03-29T16:30:24Z"
       },
       "fedora-updates": {
-        "generated": "2025-03-29T01:35:09Z"
+        "generated": "2025-03-30T02:27:21Z"
       }
     }
   }
