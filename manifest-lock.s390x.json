@@ -2395,7 +2395,7 @@
       }
     },
     "tzdata": {
-      "evra": "2025a-1.fc41.noarch",
+      "evra": "2025b-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "tzdata"
       }
@@ -2510,16 +2510,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-03-30T00:00:00Z",
+    "generated": "2025-03-31T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:55Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-03-29T16:25:58Z"
+        "generated": "2025-03-30T15:52:36Z"
       },
       "fedora-updates": {
-        "generated": "2025-03-30T02:27:15Z"
+        "generated": "2025-03-31T02:31:46Z"
       }
     }
   }
