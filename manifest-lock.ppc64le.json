@@ -1945,7 +1945,7 @@
       }
     },
     "openldap": {
-      "evra": "2.6.8-7.fc41.ppc64le",
+      "evra": "2.6.9-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "openldap"
       }
@@ -2618,7 +2618,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-04-01T00:00:00Z",
+    "generated": "2025-04-02T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:58Z"
@@ -2627,7 +2627,7 @@
         "generated": "2025-03-31T16:14:15Z"
       },
       "fedora-updates": {
-        "generated": "2025-04-01T01:22:33Z"
+        "generated": "2025-04-02T01:50:45Z"
       }
     }
   }
