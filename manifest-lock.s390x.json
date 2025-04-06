@@ -55,13 +55,13 @@
       }
     },
     "afterburn": {
-      "evra": "5.7.0-3.fc41.s390x",
+      "evra": "5.7.0-4.fc41.s390x",
       "metadata": {
         "sourcerpm": "rust-afterburn"
       }
     },
     "afterburn-dracut": {
-      "evra": "5.7.0-3.fc41.s390x",
+      "evra": "5.7.0-4.fc41.s390x",
       "metadata": {
         "sourcerpm": "rust-afterburn"
       }
@@ -2510,7 +2510,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-04-05T00:00:00Z",
+    "generated": "2025-04-06T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:55Z"
@@ -2519,7 +2519,7 @@
         "generated": "2025-04-04T19:34:30Z"
       },
       "fedora-updates": {
-        "generated": "2025-04-05T01:18:00Z"
+        "generated": "2025-04-06T01:16:19Z"
       }
     }
   }

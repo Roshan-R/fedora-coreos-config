@@ -55,13 +55,13 @@
       }
     },
     "afterburn": {
-      "evra": "5.7.0-3.fc41.aarch64",
+      "evra": "5.7.0-4.fc41.aarch64",
       "metadata": {
         "sourcerpm": "rust-afterburn"
       }
     },
     "afterburn-dracut": {
-      "evra": "5.7.0-3.fc41.aarch64",
+      "evra": "5.7.0-4.fc41.aarch64",
       "metadata": {
         "sourcerpm": "rust-afterburn"
       }
@@ -2636,7 +2636,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-04-05T00:00:00Z",
+    "generated": "2025-04-06T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:58Z"
@@ -2645,7 +2645,7 @@
         "generated": "2025-04-04T19:38:39Z"
       },
       "fedora-updates": {
-        "generated": "2025-04-05T01:17:47Z"
+        "generated": "2025-04-06T01:16:07Z"
       }
     }
   }
