@@ -811,7 +811,7 @@
       }
     },
     "hwdata": {
-      "evra": "0.393-1.fc41.noarch",
+      "evra": "0.394-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "hwdata"
       }
@@ -1297,7 +1297,7 @@
       }
     },
     "libldb": {
-      "evra": "2:4.21.4-1.fc41.s390x",
+      "evra": "2:4.21.5-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -1495,7 +1495,7 @@
       }
     },
     "libsmbclient": {
-      "evra": "2:4.21.4-1.fc41.s390x",
+      "evra": "2:4.21.5-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -1621,13 +1621,13 @@
       }
     },
     "libwbclient": {
-      "evra": "2:4.21.4-1.fc41.s390x",
+      "evra": "2:4.21.5-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "samba"
       }
     },
     "libxcrypt": {
-      "evra": "4.4.38-6.fc41.s390x",
+      "evra": "4.4.38-7.fc41.s390x",
       "metadata": {
         "sourcerpm": "libxcrypt"
       }
@@ -2125,19 +2125,19 @@
       }
     },
     "samba-client-libs": {
-      "evra": "2:4.21.4-1.fc41.s390x",
+      "evra": "2:4.21.5-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "samba"
       }
     },
     "samba-common": {
-      "evra": "2:4.21.4-1.fc41.noarch",
+      "evra": "2:4.21.5-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "samba"
       }
     },
     "samba-common-libs": {
-      "evra": "2:4.21.4-1.fc41.s390x",
+      "evra": "2:4.21.5-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -2425,13 +2425,13 @@
       }
     },
     "vim-data": {
-      "evra": "2:9.1.1227-1.fc41.noarch",
+      "evra": "2:9.1.1275-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "vim"
       }
     },
     "vim-minimal": {
-      "evra": "2:9.1.1227-1.fc41.s390x",
+      "evra": "2:9.1.1275-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "vim"
       }
@@ -2510,16 +2510,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-04-06T00:00:00Z",
+    "generated": "2025-04-09T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:55Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-04-04T19:34:30Z"
+        "generated": "2025-04-08T17:13:19Z"
       },
       "fedora-updates": {
-        "generated": "2025-04-06T01:16:19Z"
+        "generated": "2025-04-09T01:48:23Z"
       }
     }
   }
