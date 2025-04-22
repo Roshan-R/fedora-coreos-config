@@ -505,7 +505,7 @@
       }
     },
     "dnsmasq": {
-      "evra": "2.90-4.fc42.s390x",
+      "evra": "2.90-6.fc42.s390x",
       "metadata": {
         "sourcerpm": "dnsmasq"
       }
@@ -859,37 +859,37 @@
       }
     },
     "iptables-legacy": {
-      "evra": "1.8.11-4.fc42.s390x",
+      "evra": "1.8.11-5.fc42.s390x",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-legacy-libs": {
-      "evra": "1.8.11-4.fc42.s390x",
+      "evra": "1.8.11-5.fc42.s390x",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-libs": {
-      "evra": "1.8.11-4.fc42.s390x",
+      "evra": "1.8.11-5.fc42.s390x",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-nft": {
-      "evra": "1.8.11-4.fc42.s390x",
+      "evra": "1.8.11-5.fc42.s390x",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-services": {
-      "evra": "1.8.11-4.fc42.noarch",
+      "evra": "1.8.11-5.fc42.noarch",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-utils": {
-      "evra": "1.8.11-4.fc42.s390x",
+      "evra": "1.8.11-5.fc42.s390x",
       "metadata": {
         "sourcerpm": "iptables"
       }
@@ -901,13 +901,13 @@
       }
     },
     "iscsi-initiator-utils": {
-      "evra": "6.2.1.10-0.gitd0f04ae.fc41.1.s390x",
+      "evra": "6.2.1.10-0.gitd0f04ae.fc42.3.s390x",
       "metadata": {
         "sourcerpm": "iscsi-initiator-utils"
       }
     },
     "iscsi-initiator-utils-iscsiuio": {
-      "evra": "6.2.1.10-0.gitd0f04ae.fc41.1.s390x",
+      "evra": "6.2.1.10-0.gitd0f04ae.fc42.3.s390x",
       "metadata": {
         "sourcerpm": "iscsi-initiator-utils"
       }
@@ -1285,7 +1285,7 @@
       }
     },
     "libldb": {
-      "evra": "2:4.22.0-20.fc42.s390x",
+      "evra": "2:4.22.1-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -1483,7 +1483,7 @@
       }
     },
     "libsmbclient": {
-      "evra": "2:4.22.0-20.fc42.s390x",
+      "evra": "2:4.22.1-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -1609,7 +1609,7 @@
       }
     },
     "libwbclient": {
-      "evra": "2:4.22.0-20.fc42.s390x",
+      "evra": "2:4.22.1-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -2071,13 +2071,13 @@
       }
     },
     "rpm-ostree": {
-      "evra": "2025.7-1.fc42.s390x",
+      "evra": "2025.7-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "rpm-ostree"
       }
     },
     "rpm-ostree-libs": {
-      "evra": "2025.7-1.fc42.s390x",
+      "evra": "2025.7-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "rpm-ostree"
       }
@@ -2113,19 +2113,19 @@
       }
     },
     "samba-client-libs": {
-      "evra": "2:4.22.0-20.fc42.s390x",
+      "evra": "2:4.22.1-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "samba"
       }
     },
     "samba-common": {
-      "evra": "2:4.22.0-20.fc42.noarch",
+      "evra": "2:4.22.1-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "samba"
       }
     },
     "samba-common-libs": {
-      "evra": "2:4.22.0-20.fc42.s390x",
+      "evra": "2:4.22.1-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -2510,16 +2510,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-04-18T00:00:00Z",
+    "generated": "2025-04-22T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-04-18T20:13:10Z"
+        "generated": "2025-04-21T22:15:21Z"
       },
       "fedora-updates": {
-        "generated": "2025-04-17T18:52:55Z"
+        "generated": "2025-04-22T02:50:20Z"
       }
     }
   }

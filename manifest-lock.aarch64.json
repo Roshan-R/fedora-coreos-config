@@ -511,7 +511,7 @@
       }
     },
     "dnsmasq": {
-      "evra": "2.90-4.fc42.aarch64",
+      "evra": "2.90-6.fc42.aarch64",
       "metadata": {
         "sourcerpm": "dnsmasq"
       }
@@ -931,37 +931,37 @@
       }
     },
     "iptables-legacy": {
-      "evra": "1.8.11-4.fc42.aarch64",
+      "evra": "1.8.11-5.fc42.aarch64",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-legacy-libs": {
-      "evra": "1.8.11-4.fc42.aarch64",
+      "evra": "1.8.11-5.fc42.aarch64",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-libs": {
-      "evra": "1.8.11-4.fc42.aarch64",
+      "evra": "1.8.11-5.fc42.aarch64",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-nft": {
-      "evra": "1.8.11-4.fc42.aarch64",
+      "evra": "1.8.11-5.fc42.aarch64",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-services": {
-      "evra": "1.8.11-4.fc42.noarch",
+      "evra": "1.8.11-5.fc42.noarch",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-utils": {
-      "evra": "1.8.11-4.fc42.aarch64",
+      "evra": "1.8.11-5.fc42.aarch64",
       "metadata": {
         "sourcerpm": "iptables"
       }
@@ -979,13 +979,13 @@
       }
     },
     "iscsi-initiator-utils": {
-      "evra": "6.2.1.10-0.gitd0f04ae.fc41.1.aarch64",
+      "evra": "6.2.1.10-0.gitd0f04ae.fc42.3.aarch64",
       "metadata": {
         "sourcerpm": "iscsi-initiator-utils"
       }
     },
     "iscsi-initiator-utils-iscsiuio": {
-      "evra": "6.2.1.10-0.gitd0f04ae.fc41.1.aarch64",
+      "evra": "6.2.1.10-0.gitd0f04ae.fc42.3.aarch64",
       "metadata": {
         "sourcerpm": "iscsi-initiator-utils"
       }
@@ -1369,7 +1369,7 @@
       }
     },
     "libldb": {
-      "evra": "2:4.22.0-20.fc42.aarch64",
+      "evra": "2:4.22.1-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -1573,7 +1573,7 @@
       }
     },
     "libsmbclient": {
-      "evra": "2:4.22.0-20.fc42.aarch64",
+      "evra": "2:4.22.1-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -1705,7 +1705,7 @@
       }
     },
     "libwbclient": {
-      "evra": "2:4.22.0-20.fc42.aarch64",
+      "evra": "2:4.22.1-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -2197,13 +2197,13 @@
       }
     },
     "rpm-ostree": {
-      "evra": "2025.7-1.fc42.aarch64",
+      "evra": "2025.7-2.fc42.aarch64",
       "metadata": {
         "sourcerpm": "rpm-ostree"
       }
     },
     "rpm-ostree-libs": {
-      "evra": "2025.7-1.fc42.aarch64",
+      "evra": "2025.7-2.fc42.aarch64",
       "metadata": {
         "sourcerpm": "rpm-ostree"
       }
@@ -2233,19 +2233,19 @@
       }
     },
     "samba-client-libs": {
-      "evra": "2:4.22.0-20.fc42.aarch64",
+      "evra": "2:4.22.1-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "samba"
       }
     },
     "samba-common": {
-      "evra": "2:4.22.0-20.fc42.noarch",
+      "evra": "2:4.22.1-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "samba"
       }
     },
     "samba-common-libs": {
-      "evra": "2:4.22.0-20.fc42.aarch64",
+      "evra": "2:4.22.1-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -2642,16 +2642,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-04-18T00:00:00Z",
+    "generated": "2025-04-22T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-04-18T20:17:56Z"
+        "generated": "2025-04-21T22:20:14Z"
       },
       "fedora-updates": {
-        "generated": "2025-04-17T18:52:53Z"
+        "generated": "2025-04-22T02:50:17Z"
       }
     }
   }
