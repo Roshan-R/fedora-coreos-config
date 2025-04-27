@@ -121,7 +121,7 @@
       }
     },
     "azure-vm-utils": {
-      "evra": "0.5.2-1.fc42.s390x",
+      "evra": "0.6.0-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "azure-vm-utils"
       }
@@ -163,7 +163,7 @@
       }
     },
     "bootc": {
-      "evra": "1.1.6-3.fc42.s390x",
+      "evra": "1.1.7-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "bootc"
       }
@@ -319,7 +319,7 @@
       }
     },
     "containerd": {
-      "evra": "2.0.4-1.fc42.s390x",
+      "evra": "2.0.5-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "containerd"
       }
@@ -373,13 +373,13 @@
       }
     },
     "criu": {
-      "evra": "4.0-4.fc42.s390x",
+      "evra": "4.1-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "criu"
       }
     },
     "criu-libs": {
-      "evra": "4.0-4.fc42.s390x",
+      "evra": "4.1-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "criu"
       }
@@ -511,7 +511,7 @@
       }
     },
     "docker-cli": {
-      "evra": "27.5.1-1.fc42.s390x",
+      "evra": "27.5.1-3.fc42.s390x",
       "metadata": {
         "sourcerpm": "moby-engine"
       }
@@ -973,31 +973,31 @@
       }
     },
     "kernel": {
-      "evra": "6.14.2-300.fc42.s390x",
+      "evra": "6.14.3-300.fc42.s390x",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.14.2-300.fc42.s390x",
+      "evra": "6.14.3-300.fc42.s390x",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.14.2-300.fc42.s390x",
+      "evra": "6.14.3-300.fc42.s390x",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.14.2-300.fc42.s390x",
+      "evra": "6.14.3-300.fc42.s390x",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kexec-tools": {
-      "evra": "2.0.30-3.fc42.s390x",
+      "evra": "2.0.31-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "kexec-tools"
       }
@@ -1597,7 +1597,7 @@
       }
     },
     "libuv": {
-      "evra": "1:1.50.0-1.fc42.s390x",
+      "evra": "1:1.51.0-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "libuv"
       }
@@ -1711,7 +1711,7 @@
       }
     },
     "makedumpfile": {
-      "evra": "1.7.6-3.fc42.s390x",
+      "evra": "1.7.7-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "makedumpfile"
       }
@@ -1723,13 +1723,13 @@
       }
     },
     "moby-engine": {
-      "evra": "27.5.1-1.fc42.s390x",
+      "evra": "27.5.1-3.fc42.s390x",
       "metadata": {
         "sourcerpm": "moby-engine"
       }
     },
     "moby-filesystem": {
-      "evra": "27.5.1-1.fc42.noarch",
+      "evra": "27.5.1-3.fc42.noarch",
       "metadata": {
         "sourcerpm": "moby-engine"
       }
@@ -1807,7 +1807,7 @@
       }
     },
     "nmstate": {
-      "evra": "2.2.43-1.fc42.s390x",
+      "evra": "2.2.44-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "nmstate"
       }
@@ -2143,13 +2143,13 @@
       }
     },
     "selinux-policy": {
-      "evra": "41.37-1.fc42.noarch",
+      "evra": "41.38-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
     },
     "selinux-policy-targeted": {
-      "evra": "41.37-1.fc42.noarch",
+      "evra": "41.38-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
@@ -2461,13 +2461,13 @@
       }
     },
     "xz": {
-      "evra": "1:5.6.3-3.fc42.s390x",
+      "evra": "1:5.8.1-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "xz"
       }
     },
     "xz-libs": {
-      "evra": "1:5.6.3-3.fc42.s390x",
+      "evra": "1:5.8.1-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "xz"
       }
@@ -2510,16 +2510,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-04-22T00:00:00Z",
+    "generated": "2025-04-27T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-04-21T22:15:21Z"
+        "generated": "2025-04-27T15:55:47Z"
       },
       "fedora-updates": {
-        "generated": "2025-04-22T02:50:20Z"
+        "generated": "2025-04-27T01:10:20Z"
       }
     }
   }
