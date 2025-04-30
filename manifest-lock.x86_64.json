@@ -793,25 +793,25 @@
       }
     },
     "glibc": {
-      "evra": "2.41-3.fc42.x86_64",
+      "evra": "2.41-5.fc42.x86_64",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-common": {
-      "evra": "2.41-3.fc42.x86_64",
+      "evra": "2.41-5.fc42.x86_64",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-gconv-extra": {
-      "evra": "2.41-3.fc42.x86_64",
+      "evra": "2.41-5.fc42.x86_64",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-minimal-langpack": {
-      "evra": "2.41-3.fc42.x86_64",
+      "evra": "2.41-5.fc42.x86_64",
       "metadata": {
         "sourcerpm": "glibc"
       }
@@ -949,37 +949,37 @@
       }
     },
     "iptables-legacy": {
-      "evra": "1.8.11-5.fc42.x86_64",
+      "evra": "1.8.11-7.fc42.x86_64",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-legacy-libs": {
-      "evra": "1.8.11-5.fc42.x86_64",
+      "evra": "1.8.11-7.fc42.x86_64",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-libs": {
-      "evra": "1.8.11-5.fc42.x86_64",
+      "evra": "1.8.11-7.fc42.x86_64",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-nft": {
-      "evra": "1.8.11-5.fc42.x86_64",
+      "evra": "1.8.11-7.fc42.x86_64",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-services": {
-      "evra": "1.8.11-5.fc42.noarch",
+      "evra": "1.8.11-7.fc42.noarch",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-utils": {
-      "evra": "1.8.11-5.fc42.x86_64",
+      "evra": "1.8.11-7.fc42.x86_64",
       "metadata": {
         "sourcerpm": "iptables"
       }
@@ -1069,25 +1069,25 @@
       }
     },
     "kernel": {
-      "evra": "6.14.3-300.fc42.x86_64",
+      "evra": "6.14.4-300.fc42.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.14.3-300.fc42.x86_64",
+      "evra": "6.14.4-300.fc42.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.14.3-300.fc42.x86_64",
+      "evra": "6.14.4-300.fc42.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.14.3-300.fc42.x86_64",
+      "evra": "6.14.4-300.fc42.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -1297,7 +1297,7 @@
       }
     },
     "libgcc": {
-      "evra": "15.0.1-0.11.fc42.x86_64",
+      "evra": "15.1.1-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "gcc"
       }
@@ -1627,7 +1627,7 @@
       }
     },
     "libstdc++": {
-      "evra": "15.0.1-0.11.fc42.x86_64",
+      "evra": "15.1.1-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "gcc"
       }
@@ -2654,16 +2654,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-04-27T00:00:00Z",
+    "generated": "2025-04-30T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-04-27T15:59:37Z"
+        "generated": "2025-04-27T21:39:54Z"
       },
       "fedora-updates": {
-        "generated": "2025-04-27T01:10:22Z"
+        "generated": "2025-04-30T02:16:52Z"
       }
     }
   }
