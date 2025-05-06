@@ -151,13 +151,13 @@
       }
     },
     "bind-libs": {
-      "evra": "32:9.18.35-2.fc42.aarch64",
+      "evra": "32:9.18.36-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "bind"
       }
     },
     "bind-utils": {
-      "evra": "32:9.18.35-2.fc42.aarch64",
+      "evra": "32:9.18.36-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "bind"
       }
@@ -313,7 +313,7 @@
       }
     },
     "container-selinux": {
-      "evra": "4:2.236.0-1.fc42.noarch",
+      "evra": "4:2.237.0-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "container-selinux"
       }
@@ -1051,25 +1051,25 @@
       }
     },
     "kernel": {
-      "evra": "6.14.4-300.fc42.aarch64",
+      "evra": "6.14.5-300.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.14.4-300.fc42.aarch64",
+      "evra": "6.14.5-300.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.14.4-300.fc42.aarch64",
+      "evra": "6.14.5-300.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.14.4-300.fc42.aarch64",
+      "evra": "6.14.5-300.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -2047,13 +2047,13 @@
       }
     },
     "passt": {
-      "evra": "0^20250415.g2340bbf-1.fc42.aarch64",
+      "evra": "0^20250503.g587980c-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "passt"
       }
     },
     "passt-selinux": {
-      "evra": "0^20250415.g2340bbf-1.fc42.noarch",
+      "evra": "0^20250503.g587980c-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "passt"
       }
@@ -2617,7 +2617,7 @@
       }
     },
     "zincati": {
-      "evra": "0.0.30-2.fc42.aarch64",
+      "evra": "0.0.30-3.fc42.aarch64",
       "metadata": {
         "sourcerpm": "rust-zincati"
       }
@@ -2642,16 +2642,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-05-03T00:00:00Z",
+    "generated": "2025-05-06T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-05-02T15:21:14Z"
+        "generated": "2025-05-05T17:08:12Z"
       },
       "fedora-updates": {
-        "generated": "2025-05-03T01:57:01Z"
+        "generated": "2025-05-06T01:11:34Z"
       }
     }
   }
