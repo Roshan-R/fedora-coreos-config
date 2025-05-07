@@ -2017,7 +2017,7 @@
       }
     },
     "passim-libs": {
-      "evra": "0.1.9-1.fc42.ppc64le",
+      "evra": "0.1.10-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "passim"
       }
@@ -2251,13 +2251,13 @@
       }
     },
     "selinux-policy": {
-      "evra": "41.38-1.fc42.noarch",
+      "evra": "41.39-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
     },
     "selinux-policy-targeted": {
-      "evra": "41.38-1.fc42.noarch",
+      "evra": "41.39-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
@@ -2618,16 +2618,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-05-06T00:00:00Z",
+    "generated": "2025-05-07T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-05-05T17:04:35Z"
+        "generated": "2025-05-06T07:05:53Z"
       },
       "fedora-updates": {
-        "generated": "2025-05-06T01:11:37Z"
+        "generated": "2025-05-07T03:16:51Z"
       }
     }
   }
