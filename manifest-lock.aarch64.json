@@ -67,7 +67,7 @@
       }
     },
     "alternatives": {
-      "evra": "1.32-1.fc42.aarch64",
+      "evra": "1.33-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "chkconfig"
       }
@@ -2642,16 +2642,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-05-11T00:00:00Z",
+    "generated": "2025-05-12T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-05-10T17:10:06Z"
+        "generated": "2025-05-11T13:30:58Z"
       },
       "fedora-updates": {
-        "generated": "2025-05-11T01:11:24Z"
+        "generated": "2025-05-12T01:45:00Z"
       }
     }
   }

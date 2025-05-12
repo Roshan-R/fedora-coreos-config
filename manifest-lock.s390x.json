@@ -67,7 +67,7 @@
       }
     },
     "alternatives": {
-      "evra": "1.32-1.fc42.s390x",
+      "evra": "1.33-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "chkconfig"
       }
@@ -2510,16 +2510,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-05-11T00:00:00Z",
+    "generated": "2025-05-12T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-05-10T17:05:21Z"
+        "generated": "2025-05-11T13:26:25Z"
       },
       "fedora-updates": {
-        "generated": "2025-05-11T01:11:30Z"
+        "generated": "2025-05-12T01:45:06Z"
       }
     }
   }
