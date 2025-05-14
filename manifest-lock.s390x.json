@@ -31,7 +31,7 @@
       }
     },
     "WALinuxAgent-udev": {
-      "evra": "2.12.0.4-2.fc42.noarch",
+      "evra": "2.13.1.1-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "WALinuxAgent"
       }
@@ -73,7 +73,7 @@
       }
     },
     "amd-gpu-firmware": {
-      "evra": "20250410-1.fc42.noarch",
+      "evra": "20250509-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -835,7 +835,7 @@
       }
     },
     "intel-gpu-firmware": {
-      "evra": "20250410-1.fc42.noarch",
+      "evra": "20250509-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -1645,13 +1645,13 @@
       }
     },
     "linux-firmware": {
-      "evra": "20250410-1.fc42.noarch",
+      "evra": "20250509-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
     },
     "linux-firmware-whence": {
-      "evra": "20250410-1.fc42.noarch",
+      "evra": "20250509-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -1825,7 +1825,7 @@
       }
     },
     "nvidia-gpu-firmware": {
-      "evra": "20250410-1.fc42.noarch",
+      "evra": "20250509-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -2035,7 +2035,7 @@
       }
     },
     "qed-firmware": {
-      "evra": "20250410-1.fc42.noarch",
+      "evra": "20250509-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -2510,16 +2510,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-05-12T00:00:00Z",
+    "generated": "2025-05-14T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-05-11T13:26:25Z"
+        "generated": "2025-05-12T06:44:19Z"
       },
       "fedora-updates": {
-        "generated": "2025-05-12T01:45:06Z"
+        "generated": "2025-05-14T02:25:00Z"
       }
     }
   }

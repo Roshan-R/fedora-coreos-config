@@ -31,7 +31,7 @@
       }
     },
     "WALinuxAgent-udev": {
-      "evra": "2.12.0.4-2.fc42.noarch",
+      "evra": "2.13.1.1-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "WALinuxAgent"
       }
@@ -73,7 +73,7 @@
       }
     },
     "amd-gpu-firmware": {
-      "evra": "20250410-1.fc42.noarch",
+      "evra": "20250509-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -907,7 +907,7 @@
       }
     },
     "intel-gpu-firmware": {
-      "evra": "20250410-1.fc42.noarch",
+      "evra": "20250509-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -1741,13 +1741,13 @@
       }
     },
     "linux-firmware": {
-      "evra": "20250410-1.fc42.noarch",
+      "evra": "20250509-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
     },
     "linux-firmware-whence": {
-      "evra": "20250410-1.fc42.noarch",
+      "evra": "20250509-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -1945,7 +1945,7 @@
       }
     },
     "nvidia-gpu-firmware": {
-      "evra": "20250410-1.fc42.noarch",
+      "evra": "20250509-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -2161,7 +2161,7 @@
       }
     },
     "qed-firmware": {
-      "evra": "20250410-1.fc42.noarch",
+      "evra": "20250509-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -2347,7 +2347,7 @@
       }
     },
     "spdlog": {
-      "evra": "1.15.2-1.fc42.aarch64",
+      "evra": "1.15.3-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "spdlog"
       }
@@ -2642,16 +2642,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-05-12T00:00:00Z",
+    "generated": "2025-05-14T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-05-11T13:30:58Z"
+        "generated": "2025-05-12T06:48:32Z"
       },
       "fedora-updates": {
-        "generated": "2025-05-12T01:45:00Z"
+        "generated": "2025-05-14T02:24:53Z"
       }
     }
   }
