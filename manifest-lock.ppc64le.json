@@ -37,7 +37,7 @@
       }
     },
     "aardvark-dns": {
-      "evra": "2:1.14.0-1.fc42.ppc64le",
+      "evra": "2:1.15.0-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "aardvark-dns"
       }
@@ -661,7 +661,7 @@
       }
     },
     "flatpak-session-helper": {
-      "evra": "1.16.0-2.fc42.ppc64le",
+      "evra": "1.16.1-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "flatpak"
       }
@@ -1027,31 +1027,31 @@
       }
     },
     "kdump-utils": {
-      "evra": "1.0.52-2.fc42.ppc64le",
+      "evra": "1.0.54-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "kdump-utils"
       }
     },
     "kernel": {
-      "evra": "6.14.5-300.fc42.ppc64le",
+      "evra": "6.14.6-300.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.14.5-300.fc42.ppc64le",
+      "evra": "6.14.6-300.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.14.5-300.fc42.ppc64le",
+      "evra": "6.14.6-300.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.14.5-300.fc42.ppc64le",
+      "evra": "6.14.6-300.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -1861,7 +1861,7 @@
       }
     },
     "netavark": {
-      "evra": "2:1.14.1-1.fc42.ppc64le",
+      "evra": "2:1.15.0-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "netavark"
       }
@@ -2023,13 +2023,13 @@
       }
     },
     "passt": {
-      "evra": "0^20250507.geea8a76-1.fc42.ppc64le",
+      "evra": "0^20250512.g8ec1341-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "passt"
       }
     },
     "passt-selinux": {
-      "evra": "0^20250507.geea8a76-1.fc42.noarch",
+      "evra": "0^20250512.g8ec1341-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "passt"
       }
@@ -2251,13 +2251,13 @@
       }
     },
     "selinux-policy": {
-      "evra": "41.39-1.fc42.noarch",
+      "evra": "41.40-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
     },
     "selinux-policy-targeted": {
-      "evra": "41.39-1.fc42.noarch",
+      "evra": "41.40-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
@@ -2618,16 +2618,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-05-14T00:00:00Z",
+    "generated": "2025-05-15T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-05-12T06:44:48Z"
+        "generated": "2025-05-14T16:58:49Z"
       },
       "fedora-updates": {
-        "generated": "2025-05-14T02:24:56Z"
+        "generated": "2025-05-15T01:47:23Z"
       }
     }
   }
