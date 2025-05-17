@@ -325,13 +325,13 @@
       }
     },
     "containers-common": {
-      "evra": "5:0.62.2-1.fc42.noarch",
+      "evra": "5:0.63.0-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "containers-common"
       }
     },
     "containers-common-extra": {
-      "evra": "5:0.62.2-1.fc42.noarch",
+      "evra": "5:0.63.0-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "containers-common"
       }
@@ -2107,7 +2107,7 @@
       }
     },
     "podman": {
-      "evra": "5:5.4.2-1.fc42.aarch64",
+      "evra": "5:5.5.0-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "podman"
       }
@@ -2642,16 +2642,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-05-16T00:00:00Z",
+    "generated": "2025-05-17T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-05-15T16:00:17Z"
+        "generated": "2025-05-16T15:22:14Z"
       },
       "fedora-updates": {
-        "generated": "2025-05-16T02:31:23Z"
+        "generated": "2025-05-17T01:54:22Z"
       }
     }
   }
