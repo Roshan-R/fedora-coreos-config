@@ -2005,13 +2005,13 @@
       }
     },
     "pam": {
-      "evra": "1.7.0-4.fc42.ppc64le",
+      "evra": "1.7.0-5.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "pam"
       }
     },
     "pam-libs": {
-      "evra": "1.7.0-4.fc42.ppc64le",
+      "evra": "1.7.0-5.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "pam"
       }
@@ -2618,16 +2618,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-05-17T00:00:00Z",
+    "generated": "2025-05-18T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-05-16T15:18:01Z"
+        "generated": "2025-05-17T07:10:02Z"
       },
       "fedora-updates": {
-        "generated": "2025-05-17T01:54:25Z"
+        "generated": "2025-05-18T01:05:21Z"
       }
     }
   }
