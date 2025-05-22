@@ -55,13 +55,13 @@
       }
     },
     "afterburn": {
-      "evra": "5.7.0-4.fc42.s390x",
+      "evra": "5.8.2-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "rust-afterburn"
       }
     },
     "afterburn-dracut": {
-      "evra": "5.7.0-4.fc42.s390x",
+      "evra": "5.8.2-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "rust-afterburn"
       }
@@ -349,13 +349,13 @@
       }
     },
     "coreutils": {
-      "evra": "9.6-2.fc42.s390x",
+      "evra": "9.6-3.fc42.s390x",
       "metadata": {
         "sourcerpm": "coreutils"
       }
     },
     "coreutils-common": {
-      "evra": "9.6-2.fc42.s390x",
+      "evra": "9.6-3.fc42.s390x",
       "metadata": {
         "sourcerpm": "coreutils"
       }
@@ -499,7 +499,7 @@
       }
     },
     "dnf5": {
-      "evra": "5.2.11.0-1.fc42.s390x",
+      "evra": "5.2.13.1-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "dnf5"
       }
@@ -895,7 +895,7 @@
       }
     },
     "iputils": {
-      "evra": "20240905-3.fc42.s390x",
+      "evra": "20240905-4.fc42.s390x",
       "metadata": {
         "sourcerpm": "iputils"
       }
@@ -1147,13 +1147,13 @@
       }
     },
     "libdnf5": {
-      "evra": "5.2.11.0-1.fc42.s390x",
+      "evra": "5.2.13.1-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "dnf5"
       }
     },
     "libdnf5-cli": {
-      "evra": "5.2.11.0-1.fc42.s390x",
+      "evra": "5.2.13.1-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "dnf5"
       }
@@ -1849,19 +1849,19 @@
       }
     },
     "openssh": {
-      "evra": "9.9p1-10.fc42.s390x",
+      "evra": "9.9p1-11.fc42.s390x",
       "metadata": {
         "sourcerpm": "openssh"
       }
     },
     "openssh-clients": {
-      "evra": "9.9p1-10.fc42.s390x",
+      "evra": "9.9p1-11.fc42.s390x",
       "metadata": {
         "sourcerpm": "openssh"
       }
     },
     "openssh-server": {
-      "evra": "9.9p1-10.fc42.s390x",
+      "evra": "9.9p1-11.fc42.s390x",
       "metadata": {
         "sourcerpm": "openssh"
       }
@@ -2510,16 +2510,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-05-18T00:00:00Z",
+    "generated": "2025-05-22T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-05-17T07:09:45Z"
+        "generated": "2025-05-20T17:42:43Z"
       },
       "fedora-updates": {
-        "generated": "2025-05-18T01:05:25Z"
+        "generated": "2025-05-22T01:33:45Z"
       }
     }
   }
