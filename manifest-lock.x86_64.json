@@ -733,7 +733,7 @@
       }
     },
     "fwupd": {
-      "evra": "2.0.9-1.fc42.x86_64",
+      "evra": "2.0.10-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "fwupd"
       }
@@ -787,7 +787,7 @@
       }
     },
     "glib2": {
-      "evra": "2.84.1-1.fc42.x86_64",
+      "evra": "2.84.2-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "glib2"
       }
@@ -949,37 +949,37 @@
       }
     },
     "iptables-legacy": {
-      "evra": "1.8.11-7.fc42.x86_64",
+      "evra": "1.8.11-8.fc42.x86_64",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-legacy-libs": {
-      "evra": "1.8.11-7.fc42.x86_64",
+      "evra": "1.8.11-8.fc42.x86_64",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-libs": {
-      "evra": "1.8.11-7.fc42.x86_64",
+      "evra": "1.8.11-8.fc42.x86_64",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-nft": {
-      "evra": "1.8.11-7.fc42.x86_64",
+      "evra": "1.8.11-8.fc42.x86_64",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-services": {
-      "evra": "1.8.11-7.fc42.noarch",
+      "evra": "1.8.11-8.fc42.noarch",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-utils": {
-      "evra": "1.8.11-7.fc42.x86_64",
+      "evra": "1.8.11-8.fc42.x86_64",
       "metadata": {
         "sourcerpm": "iptables"
       }
@@ -2209,13 +2209,13 @@
       }
     },
     "rpm-ostree": {
-      "evra": "2025.7-2.fc42.x86_64",
+      "evra": "2025.8-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "rpm-ostree"
       }
     },
     "rpm-ostree-libs": {
-      "evra": "2025.7-2.fc42.x86_64",
+      "evra": "2025.8-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "rpm-ostree"
       }
@@ -2654,16 +2654,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-05-22T00:00:00Z",
+    "generated": "2025-05-23T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-05-20T17:46:25Z"
+        "generated": "2025-05-22T15:34:57Z"
       },
       "fedora-updates": {
-        "generated": "2025-05-22T01:33:48Z"
+        "generated": "2025-05-23T03:20:40Z"
       }
     }
   }
