@@ -1075,7 +1075,7 @@
       }
     },
     "kexec-tools": {
-      "evra": "2.0.31-1.fc42.aarch64",
+      "evra": "2.0.31-2.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kexec-tools"
       }
@@ -1147,7 +1147,7 @@
       }
     },
     "libatomic": {
-      "evra": "15.1.1-1.fc42.aarch64",
+      "evra": "15.1.1-2.fc42.aarch64",
       "metadata": {
         "sourcerpm": "gcc"
       }
@@ -1285,7 +1285,7 @@
       }
     },
     "libgcc": {
-      "evra": "15.1.1-1.fc42.aarch64",
+      "evra": "15.1.1-2.fc42.aarch64",
       "metadata": {
         "sourcerpm": "gcc"
       }
@@ -1615,7 +1615,7 @@
       }
     },
     "libstdc++": {
-      "evra": "15.1.1-1.fc42.aarch64",
+      "evra": "15.1.1-2.fc42.aarch64",
       "metadata": {
         "sourcerpm": "gcc"
       }
@@ -2642,16 +2642,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-05-23T00:00:00Z",
+    "generated": "2025-05-26T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-05-22T15:34:56Z"
+        "generated": "2025-05-25T15:58:53Z"
       },
       "fedora-updates": {
-        "generated": "2025-05-23T03:20:29Z"
+        "generated": "2025-05-26T01:23:44Z"
       }
     }
   }
