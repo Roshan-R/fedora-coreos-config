@@ -355,13 +355,13 @@
       }
     },
     "coreutils": {
-      "evra": "9.6-3.fc42.ppc64le",
+      "evra": "9.6-4.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "coreutils"
       }
     },
     "coreutils-common": {
-      "evra": "9.6-3.fc42.ppc64le",
+      "evra": "9.6-4.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "coreutils"
       }
@@ -1861,7 +1861,7 @@
       }
     },
     "netavark": {
-      "evra": "2:1.15.0-1.fc42.ppc64le",
+      "evra": "2:1.15.1-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "netavark"
       }
@@ -2618,16 +2618,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-05-29T00:00:00Z",
+    "generated": "2025-05-30T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-05-28T16:46:12Z"
+        "generated": "2025-05-29T07:17:35Z"
       },
       "fedora-updates": {
-        "generated": "2025-05-29T02:41:26Z"
+        "generated": "2025-05-30T01:07:14Z"
       }
     }
   }
