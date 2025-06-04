@@ -319,7 +319,7 @@
       }
     },
     "container-selinux": {
-      "evra": "4:2.237.0-1.fc42.noarch",
+      "evra": "4:2.238.0-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "container-selinux"
       }
@@ -343,13 +343,13 @@
       }
     },
     "coreos-installer": {
-      "evra": "0.24.0-1.fc42.x86_64",
+      "evra": "0.24.0-2.fc42.x86_64",
       "metadata": {
         "sourcerpm": "rust-coreos-installer"
       }
     },
     "coreos-installer-bootinfra": {
-      "evra": "0.24.0-1.fc42.x86_64",
+      "evra": "0.24.0-2.fc42.x86_64",
       "metadata": {
         "sourcerpm": "rust-coreos-installer"
       }
@@ -2654,16 +2654,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-06-01T00:00:00Z",
+    "generated": "2025-06-04T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-05-31T16:30:24Z"
+        "generated": "2025-06-01T16:36:00Z"
       },
       "fedora-updates": {
-        "generated": "2025-06-01T01:12:31Z"
+        "generated": "2025-06-04T02:06:09Z"
       }
     }
   }
