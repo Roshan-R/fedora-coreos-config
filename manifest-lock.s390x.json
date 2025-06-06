@@ -703,7 +703,7 @@
       }
     },
     "fwupd": {
-      "evra": "2.0.10-1.fc42.s390x",
+      "evra": "2.0.11-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "fwupd"
       }
@@ -811,7 +811,7 @@
       }
     },
     "hwdata": {
-      "evra": "0.395-1.fc42.noarch",
+      "evra": "0.396-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "hwdata"
       }
@@ -1447,19 +1447,19 @@
       }
     },
     "libselinux": {
-      "evra": "3.8-1.fc42.s390x",
+      "evra": "3.8-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "libselinux"
       }
     },
     "libselinux-utils": {
-      "evra": "3.8-1.fc42.s390x",
+      "evra": "3.8-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "libselinux"
       }
     },
     "libsemanage": {
-      "evra": "3.8-1.fc42.s390x",
+      "evra": "3.8.1-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "libsemanage"
       }
@@ -1807,7 +1807,7 @@
       }
     },
     "nmstate": {
-      "evra": "2.2.44-1.fc42.s390x",
+      "evra": "2.2.45-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "nmstate"
       }
@@ -2191,7 +2191,7 @@
       }
     },
     "skopeo": {
-      "evra": "1:1.18.0-1.fc42.s390x",
+      "evra": "1:1.19.0-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "skopeo"
       }
@@ -2510,16 +2510,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-06-04T00:00:00Z",
+    "generated": "2025-06-06T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-06-01T16:31:44Z"
+        "generated": "2025-06-05T15:09:35Z"
       },
       "fedora-updates": {
-        "generated": "2025-06-04T02:06:05Z"
+        "generated": "2025-06-06T01:39:56Z"
       }
     }
   }
