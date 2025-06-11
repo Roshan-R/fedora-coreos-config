@@ -1993,13 +1993,13 @@
       }
     },
     "polkit": {
-      "evra": "126-3.fc42.s390x",
+      "evra": "126-3.fc42.1.s390x",
       "metadata": {
         "sourcerpm": "polkit"
       }
     },
     "polkit-libs": {
-      "evra": "126-3.fc42.s390x",
+      "evra": "126-3.fc42.1.s390x",
       "metadata": {
         "sourcerpm": "polkit"
       }
@@ -2510,16 +2510,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-06-09T00:00:00Z",
+    "generated": "2025-06-11T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-06-08T07:28:55Z"
+        "generated": "2025-06-09T07:34:12Z"
       },
       "fedora-updates": {
-        "generated": "2025-06-09T02:30:48Z"
+        "generated": "2025-06-11T02:31:27Z"
       }
     }
   }

@@ -2137,13 +2137,13 @@
       }
     },
     "polkit": {
-      "evra": "126-3.fc42.x86_64",
+      "evra": "126-3.fc42.1.x86_64",
       "metadata": {
         "sourcerpm": "polkit"
       }
     },
     "polkit-libs": {
-      "evra": "126-3.fc42.x86_64",
+      "evra": "126-3.fc42.1.x86_64",
       "metadata": {
         "sourcerpm": "polkit"
       }
@@ -2654,16 +2654,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-06-09T00:00:00Z",
+    "generated": "2025-06-11T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-06-08T07:32:53Z"
+        "generated": "2025-06-09T07:38:09Z"
       },
       "fedora-updates": {
-        "generated": "2025-06-09T02:30:52Z"
+        "generated": "2025-06-11T02:31:31Z"
       }
     }
   }
