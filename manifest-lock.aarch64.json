@@ -223,7 +223,7 @@
       }
     },
     "chrony": {
-      "evra": "4.6.1-2.fc42.aarch64",
+      "evra": "4.7-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "chrony"
       }
@@ -1051,25 +1051,25 @@
       }
     },
     "kernel": {
-      "evra": "6.14.9-300.fc42.aarch64",
+      "evra": "6.14.11-300.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.14.9-300.fc42.aarch64",
+      "evra": "6.14.11-300.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.14.9-300.fc42.aarch64",
+      "evra": "6.14.11-300.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.14.9-300.fc42.aarch64",
+      "evra": "6.14.11-300.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -1249,7 +1249,7 @@
       }
     },
     "libeconf": {
-      "evra": "0.7.6-1.fc42.aarch64",
+      "evra": "0.7.6-2.fc42.aarch64",
       "metadata": {
         "sourcerpm": "libeconf"
       }
@@ -1435,7 +1435,7 @@
       }
     },
     "libnfsidmap": {
-      "evra": "1:2.8.3-1.rc2.fc42.aarch64",
+      "evra": "1:2.8.3-2.rc2.fc42.aarch64",
       "metadata": {
         "sourcerpm": "nfs-utils"
       }
@@ -1579,7 +1579,7 @@
       }
     },
     "libsolv": {
-      "evra": "0.7.32-4.fc42.aarch64",
+      "evra": "0.7.33-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "libsolv"
       }
@@ -1909,7 +1909,7 @@
       }
     },
     "nfs-utils-coreos": {
-      "evra": "1:2.8.3-1.rc2.fc42.aarch64",
+      "evra": "1:2.8.3-2.rc2.fc42.aarch64",
       "metadata": {
         "sourcerpm": "nfs-utils"
       }
@@ -2047,13 +2047,13 @@
       }
     },
     "passt": {
-      "evra": "0^20250606.g754c6d7-1.fc42.aarch64",
+      "evra": "0^20250611.g0293c6f-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "passt"
       }
     },
     "passt-selinux": {
-      "evra": "0^20250606.g754c6d7-1.fc42.noarch",
+      "evra": "0^20250611.g0293c6f-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "passt"
       }
@@ -2642,16 +2642,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-06-14T00:00:00Z",
+    "generated": "2025-06-17T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-06-13T16:23:51Z"
+        "generated": "2025-06-16T16:55:17Z"
       },
       "fedora-updates": {
-        "generated": "2025-06-14T01:06:08Z"
+        "generated": "2025-06-17T01:25:42Z"
       }
     }
   }
