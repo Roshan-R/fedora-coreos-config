@@ -769,25 +769,25 @@
       }
     },
     "glibc": {
-      "evra": "2.41-5.fc42.ppc64le",
+      "evra": "2.41-6.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-common": {
-      "evra": "2.41-5.fc42.ppc64le",
+      "evra": "2.41-6.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-gconv-extra": {
-      "evra": "2.41-5.fc42.ppc64le",
+      "evra": "2.41-6.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-minimal-langpack": {
-      "evra": "2.41-5.fc42.ppc64le",
+      "evra": "2.41-6.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "glibc"
       }
@@ -823,31 +823,31 @@
       }
     },
     "grub2-common": {
-      "evra": "1:2.12-28.fc42.noarch",
+      "evra": "1:2.12-32.fc42.noarch",
       "metadata": {
         "sourcerpm": "grub2"
       }
     },
     "grub2-ppc64le": {
-      "evra": "1:2.12-28.fc42.ppc64le",
+      "evra": "1:2.12-32.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "grub2"
       }
     },
     "grub2-ppc64le-modules": {
-      "evra": "1:2.12-28.fc42.noarch",
+      "evra": "1:2.12-32.fc42.noarch",
       "metadata": {
         "sourcerpm": "grub2"
       }
     },
     "grub2-tools": {
-      "evra": "1:2.12-28.fc42.ppc64le",
+      "evra": "1:2.12-32.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "grub2"
       }
     },
     "grub2-tools-minimal": {
-      "evra": "1:2.12-28.fc42.ppc64le",
+      "evra": "1:2.12-32.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "grub2"
       }
@@ -1381,7 +1381,7 @@
       }
     },
     "libmodulemd": {
-      "evra": "2.15.1-1.fc42.ppc64le",
+      "evra": "2.15.2-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "libmodulemd"
       }
@@ -2005,13 +2005,13 @@
       }
     },
     "pam": {
-      "evra": "1.7.0-5.fc42.ppc64le",
+      "evra": "1.7.0-6.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "pam"
       }
     },
     "pam-libs": {
-      "evra": "1.7.0-5.fc42.ppc64le",
+      "evra": "1.7.0-6.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "pam"
       }
@@ -2185,13 +2185,13 @@
       }
     },
     "rpm-ostree": {
-      "evra": "2025.8-1.fc42.ppc64le",
+      "evra": "2025.8-2.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "rpm-ostree"
       }
     },
     "rpm-ostree-libs": {
-      "evra": "2025.8-1.fc42.ppc64le",
+      "evra": "2025.8-2.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "rpm-ostree"
       }
@@ -2545,7 +2545,7 @@
       }
     },
     "which": {
-      "evra": "2.23-1.fc42.ppc64le",
+      "evra": "2.23-2.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "which"
       }
@@ -2618,16 +2618,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-06-19T00:00:00Z",
+    "generated": "2025-06-21T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-06-17T07:24:17Z"
+        "generated": "2025-06-20T17:10:07Z"
       },
       "fedora-updates": {
-        "generated": "2025-06-19T01:49:08Z"
+        "generated": "2025-06-21T01:21:44Z"
       }
     }
   }
