@@ -73,7 +73,7 @@
       }
     },
     "amd-gpu-firmware": {
-      "evra": "20250509-1.fc42.noarch",
+      "evra": "20250613-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -85,19 +85,19 @@
       }
     },
     "audit": {
-      "evra": "4.0.3-2.fc42.aarch64",
+      "evra": "4.0.5-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "audit"
       }
     },
     "audit-libs": {
-      "evra": "4.0.3-2.fc42.aarch64",
+      "evra": "4.0.5-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "audit"
       }
     },
     "audit-rules": {
-      "evra": "4.0.3-2.fc42.aarch64",
+      "evra": "4.0.5-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "audit"
       }
@@ -787,25 +787,25 @@
       }
     },
     "glibc": {
-      "evra": "2.41-6.fc42.aarch64",
+      "evra": "2.41-5.fc42.aarch64",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-common": {
-      "evra": "2.41-6.fc42.aarch64",
+      "evra": "2.41-5.fc42.aarch64",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-gconv-extra": {
-      "evra": "2.41-6.fc42.aarch64",
+      "evra": "2.41-5.fc42.aarch64",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-minimal-langpack": {
-      "evra": "2.41-6.fc42.aarch64",
+      "evra": "2.41-5.fc42.aarch64",
       "metadata": {
         "sourcerpm": "glibc"
       }
@@ -907,7 +907,7 @@
       }
     },
     "intel-gpu-firmware": {
-      "evra": "20250509-1.fc42.noarch",
+      "evra": "20250613-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -1051,25 +1051,25 @@
       }
     },
     "kernel": {
-      "evra": "6.14.11-300.fc42.aarch64",
+      "evra": "6.15.3-200.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.14.11-300.fc42.aarch64",
+      "evra": "6.15.3-200.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.14.11-300.fc42.aarch64",
+      "evra": "6.15.3-200.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.14.11-300.fc42.aarch64",
+      "evra": "6.15.3-200.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -1741,13 +1741,13 @@
       }
     },
     "linux-firmware": {
-      "evra": "20250509-1.fc42.noarch",
+      "evra": "20250613-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
     },
     "linux-firmware-whence": {
-      "evra": "20250509-1.fc42.noarch",
+      "evra": "20250613-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -1945,7 +1945,7 @@
       }
     },
     "nvidia-gpu-firmware": {
-      "evra": "20250509-1.fc42.noarch",
+      "evra": "20250613-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -2161,7 +2161,7 @@
       }
     },
     "qed-firmware": {
-      "evra": "20250509-1.fc42.noarch",
+      "evra": "20250613-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -2263,13 +2263,13 @@
       }
     },
     "selinux-policy": {
-      "evra": "41.43-1.fc42.noarch",
+      "evra": "41.44-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
     },
     "selinux-policy-targeted": {
-      "evra": "41.43-1.fc42.noarch",
+      "evra": "41.44-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
@@ -2642,16 +2642,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-06-23T00:00:00Z",
+    "generated": "2025-06-25T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-06-21T18:47:31Z"
+        "generated": "2025-06-23T16:38:55Z"
       },
       "fedora-updates": {
-        "generated": "2025-06-23T00:49:02Z"
+        "generated": "2025-06-25T01:10:10Z"
       }
     }
   }
