@@ -85,19 +85,19 @@
       }
     },
     "audit": {
-      "evra": "4.0.5-1.fc42.s390x",
+      "evra": "4.0.5-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "audit"
       }
     },
     "audit-libs": {
-      "evra": "4.0.5-1.fc42.s390x",
+      "evra": "4.0.5-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "audit"
       }
     },
     "audit-rules": {
-      "evra": "4.0.5-1.fc42.s390x",
+      "evra": "4.0.5-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "audit"
       }
@@ -511,7 +511,7 @@
       }
     },
     "docker-cli": {
-      "evra": "28.2.2-1.fc42.s390x",
+      "evra": "28.3.0-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "moby-engine"
       }
@@ -1723,13 +1723,13 @@
       }
     },
     "moby-engine": {
-      "evra": "28.2.2-1.fc42.s390x",
+      "evra": "28.3.0-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "moby-engine"
       }
     },
     "moby-filesystem": {
-      "evra": "28.2.2-1.fc42.noarch",
+      "evra": "28.3.0-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "moby-engine"
       }
@@ -1933,13 +1933,13 @@
       }
     },
     "pciutils": {
-      "evra": "3.13.0-7.fc42.s390x",
+      "evra": "3.14.0-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "pciutils"
       }
     },
     "pciutils-libs": {
-      "evra": "3.13.0-7.fc42.s390x",
+      "evra": "3.14.0-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "pciutils"
       }
@@ -2510,16 +2510,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-06-27T00:00:00Z",
+    "generated": "2025-06-28T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-06-27T02:24:57Z"
+        "generated": "2025-06-27T16:00:13Z"
       },
       "fedora-updates": {
-        "generated": "2025-06-27T01:12:30Z"
+        "generated": "2025-06-28T01:06:18Z"
       }
     }
   }
