@@ -385,7 +385,7 @@
       }
     },
     "crun": {
-      "evra": "1.21-1.fc42.s390x",
+      "evra": "1.22-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "crun"
       }
@@ -1351,7 +1351,7 @@
       }
     },
     "libnfsidmap": {
-      "evra": "1:2.8.3-2.rc2.fc42.s390x",
+      "evra": "1:2.8.3-2.rc3.fc42.s390x",
       "metadata": {
         "sourcerpm": "nfs-utils"
       }
@@ -1795,7 +1795,7 @@
       }
     },
     "nfs-utils-coreos": {
-      "evra": "1:2.8.3-2.rc2.fc42.s390x",
+      "evra": "1:2.8.3-2.rc3.fc42.s390x",
       "metadata": {
         "sourcerpm": "nfs-utils"
       }
@@ -2305,49 +2305,49 @@
       }
     },
     "systemd": {
-      "evra": "257.6-1.fc42.s390x",
+      "evra": "257.7-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-container": {
-      "evra": "257.6-1.fc42.s390x",
+      "evra": "257.7-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-libs": {
-      "evra": "257.6-1.fc42.s390x",
+      "evra": "257.7-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-pam": {
-      "evra": "257.6-1.fc42.s390x",
+      "evra": "257.7-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-resolved": {
-      "evra": "257.6-1.fc42.s390x",
+      "evra": "257.7-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-shared": {
-      "evra": "257.6-1.fc42.s390x",
+      "evra": "257.7-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-sysusers": {
-      "evra": "257.6-1.fc42.s390x",
+      "evra": "257.7-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-udev": {
-      "evra": "257.6-1.fc42.s390x",
+      "evra": "257.7-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "systemd"
       }
@@ -2425,13 +2425,13 @@
       }
     },
     "vim-data": {
-      "evra": "2:9.1.1435-1.fc42.noarch",
+      "evra": "2:9.1.1484-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "vim"
       }
     },
     "vim-minimal": {
-      "evra": "2:9.1.1435-1.fc42.s390x",
+      "evra": "2:9.1.1484-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "vim"
       }
@@ -2510,16 +2510,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-06-28T00:00:00Z",
+    "generated": "2025-06-29T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-06-27T16:00:13Z"
+        "generated": "2025-06-29T16:20:29Z"
       },
       "fedora-updates": {
-        "generated": "2025-06-28T01:06:18Z"
+        "generated": "2025-06-29T00:59:34Z"
       }
     }
   }
