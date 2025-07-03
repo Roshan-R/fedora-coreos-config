@@ -73,7 +73,7 @@
       }
     },
     "amd-gpu-firmware": {
-      "evra": "20250613-1.fc42.noarch",
+      "evra": "20250627-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -889,7 +889,7 @@
       }
     },
     "intel-gpu-firmware": {
-      "evra": "20250613-1.fc42.noarch",
+      "evra": "20250627-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -1033,25 +1033,25 @@
       }
     },
     "kernel": {
-      "evra": "6.15.3-200.fc42.ppc64le",
+      "evra": "6.15.4-200.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.15.3-200.fc42.ppc64le",
+      "evra": "6.15.4-200.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.15.3-200.fc42.ppc64le",
+      "evra": "6.15.4-200.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.15.3-200.fc42.ppc64le",
+      "evra": "6.15.4-200.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -1729,13 +1729,13 @@
       }
     },
     "linux-firmware": {
-      "evra": "20250613-1.fc42.noarch",
+      "evra": "20250627-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
     },
     "linux-firmware-whence": {
-      "evra": "20250613-1.fc42.noarch",
+      "evra": "20250627-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -1915,7 +1915,7 @@
       }
     },
     "nvidia-gpu-firmware": {
-      "evra": "20250613-1.fc42.noarch",
+      "evra": "20250627-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -2149,7 +2149,7 @@
       }
     },
     "qed-firmware": {
-      "evra": "20250613-1.fc42.noarch",
+      "evra": "20250627-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -2618,16 +2618,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-06-29T00:00:00Z",
+    "generated": "2025-07-03T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-06-29T16:21:37Z"
+        "generated": "2025-06-29T21:11:37Z"
       },
       "fedora-updates": {
-        "generated": "2025-06-29T00:59:29Z"
+        "generated": "2025-06-30T02:16:32Z"
       }
     }
   }
