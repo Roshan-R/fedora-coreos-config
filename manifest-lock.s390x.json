@@ -811,7 +811,7 @@
       }
     },
     "hwdata": {
-      "evra": "0.396-1.fc42.noarch",
+      "evra": "0.397-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "hwdata"
       }
@@ -2299,7 +2299,7 @@
       }
     },
     "sudo": {
-      "evra": "1.9.15-7.p5.fc42.s390x",
+      "evra": "1.9.17-2.p1.fc42.s390x",
       "metadata": {
         "sourcerpm": "sudo"
       }
@@ -2510,16 +2510,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-07-05T00:00:00Z",
+    "generated": "2025-07-06T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-07-03T15:50:48Z"
+        "generated": "2025-07-06T02:10:21Z"
       },
       "fedora-updates": {
-        "generated": "2025-07-05T01:59:48Z"
+        "generated": "2025-07-06T01:06:55Z"
       }
     }
   }
