@@ -1567,7 +1567,7 @@
       }
     },
     "libsolv": {
-      "evra": "0.7.33-1.fc42.ppc64le",
+      "evra": "0.7.34-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "libsolv"
       }
@@ -2618,16 +2618,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-07-14T00:00:00Z",
+    "generated": "2025-07-15T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-07-14T20:31:39Z"
+        "generated": "2025-07-15T02:24:31Z"
       },
       "fedora-updates": {
-        "generated": "2025-07-14T01:49:42Z"
+        "generated": "2025-07-15T02:02:34Z"
       }
     }
   }
