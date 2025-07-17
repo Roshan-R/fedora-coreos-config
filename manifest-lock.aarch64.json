@@ -889,13 +889,13 @@
       }
     },
     "ignition": {
-      "evra": "2.22.0-1.fc42.aarch64",
+      "evra": "2.22.0-2.fc42.aarch64",
       "metadata": {
         "sourcerpm": "ignition"
       }
     },
     "ignition-grub": {
-      "evra": "2.22.0-1.fc42.aarch64",
+      "evra": "2.22.0-2.fc42.aarch64",
       "metadata": {
         "sourcerpm": "ignition"
       }
@@ -1051,25 +1051,25 @@
       }
     },
     "kernel": {
-      "evra": "6.15.5-200.fc42.aarch64",
+      "evra": "6.15.6-200.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.15.5-200.fc42.aarch64",
+      "evra": "6.15.6-200.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.15.5-200.fc42.aarch64",
+      "evra": "6.15.6-200.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.15.5-200.fc42.aarch64",
+      "evra": "6.15.6-200.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -1698,12 +1698,6 @@
         "sourcerpm": "libverto"
       }
     },
-    "libwayland-client": {
-      "evra": "1.23.1-1.fc42.aarch64",
-      "metadata": {
-        "sourcerpm": "wayland"
-      }
-    },
     "libwbclient": {
       "evra": "2:4.22.3-2.fc42.aarch64",
       "metadata": {
@@ -1987,13 +1981,13 @@
       }
     },
     "openssl": {
-      "evra": "1:3.2.4-3.fc42.aarch64",
+      "evra": "1:3.2.4-4.fc42.aarch64",
       "metadata": {
         "sourcerpm": "openssl"
       }
     },
     "openssl-libs": {
-      "evra": "1:3.2.4-3.fc42.aarch64",
+      "evra": "1:3.2.4-4.fc42.aarch64",
       "metadata": {
         "sourcerpm": "openssl"
       }
@@ -2005,13 +1999,13 @@
       }
     },
     "ostree": {
-      "evra": "2025.2-2.fc42.aarch64",
+      "evra": "2025.3-2.fc42.aarch64",
       "metadata": {
         "sourcerpm": "ostree"
       }
     },
     "ostree-libs": {
-      "evra": "2025.2-2.fc42.aarch64",
+      "evra": "2025.3-2.fc42.aarch64",
       "metadata": {
         "sourcerpm": "ostree"
       }
@@ -2551,13 +2545,13 @@
       }
     },
     "vim-data": {
-      "evra": "2:9.1.1537-1.fc42.noarch",
+      "evra": "2:9.1.1552-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "vim"
       }
     },
     "vim-minimal": {
-      "evra": "2:9.1.1537-1.fc42.aarch64",
+      "evra": "2:9.1.1552-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "vim"
       }
@@ -2642,16 +2636,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-07-15T00:00:00Z",
+    "generated": "2025-07-17T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-07-15T02:28:15Z"
+        "generated": "2025-07-16T18:35:24Z"
       },
       "fedora-updates": {
-        "generated": "2025-07-15T02:02:31Z"
+        "generated": "2025-07-17T01:23:00Z"
       }
     }
   }
