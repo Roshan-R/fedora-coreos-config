@@ -1,31 +1,31 @@
 {
   "packages": {
     "NetworkManager": {
-      "evra": "1:1.52.0-1.fc42.ppc64le",
+      "evra": "1:1.52.1-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "NetworkManager"
       }
     },
     "NetworkManager-cloud-setup": {
-      "evra": "1:1.52.0-1.fc42.ppc64le",
+      "evra": "1:1.52.1-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "NetworkManager"
       }
     },
     "NetworkManager-libnm": {
-      "evra": "1:1.52.0-1.fc42.ppc64le",
+      "evra": "1:1.52.1-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "NetworkManager"
       }
     },
     "NetworkManager-team": {
-      "evra": "1:1.52.0-1.fc42.ppc64le",
+      "evra": "1:1.52.1-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "NetworkManager"
       }
     },
     "NetworkManager-tui": {
-      "evra": "1:1.52.0-1.fc42.ppc64le",
+      "evra": "1:1.52.1-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "NetworkManager"
       }
@@ -517,7 +517,7 @@
       }
     },
     "docker-cli": {
-      "evra": "28.3.0-1.fc42.ppc64le",
+      "evra": "28.3.2-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "moby-engine"
       }
@@ -1801,13 +1801,13 @@
       }
     },
     "moby-engine": {
-      "evra": "28.3.0-1.fc42.ppc64le",
+      "evra": "28.3.2-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "moby-engine"
       }
     },
     "moby-filesystem": {
-      "evra": "28.3.0-1.fc42.noarch",
+      "evra": "28.3.2-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "moby-engine"
       }
@@ -2179,13 +2179,13 @@
       }
     },
     "rpm-ostree": {
-      "evra": "2025.8-2.fc42.ppc64le",
+      "evra": "2025.9-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "rpm-ostree"
       }
     },
     "rpm-ostree-libs": {
-      "evra": "2025.8-2.fc42.ppc64le",
+      "evra": "2025.9-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "rpm-ostree"
       }
@@ -2612,16 +2612,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-07-18T00:00:00Z",
+    "generated": "2025-07-21T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-07-17T19:21:04Z"
+        "generated": "2025-07-20T07:25:02Z"
       },
       "fedora-updates": {
-        "generated": "2025-07-18T01:01:40Z"
+        "generated": "2025-07-21T00:57:31Z"
       }
     }
   }
