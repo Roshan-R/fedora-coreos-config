@@ -2137,13 +2137,13 @@
       }
     },
     "selinux-policy": {
-      "evra": "41.45-1.fc42.noarch",
+      "evra": "42.1-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
     },
     "selinux-policy-targeted": {
-      "evra": "41.45-1.fc42.noarch",
+      "evra": "42.1-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
@@ -2504,16 +2504,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-07-21T00:00:00Z",
+    "generated": "2025-07-22T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-07-20T07:24:35Z"
+        "generated": "2025-07-21T13:24:24Z"
       },
       "fedora-updates": {
-        "generated": "2025-07-21T00:57:33Z"
+        "generated": "2025-07-22T01:03:52Z"
       }
     }
   }
