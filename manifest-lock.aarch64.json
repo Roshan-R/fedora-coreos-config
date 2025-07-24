@@ -727,7 +727,7 @@
       }
     },
     "fwupd": {
-      "evra": "2.0.12-1.fc42.aarch64",
+      "evra": "2.0.13-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "fwupd"
       }
@@ -2636,7 +2636,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-07-23T00:00:00Z",
+    "generated": "2025-07-24T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
@@ -2645,7 +2645,7 @@
         "generated": "2025-07-22T07:10:14Z"
       },
       "fedora-updates": {
-        "generated": "2025-07-23T00:51:02Z"
+        "generated": "2025-07-24T01:11:10Z"
       }
     }
   }

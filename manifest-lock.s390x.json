@@ -703,7 +703,7 @@
       }
     },
     "fwupd": {
-      "evra": "2.0.12-1.fc42.s390x",
+      "evra": "2.0.13-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "fwupd"
       }
@@ -2504,7 +2504,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-07-23T00:00:00Z",
+    "generated": "2025-07-24T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
@@ -2513,7 +2513,7 @@
         "generated": "2025-07-22T07:08:29Z"
       },
       "fedora-updates": {
-        "generated": "2025-07-23T00:51:07Z"
+        "generated": "2025-07-24T01:11:16Z"
       }
     }
   }
