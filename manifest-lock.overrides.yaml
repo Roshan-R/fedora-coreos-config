@@ -10,33 +10,50 @@
 
 packages:
   afterburn:
-    evr: 5.8.2-1.fc42
+    evr: 5.9.0-1.fc42
     metadata:
-      bodhi: https://bodhi.fedoraproject.org/updates/FEDORA-2025-a6b3188e64
+      bodhi: https://bodhi.fedoraproject.org/updates/FEDORA-2025-6fc5d75066
       type: fast-track
   afterburn-dracut:
-    evr: 5.8.2-1.fc42
+    evr: 5.9.0-1.fc42
     metadata:
-      bodhi: https://bodhi.fedoraproject.org/updates/FEDORA-2025-a6b3188e64
+      bodhi: https://bodhi.fedoraproject.org/updates/FEDORA-2025-6fc5d75066
       type: fast-track
-  dnf5:
-    evr: 5.2.11.0-1.fc42
+  dracut:
+    evr: 107-1.fc42
     metadata:
-      reason: https://github.com/coreos/fedora-coreos-tracker/issues/1896
-      type: pin
-  libdnf5:
-    evr: 5.2.11.0-1.fc42
+      bodhi: https://bodhi.fedoraproject.org/updates/FEDORA-2025-22f93702f0
+      reason: https://github.com/coreos/fedora-coreos-tracker/issues/1937
+      type: fast-track
+  dracut-network:
+    evr: 107-1.fc42
     metadata:
-      reason: https://github.com/coreos/fedora-coreos-tracker/issues/1896
-      type: pin
-  libdnf5-cli:
-    evr: 5.2.11.0-1.fc42
+      bodhi: https://bodhi.fedoraproject.org/updates/FEDORA-2025-22f93702f0
+      reason: https://github.com/coreos/fedora-coreos-tracker/issues/1937
+      type: fast-track
+  dracut-squash:
+    evr: 107-1.fc42
     metadata:
-      reason: https://github.com/coreos/fedora-coreos-tracker/issues/1896
-      type: pin
-  zincati:
-    evr: 0.0.30-3.fc42
+      bodhi: https://bodhi.fedoraproject.org/updates/FEDORA-2025-22f93702f0
+      reason: https://github.com/coreos/fedora-coreos-tracker/issues/1937
+      type: fast-track
+  ignition:
+    evr: 2.22.0-3.fc42
     metadata:
-      bodhi: https://bodhi.fedoraproject.org/updates/FEDORA-2025-cf818c6cfe
-      reason: https://github.com/coreos/fedora-coreos-tracker/issues/1938
+      bodhi: https://bodhi.fedoraproject.org/updates/FEDORA-2025-a964758fd9
+      type: fast-track
+  ignition-grub:
+    evr: 2.22.0-3.fc42
+    metadata:
+      bodhi: https://bodhi.fedoraproject.org/updates/FEDORA-2025-a964758fd9
+      type: fast-track
+  rpm-ostree:
+    evr: 2025.9-1.fc42
+    metadata:
+      bodhi: https://bodhi.fedoraproject.org/updates/FEDORA-2025-8483072651
+      type: fast-track
+  rpm-ostree-libs:
+    evr: 2025.9-1.fc42
+    metadata:
+      bodhi: https://bodhi.fedoraproject.org/updates/FEDORA-2025-8483072651
       type: fast-track

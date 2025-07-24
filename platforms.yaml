@@ -14,6 +14,16 @@
 #
 # All architectures, platforms, and fields are optional.
 aarch64:
+  # https://github.com/crc-org/vfkit/pull/323/files
+  # XXX update the above link to actual docs when it merges
+  applehv:
+    grub_commands:
+      - serial --speed=115200
+      - terminal_input serial console
+      - terminal_output serial console
+    kernel_arguments:
+      - console=tty0
+      - console=hvc0
   aws:
     # https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/connect-to-serial-console.html#sc-considerations
     # It appears there's no screenshot support on ARM
@@ -43,12 +53,12 @@ aarch64:
     kernel_arguments:
       - console=ttyAMA0,115200n8
       - console=tty0
-  packet:
-    # https://metal.equinix.com/developers/docs/resilience-recovery/serial-over-ssh/#limitations
+  oraclecloud:
+    # https://docs.oracle.com/en-us/iaas/Content/Compute/Tasks/enablingserialconsoleaccess.htm
     grub_commands:
       - serial --speed=115200
-      - terminal_input serial
-      - terminal_output serial
+      - terminal_input serial console
+      - terminal_output serial console
     kernel_arguments:
       - console=ttyAMA0,115200
   qemu:
@@ -75,6 +85,16 @@ ppc64le:
       - console=hvc0
       - console=tty0
 x86_64:
+  # https://github.com/crc-org/vfkit/pull/323/files
+  # XXX update the above link to actual docs when it merges
+  applehv:
+    grub_commands:
+      - serial --speed=115200
+      - terminal_input serial console
+      - terminal_output serial console
+    kernel_arguments:
+      - console=tty0
+      - console=hvc0
   aws:
     # https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/connect-to-serial-console.html#sc-considerations
     # https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_GetConsoleScreenshot.html
@@ -138,14 +158,23 @@ x86_64:
     kernel_arguments:
       - console=ttyS0,115200n8
       - console=tty0
-  packet:
-    # https://metal.equinix.com/developers/docs/resilience-recovery/serial-over-ssh/#limitations
+  oraclecloud:
+    # https://docs.oracle.com/en-us/iaas/Content/Compute/Tasks/enablingserialconsoleaccess.htm
     grub_commands:
-      - serial --unit=1 --speed=115200
-      - terminal_input serial
-      - terminal_output serial
+      - serial --speed=115200
+      - terminal_input serial console
+      - terminal_output serial console
     kernel_arguments:
-      - console=ttyS1,115200n8
+      - console=ttyS0,115200
+  proxmoxve:
+    # https://pve.proxmox.com/wiki/Serial_Terminal
+    grub_commands:
+      - serial --speed=115200
+      - terminal_input serial console
+      - terminal_output serial console
+    kernel_arguments:
+      - console=tty0
+      - console=ttyS0,115200n8
   qemu:
     # https://github.com/coreos/fedora-coreos-tracker/issues/954
     grub_commands:

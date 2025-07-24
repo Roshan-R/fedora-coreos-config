@@ -4,16 +4,19 @@
 
 variables:
   id: "fedora"
+  # osversion is unused in Fedora for now, but it's needed because we
+  # do some conditional_includes: which do leverage the osversion
+  # defined in rhcos/scos. When https://github.com/coreos/rpm-ostree/pull/5392
+  # merges we can define this with values from other vars: osversion: "${id}-${releasever}"
+  osversion: "unused"
 
 include:
-  - kernel.yaml
   - system-configuration.yaml
   - ignition-and-ostree.yaml
   - file-transfer.yaml
   - networking-tools.yaml
   - user-experience.yaml
-  - shared-el9.yaml
-  - shared-el10.yaml
+  - shared-el.yaml
   - coreos-bootc-minimal-plus.yaml
 
 ostree-layers:
@@ -31,11 +34,11 @@ ignore-removed-users:
   - root
 ignore-removed-groups:
   - root
+# Add the sudo group to /etc/group
+# This is re-implemented below for the container-native flow. Nuke this once
+# that's the only path we support.
 etc-group-members:
-  - wheel
   - sudo
-  - systemd-journal
-  - adm
 
 check-passwd:
   type: "file"
@@ -43,8 +46,6 @@ check-passwd:
 check-groups:
   type: "file"
   filename: "group"
-
-default-target: multi-user.target
 
 # we can drop this when it's the rpm-ostree default
 rpmdb: sqlite
@@ -55,17 +56,19 @@ postprocess:
   # Enable SELinux booleans used by OpenShift
   # https://github.com/coreos/fedora-coreos-tracker/issues/284
   - |
-    #!/usr/bin/env bash
-    set -xeuo pipefail
+    #!/usr/bin/bash
+    set -eux -o pipefail
     setsebool -P -N container_use_cephfs on  # RHBZ#1692369
     setsebool -P -N virt_use_samba on  # RHBZ#1754825
+    rm -f /etc/selinux/targeted/semanage.*.LOCK
 
   # Mask dnsmasq. We include dnsmasq for host services that use the dnsmasq
   # binary but intentionally mask the systemd service so users can't easily
   # use it as an external dns server. We prefer they use a container for that.
   # https://github.com/coreos/fedora-coreos-tracker/issues/519
   - |
-    #!/usr/bin/env bash
+    #!/usr/bin/bash
+    set -eux -o pipefail
     systemctl mask dnsmasq.service
 
   # Default to iptables-nft. Otherwise, legacy wins. We can drop this once/if we
@@ -73,8 +76,8 @@ postprocess:
   # https://github.com/coreos/fedora-coreos-tracker/issues/677
   # https://github.com/coreos/fedora-coreos-tracker/issues/676
   - |
-    #!/usr/bin/env bash
-    set -xeuo pipefail
+    #!/usr/bin/bash
+    set -eux -o pipefail
     ln -sf /usr/sbin/ip6tables-nft         /etc/alternatives/ip6tables
     ln -sf /usr/sbin/ip6tables-nft-restore /etc/alternatives/ip6tables-restore
     ln -sf /usr/sbin/ip6tables-nft-save    /etc/alternatives/ip6tables-save
@@ -82,21 +85,29 @@ postprocess:
     ln -sf /usr/sbin/iptables-nft-restore  /etc/alternatives/iptables-restore
     ln -sf /usr/sbin/iptables-nft-save     /etc/alternatives/iptables-save
 
-  # Force the ssh-host-keys-migration to happen on every boot
-  # to handle cases where someone did a upgrade->rollback->upgrade
-  # See https://github.com/coreos/fedora-coreos-tracker/issues/1473
-  # We should remove this after the next barrier release.
+  # sudo prefers its config files to be mode 440, and some security scanners
+  # complain if /etc/sudoers.d files are world-readable.
+  # https://bugzilla.redhat.com/show_bug.cgi?id=1981979
+  # This is added by the 05core overlay listed above.
   - |
     #!/usr/bin/env bash
     set -xeuo pipefail
-    mkdir -p /usr/lib/systemd/system/ssh-host-keys-migration.service.d
-    cat <<'EOF' > /usr/lib/systemd/system/ssh-host-keys-migration.service.d/coreos-force-migration-on-every-boot.conf
-    # Force the ssh-host-keys-migration to happen on every boot
-    # to handle cases where someone did a upgrade->rollback->upgrade
-    # See https://github.com/coreos/fedora-coreos-tracker/issues/1473
-    [Unit]
-    ConditionPathExists=
-    EOF
+    chmod 440 /etc/sudoers.d/coreos-sudo-group
+
+  # Set the default systemd target to `multi-user.target`.
+  - |
+    #!/usr/bin/env bash
+    set -xeuo pipefail
+    ln -sf multi-user.target /usr/lib/systemd/system/default.target
+
+  # Add the sudo group to /etc/group in container-native flow.
+  # We can nuke `etc-group-members` once this is the only supported path.
+  - |
+    #!/usr/bin/env bash
+    set -xeuo pipefail
+    if [ -f /run/.containerenv ]; then
+      grep sudo /usr/lib/group >> /etc/group
+    fi
 
 # Packages listed here should be specific to Fedore CoreOS (as in not yet
 # available in RHCOS or not desired in RHCOS). All other packages should go
