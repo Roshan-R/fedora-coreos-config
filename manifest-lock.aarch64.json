@@ -385,13 +385,13 @@
       }
     },
     "crun": {
-      "evra": "1.22-1.fc42.aarch64",
+      "evra": "1.23-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "crun"
       }
     },
     "crun-wasm": {
-      "evra": "1.22-1.fc42.aarch64",
+      "evra": "1.23-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "crun"
       }
@@ -619,19 +619,19 @@
       }
     },
     "fedora-release-common": {
-      "evra": "42-26.noarch",
+      "evra": "42-28.noarch",
       "metadata": {
         "sourcerpm": "fedora-release"
       }
     },
     "fedora-release-coreos": {
-      "evra": "42-26.noarch",
+      "evra": "42-28.noarch",
       "metadata": {
         "sourcerpm": "fedora-release"
       }
     },
     "fedora-release-identity-coreos": {
-      "evra": "42-26.noarch",
+      "evra": "42-28.noarch",
       "metadata": {
         "sourcerpm": "fedora-release"
       }
@@ -787,25 +787,25 @@
       }
     },
     "glibc": {
-      "evra": "2.41-8.fc42.aarch64",
+      "evra": "2.41-9.fc42.aarch64",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-common": {
-      "evra": "2.41-8.fc42.aarch64",
+      "evra": "2.41-9.fc42.aarch64",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-gconv-extra": {
-      "evra": "2.41-8.fc42.aarch64",
+      "evra": "2.41-9.fc42.aarch64",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-minimal-langpack": {
-      "evra": "2.41-8.fc42.aarch64",
+      "evra": "2.41-9.fc42.aarch64",
       "metadata": {
         "sourcerpm": "glibc"
       }
@@ -967,7 +967,7 @@
       }
     },
     "iputils": {
-      "evra": "20240905-4.fc42.aarch64",
+      "evra": "20250602-3.fc42.aarch64",
       "metadata": {
         "sourcerpm": "iputils"
       }
@@ -1471,7 +1471,7 @@
       }
     },
     "libnvme": {
-      "evra": "1.14-1.fc42.aarch64",
+      "evra": "1.15-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "libnvme"
       }
@@ -1945,7 +1945,7 @@
       }
     },
     "nvme-cli": {
-      "evra": "2.14-1.fc42.aarch64",
+      "evra": "2.15-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "nvme-cli"
       }
@@ -2257,13 +2257,13 @@
       }
     },
     "selinux-policy": {
-      "evra": "42.1-1.fc42.noarch",
+      "evra": "42.2-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
     },
     "selinux-policy-targeted": {
-      "evra": "42.1-1.fc42.noarch",
+      "evra": "42.2-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
@@ -2419,7 +2419,7 @@
       }
     },
     "stalld": {
-      "evra": "1.19.8-2.fc42.aarch64",
+      "evra": "1.20.2-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "stalld"
       }
@@ -2636,16 +2636,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-07-24T00:00:00Z",
+    "generated": "2025-07-28T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-07-22T07:10:14Z"
+        "generated": "2025-07-25T18:38:49Z"
       },
       "fedora-updates": {
-        "generated": "2025-07-24T01:11:10Z"
+        "generated": "2025-07-28T01:23:11Z"
       }
     }
   }
