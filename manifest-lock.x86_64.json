@@ -511,7 +511,7 @@
       }
     },
     "dnf5": {
-      "evra": "5.2.13.1-1.fc42.x86_64",
+      "evra": "5.2.15.0-2.fc42.x86_64",
       "metadata": {
         "sourcerpm": "dnf5"
       }
@@ -1243,13 +1243,13 @@
       }
     },
     "libdnf5": {
-      "evra": "5.2.13.1-1.fc42.x86_64",
+      "evra": "5.2.15.0-2.fc42.x86_64",
       "metadata": {
         "sourcerpm": "dnf5"
       }
     },
     "libdnf5-cli": {
-      "evra": "5.2.13.1-1.fc42.x86_64",
+      "evra": "5.2.15.0-2.fc42.x86_64",
       "metadata": {
         "sourcerpm": "dnf5"
       }
@@ -1531,7 +1531,7 @@
       }
     },
     "librepo": {
-      "evra": "1.19.0-3.fc42.x86_64",
+      "evra": "1.20.0-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "librepo"
       }
@@ -2185,7 +2185,7 @@
       }
     },
     "rpcbind": {
-      "evra": "1.2.7-2.rc1.fc42.x86_64",
+      "evra": "1.2.8-0.fc42.x86_64",
       "metadata": {
         "sourcerpm": "rpcbind"
       }
@@ -2269,13 +2269,13 @@
       }
     },
     "selinux-policy": {
-      "evra": "42.2-1.fc42.noarch",
+      "evra": "42.3-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
     },
     "selinux-policy-targeted": {
-      "evra": "42.2-1.fc42.noarch",
+      "evra": "42.3-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
@@ -2648,16 +2648,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-07-30T00:00:00Z",
+    "generated": "2025-07-31T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-07-25T18:38:35Z"
+        "generated": "2025-07-30T15:21:09Z"
       },
       "fedora-updates": {
-        "generated": "2025-07-30T01:11:45Z"
+        "generated": "2025-07-31T00:48:49Z"
       }
     }
   }
