@@ -85,19 +85,19 @@
       }
     },
     "audit": {
-      "evra": "4.0.5-2.fc42.s390x",
+      "evra": "4.1.1-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "audit"
       }
     },
     "audit-libs": {
-      "evra": "4.0.5-2.fc42.s390x",
+      "evra": "4.1.1-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "audit"
       }
     },
     "audit-rules": {
-      "evra": "4.0.5-2.fc42.s390x",
+      "evra": "4.1.1-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "audit"
       }
@@ -523,19 +523,19 @@
       }
     },
     "dracut": {
-      "evra": "107-1.fc42.s390x",
+      "evra": "107-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "dracut"
       }
     },
     "dracut-network": {
-      "evra": "107-1.fc42.s390x",
+      "evra": "107-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "dracut"
       }
     },
     "dracut-squash": {
-      "evra": "107-1.fc42.s390x",
+      "evra": "107-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "dracut"
       }
@@ -643,7 +643,7 @@
       }
     },
     "filesystem": {
-      "evra": "3.18-42.fc42.s390x",
+      "evra": "3.18-47.fc42.s390x",
       "metadata": {
         "sourcerpm": "filesystem"
       }
@@ -2504,16 +2504,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-07-31T00:00:00Z",
+    "generated": "2025-08-01T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-07-30T15:18:33Z"
+        "generated": "2025-07-31T16:08:43Z"
       },
       "fedora-updates": {
-        "generated": "2025-07-31T00:48:47Z"
+        "generated": "2025-08-01T01:09:43Z"
       }
     }
   }

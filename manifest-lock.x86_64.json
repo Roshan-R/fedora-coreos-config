@@ -91,19 +91,19 @@
       }
     },
     "audit": {
-      "evra": "4.0.5-2.fc42.x86_64",
+      "evra": "4.1.1-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "audit"
       }
     },
     "audit-libs": {
-      "evra": "4.0.5-2.fc42.x86_64",
+      "evra": "4.1.1-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "audit"
       }
     },
     "audit-rules": {
-      "evra": "4.0.5-2.fc42.x86_64",
+      "evra": "4.1.1-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "audit"
       }
@@ -535,19 +535,19 @@
       }
     },
     "dracut": {
-      "evra": "107-1.fc42.x86_64",
+      "evra": "107-2.fc42.x86_64",
       "metadata": {
         "sourcerpm": "dracut"
       }
     },
     "dracut-network": {
-      "evra": "107-1.fc42.x86_64",
+      "evra": "107-2.fc42.x86_64",
       "metadata": {
         "sourcerpm": "dracut"
       }
     },
     "dracut-squash": {
-      "evra": "107-1.fc42.x86_64",
+      "evra": "107-2.fc42.x86_64",
       "metadata": {
         "sourcerpm": "dracut"
       }
@@ -673,7 +673,7 @@
       }
     },
     "filesystem": {
-      "evra": "3.18-42.fc42.x86_64",
+      "evra": "3.18-47.fc42.x86_64",
       "metadata": {
         "sourcerpm": "filesystem"
       }
@@ -2648,16 +2648,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-07-31T00:00:00Z",
+    "generated": "2025-08-01T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-07-30T15:21:09Z"
+        "generated": "2025-07-31T16:10:16Z"
       },
       "fedora-updates": {
-        "generated": "2025-07-31T00:48:49Z"
+        "generated": "2025-08-01T01:09:46Z"
       }
     }
   }
