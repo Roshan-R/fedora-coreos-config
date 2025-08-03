@@ -391,13 +391,13 @@
       }
     },
     "crun": {
-      "evra": "1.23-1.fc42.x86_64",
+      "evra": "1.23.1-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "crun"
       }
     },
     "crun-wasm": {
-      "evra": "1.23-1.fc42.x86_64",
+      "evra": "1.23.1-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "crun"
       }
@@ -1483,7 +1483,7 @@
       }
     },
     "libnvme": {
-      "evra": "1.15-1.fc42.x86_64",
+      "evra": "1.15-2.fc42.x86_64",
       "metadata": {
         "sourcerpm": "libnvme"
       }
@@ -2017,13 +2017,13 @@
       }
     },
     "ostree": {
-      "evra": "2025.3-2.fc42.x86_64",
+      "evra": "2025.4-2.fc42.x86_64",
       "metadata": {
         "sourcerpm": "ostree"
       }
     },
     "ostree-libs": {
-      "evra": "2025.3-2.fc42.x86_64",
+      "evra": "2025.4-2.fc42.x86_64",
       "metadata": {
         "sourcerpm": "ostree"
       }
@@ -2648,16 +2648,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-08-01T00:00:00Z",
+    "generated": "2025-08-03T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-07-31T16:10:16Z"
+        "generated": "2025-08-01T16:02:54Z"
       },
       "fedora-updates": {
-        "generated": "2025-08-01T01:09:46Z"
+        "generated": "2025-08-03T01:10:40Z"
       }
     }
   }

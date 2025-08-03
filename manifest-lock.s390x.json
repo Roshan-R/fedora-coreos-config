@@ -385,7 +385,7 @@
       }
     },
     "crun": {
-      "evra": "1.23-1.fc42.s390x",
+      "evra": "1.23.1-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "crun"
       }
@@ -1381,7 +1381,7 @@
       }
     },
     "libnvme": {
-      "evra": "1.15-1.fc42.s390x",
+      "evra": "1.15-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "libnvme"
       }
@@ -1873,13 +1873,13 @@
       }
     },
     "ostree": {
-      "evra": "2025.3-2.fc42.s390x",
+      "evra": "2025.4-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "ostree"
       }
     },
     "ostree-libs": {
-      "evra": "2025.3-2.fc42.s390x",
+      "evra": "2025.4-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "ostree"
       }
@@ -2504,16 +2504,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-08-01T00:00:00Z",
+    "generated": "2025-08-03T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-07-31T16:08:43Z"
+        "generated": "2025-08-01T16:00:23Z"
       },
       "fedora-updates": {
-        "generated": "2025-08-01T01:09:43Z"
+        "generated": "2025-08-03T01:10:37Z"
       }
     }
   }
