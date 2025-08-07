@@ -1687,7 +1687,7 @@
       }
     },
     "libusb1": {
-      "evra": "1.0.28-2.fc42.x86_64",
+      "evra": "1.0.29-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "libusb1"
       }
@@ -2269,13 +2269,13 @@
       }
     },
     "selinux-policy": {
-      "evra": "42.3-1.fc42.noarch",
+      "evra": "42.4-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
     },
     "selinux-policy-targeted": {
-      "evra": "42.3-1.fc42.noarch",
+      "evra": "42.4-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
@@ -2648,7 +2648,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-08-06T00:00:00Z",
+    "generated": "2025-08-07T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:59Z"
@@ -2657,7 +2657,7 @@
         "generated": "2025-08-05T16:00:32Z"
       },
       "fedora-updates": {
-        "generated": "2025-08-06T01:32:14Z"
+        "generated": "2025-08-07T00:48:56Z"
       }
     }
   }
