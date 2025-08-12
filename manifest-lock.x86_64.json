@@ -793,25 +793,25 @@
       }
     },
     "glibc": {
-      "evra": "2.41-9.fc42.x86_64",
+      "evra": "2.41-10.fc42.x86_64",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-common": {
-      "evra": "2.41-9.fc42.x86_64",
+      "evra": "2.41-10.fc42.x86_64",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-gconv-extra": {
-      "evra": "2.41-9.fc42.x86_64",
+      "evra": "2.41-10.fc42.x86_64",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-minimal-langpack": {
-      "evra": "2.41-9.fc42.x86_64",
+      "evra": "2.41-10.fc42.x86_64",
       "metadata": {
         "sourcerpm": "glibc"
       }
@@ -1069,25 +1069,25 @@
       }
     },
     "kernel": {
-      "evra": "6.15.8-200.fc42.x86_64",
+      "evra": "6.15.9-201.fc42.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.15.8-200.fc42.x86_64",
+      "evra": "6.15.9-201.fc42.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.15.8-200.fc42.x86_64",
+      "evra": "6.15.9-201.fc42.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.15.8-200.fc42.x86_64",
+      "evra": "6.15.9-201.fc42.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -1339,7 +1339,7 @@
       }
     },
     "libipa_hbac": {
-      "evra": "2.11.0-1.fc42.x86_64",
+      "evra": "2.11.1-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "sssd"
       }
@@ -1603,25 +1603,25 @@
       }
     },
     "libsss_certmap": {
-      "evra": "2.11.0-1.fc42.x86_64",
+      "evra": "2.11.1-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "sssd"
       }
     },
     "libsss_idmap": {
-      "evra": "2.11.0-1.fc42.x86_64",
+      "evra": "2.11.1-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "sssd"
       }
     },
     "libsss_nss_idmap": {
-      "evra": "2.11.0-1.fc42.x86_64",
+      "evra": "2.11.1-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "sssd"
       }
     },
     "libsss_sudo": {
-      "evra": "2.11.0-1.fc42.x86_64",
+      "evra": "2.11.1-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "sssd"
       }
@@ -1687,7 +1687,7 @@
       }
     },
     "libusb1": {
-      "evra": "1.0.28-2.fc42.x86_64",
+      "evra": "1.0.29-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "libusb1"
       }
@@ -2269,13 +2269,13 @@
       }
     },
     "selinux-policy": {
-      "evra": "42.3-1.fc42.noarch",
+      "evra": "42.4-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
     },
     "selinux-policy-targeted": {
-      "evra": "42.3-1.fc42.noarch",
+      "evra": "42.4-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
@@ -2377,55 +2377,55 @@
       }
     },
     "sssd-ad": {
-      "evra": "2.11.0-1.fc42.x86_64",
+      "evra": "2.11.1-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "sssd"
       }
     },
     "sssd-client": {
-      "evra": "2.11.0-1.fc42.x86_64",
+      "evra": "2.11.1-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "sssd"
       }
     },
     "sssd-common": {
-      "evra": "2.11.0-1.fc42.x86_64",
+      "evra": "2.11.1-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "sssd"
       }
     },
     "sssd-common-pac": {
-      "evra": "2.11.0-1.fc42.x86_64",
+      "evra": "2.11.1-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "sssd"
       }
     },
     "sssd-ipa": {
-      "evra": "2.11.0-1.fc42.x86_64",
+      "evra": "2.11.1-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "sssd"
       }
     },
     "sssd-krb5": {
-      "evra": "2.11.0-1.fc42.x86_64",
+      "evra": "2.11.1-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "sssd"
       }
     },
     "sssd-krb5-common": {
-      "evra": "2.11.0-1.fc42.x86_64",
+      "evra": "2.11.1-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "sssd"
       }
     },
     "sssd-ldap": {
-      "evra": "2.11.0-1.fc42.x86_64",
+      "evra": "2.11.1-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "sssd"
       }
     },
     "sssd-nfs-idmap": {
-      "evra": "2.11.0-1.fc42.x86_64",
+      "evra": "2.11.1-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "sssd"
       }
@@ -2557,13 +2557,13 @@
       }
     },
     "vim-data": {
-      "evra": "2:9.1.1552-1.fc42.noarch",
+      "evra": "2:9.1.1591-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "vim"
       }
     },
     "vim-minimal": {
-      "evra": "2:9.1.1552-1.fc42.x86_64",
+      "evra": "2:9.1.1591-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "vim"
       }
@@ -2648,16 +2648,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-08-03T00:00:00Z",
+    "generated": "2025-08-07T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-08-01T16:02:54Z"
+        "generated": "2025-08-05T16:00:32Z"
       },
       "fedora-updates": {
-        "generated": "2025-08-03T01:10:40Z"
+        "generated": "2025-08-07T00:48:56Z"
       }
     }
   }
