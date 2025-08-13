@@ -73,7 +73,7 @@
       }
     },
     "amd-gpu-firmware": {
-      "evra": "20250708-1.fc42.noarch",
+      "evra": "20250808-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -313,13 +313,13 @@
       }
     },
     "container-selinux": {
-      "evra": "4:2.239.0-1.fc42.noarch",
+      "evra": "4:2.240.0-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "container-selinux"
       }
     },
     "containerd": {
-      "evra": "2.0.5-2.fc42.s390x",
+      "evra": "2.0.6-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "containerd"
       }
@@ -511,7 +511,7 @@
       }
     },
     "docker-cli": {
-      "evra": "28.3.2-1.fc42.s390x",
+      "evra": "28.3.3-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "moby-engine"
       }
@@ -739,7 +739,7 @@
       }
     },
     "glib2": {
-      "evra": "2.84.3-1.fc42.s390x",
+      "evra": "2.84.4-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "glib2"
       }
@@ -811,7 +811,7 @@
       }
     },
     "hwdata": {
-      "evra": "0.397-1.fc42.noarch",
+      "evra": "0.398-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "hwdata"
       }
@@ -835,7 +835,7 @@
       }
     },
     "intel-gpu-firmware": {
-      "evra": "20250708-1.fc42.noarch",
+      "evra": "20250808-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -895,7 +895,7 @@
       }
     },
     "iputils": {
-      "evra": "20250602-3.fc42.s390x",
+      "evra": "20250605-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "iputils"
       }
@@ -1201,7 +1201,7 @@
       }
     },
     "libgcc": {
-      "evra": "15.1.1-2.fc42.s390x",
+      "evra": "15.2.1-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "gcc"
       }
@@ -1525,7 +1525,7 @@
       }
     },
     "libstdc++": {
-      "evra": "15.1.1-2.fc42.s390x",
+      "evra": "15.2.1-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "gcc"
       }
@@ -1621,7 +1621,7 @@
       }
     },
     "libxmlb": {
-      "evra": "0.3.22-1.fc42.s390x",
+      "evra": "0.3.23-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "libxmlb"
       }
@@ -1639,13 +1639,13 @@
       }
     },
     "linux-firmware": {
-      "evra": "20250708-1.fc42.noarch",
+      "evra": "20250808-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
     },
     "linux-firmware-whence": {
-      "evra": "20250708-1.fc42.noarch",
+      "evra": "20250808-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -1717,13 +1717,13 @@
       }
     },
     "moby-engine": {
-      "evra": "28.3.2-1.fc42.s390x",
+      "evra": "28.3.3-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "moby-engine"
       }
     },
     "moby-filesystem": {
-      "evra": "28.3.2-1.fc42.noarch",
+      "evra": "28.3.3-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "moby-engine"
       }
@@ -1801,7 +1801,7 @@
       }
     },
     "nmstate": {
-      "evra": "2.2.45-1.fc42.s390x",
+      "evra": "2.2.49-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "nmstate"
       }
@@ -1819,7 +1819,7 @@
       }
     },
     "nvidia-gpu-firmware": {
-      "evra": "20250708-1.fc42.noarch",
+      "evra": "20250808-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -1837,7 +1837,7 @@
       }
     },
     "openldap": {
-      "evra": "2.6.9-3.fc42.s390x",
+      "evra": "2.6.10-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "openldap"
       }
@@ -1915,13 +1915,13 @@
       }
     },
     "passt": {
-      "evra": "0^20250611.g0293c6f-1.fc42.s390x",
+      "evra": "0^20250805.g309eefd-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "passt"
       }
     },
     "passt-selinux": {
-      "evra": "0^20250611.g0293c6f-1.fc42.noarch",
+      "evra": "0^20250805.g309eefd-2.fc42.noarch",
       "metadata": {
         "sourcerpm": "passt"
       }
@@ -2028,8 +2028,14 @@
         "sourcerpm": "publicsuffix-list"
       }
     },
+    "qcom-wwan-firmware": {
+      "evra": "20250808-1.fc42.noarch",
+      "metadata": {
+        "sourcerpm": "linux-firmware"
+      }
+    },
     "qed-firmware": {
-      "evra": "20250708-1.fc42.noarch",
+      "evra": "20250808-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -2137,13 +2143,13 @@
       }
     },
     "selinux-policy": {
-      "evra": "42.4-1.fc42.noarch",
+      "evra": "42.5-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
     },
     "selinux-policy-targeted": {
-      "evra": "42.4-1.fc42.noarch",
+      "evra": "42.5-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
@@ -2365,7 +2371,7 @@
       }
     },
     "toolbox": {
-      "evra": "0.1.2-1.fc42.s390x",
+      "evra": "0.2-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "toolbox"
       }
@@ -2419,13 +2425,13 @@
       }
     },
     "vim-data": {
-      "evra": "2:9.1.1591-1.fc42.noarch",
+      "evra": "2:9.1.1623-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "vim"
       }
     },
     "vim-minimal": {
-      "evra": "2:9.1.1591-1.fc42.s390x",
+      "evra": "2:9.1.1623-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "vim"
       }
@@ -2504,16 +2510,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-08-07T00:00:00Z",
+    "generated": "2025-08-13T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-08-05T15:57:33Z"
+        "generated": "2025-08-11T16:32:45Z"
       },
       "fedora-updates": {
-        "generated": "2025-08-07T00:48:53Z"
+        "generated": "2025-08-13T01:12:17Z"
       }
     }
   }
