@@ -511,7 +511,7 @@
       }
     },
     "dnf5": {
-      "evra": "5.2.15.0-2.fc42.x86_64",
+      "evra": "5.2.16.0-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "dnf5"
       }
@@ -1243,13 +1243,13 @@
       }
     },
     "libdnf5": {
-      "evra": "5.2.15.0-2.fc42.x86_64",
+      "evra": "5.2.16.0-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "dnf5"
       }
     },
     "libdnf5-cli": {
-      "evra": "5.2.15.0-2.fc42.x86_64",
+      "evra": "5.2.16.0-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "dnf5"
       }
@@ -2654,16 +2654,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-08-13T00:00:00Z",
+    "generated": "2025-08-14T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-08-11T16:35:22Z"
+        "generated": "2025-08-13T06:27:47Z"
       },
       "fedora-updates": {
-        "generated": "2025-08-13T01:12:20Z"
+        "generated": "2025-08-14T01:14:52Z"
       }
     }
   }

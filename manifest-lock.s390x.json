@@ -499,7 +499,7 @@
       }
     },
     "dnf5": {
-      "evra": "5.2.15.0-2.fc42.s390x",
+      "evra": "5.2.16.0-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "dnf5"
       }
@@ -1147,13 +1147,13 @@
       }
     },
     "libdnf5": {
-      "evra": "5.2.15.0-2.fc42.s390x",
+      "evra": "5.2.16.0-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "dnf5"
       }
     },
     "libdnf5-cli": {
-      "evra": "5.2.15.0-2.fc42.s390x",
+      "evra": "5.2.16.0-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "dnf5"
       }
@@ -2510,16 +2510,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-08-13T00:00:00Z",
+    "generated": "2025-08-14T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-08-11T16:32:45Z"
+        "generated": "2025-08-13T06:26:01Z"
       },
       "fedora-updates": {
-        "generated": "2025-08-13T01:12:17Z"
+        "generated": "2025-08-14T01:14:49Z"
       }
     }
   }
