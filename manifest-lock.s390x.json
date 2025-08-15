@@ -1579,7 +1579,7 @@
       }
     },
     "libusb1": {
-      "evra": "1.0.29-1.fc42.s390x",
+      "evra": "1.0.29-3.fc42.s390x",
       "metadata": {
         "sourcerpm": "libusb1"
       }
@@ -2510,7 +2510,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-08-14T00:00:00Z",
+    "generated": "2025-08-15T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
@@ -2519,7 +2519,7 @@
         "generated": "2025-08-13T06:26:01Z"
       },
       "fedora-updates": {
-        "generated": "2025-08-14T01:14:49Z"
+        "generated": "2025-08-15T01:00:13Z"
       }
     }
   }

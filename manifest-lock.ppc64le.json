@@ -1663,7 +1663,7 @@
       }
     },
     "libusb1": {
-      "evra": "1.0.29-1.fc42.ppc64le",
+      "evra": "1.0.29-3.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "libusb1"
       }
@@ -2618,7 +2618,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-08-14T00:00:00Z",
+    "generated": "2025-08-15T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
@@ -2627,7 +2627,7 @@
         "generated": "2025-08-13T06:26:39Z"
       },
       "fedora-updates": {
-        "generated": "2025-08-14T01:14:46Z"
+        "generated": "2025-08-15T01:00:10Z"
       }
     }
   }
