@@ -163,7 +163,7 @@
       }
     },
     "bootc": {
-      "evra": "1.4.0-1.fc42.aarch64",
+      "evra": "1.5.1-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "bootc"
       }
@@ -1819,7 +1819,7 @@
       }
     },
     "mdadm": {
-      "evra": "4.3-7.fc42.aarch64",
+      "evra": "4.3-8.fc42.aarch64",
       "metadata": {
         "sourcerpm": "mdadm"
       }
@@ -2642,7 +2642,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-08-15T00:00:00Z",
+    "generated": "2025-08-16T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
@@ -2651,7 +2651,7 @@
         "generated": "2025-08-13T06:29:31Z"
       },
       "fedora-updates": {
-        "generated": "2025-08-15T01:00:07Z"
+        "generated": "2025-08-16T01:06:46Z"
       }
     }
   }
