@@ -37,7 +37,7 @@
       }
     },
     "aardvark-dns": {
-      "evra": "2:1.15.0-1.fc42.s390x",
+      "evra": "2:1.16.0-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "aardvark-dns"
       }
@@ -1771,7 +1771,7 @@
       }
     },
     "netavark": {
-      "evra": "2:1.15.2-1.fc42.s390x",
+      "evra": "2:1.16.0-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "netavark"
       }
@@ -1825,7 +1825,7 @@
       }
     },
     "nvme-cli": {
-      "evra": "2.15-1.fc42.s390x",
+      "evra": "2.15-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "nvme-cli"
       }
@@ -2071,13 +2071,13 @@
       }
     },
     "rpm-ostree": {
-      "evra": "2025.9-1.fc42.s390x",
+      "evra": "2025.10-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "rpm-ostree"
       }
     },
     "rpm-ostree-libs": {
-      "evra": "2025.9-1.fc42.s390x",
+      "evra": "2025.10-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "rpm-ostree"
       }
@@ -2143,13 +2143,13 @@
       }
     },
     "selinux-policy": {
-      "evra": "42.5-1.fc42.noarch",
+      "evra": "42.4-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
     },
     "selinux-policy-targeted": {
-      "evra": "42.5-1.fc42.noarch",
+      "evra": "42.4-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
@@ -2510,16 +2510,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-08-16T00:00:00Z",
+    "generated": "2025-08-18T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-08-13T06:26:01Z"
+        "generated": "2025-08-16T16:18:02Z"
       },
       "fedora-updates": {
-        "generated": "2025-08-16T01:06:52Z"
+        "generated": "2025-08-18T01:51:38Z"
       }
     }
   }
