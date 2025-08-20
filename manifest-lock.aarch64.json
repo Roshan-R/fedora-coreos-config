@@ -175,13 +175,13 @@
       }
     },
     "bsdtar": {
-      "evra": "3.7.7-4.fc42.aarch64",
+      "evra": "3.8.1-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "libarchive"
       }
     },
     "btrfs-progs": {
-      "evra": "6.15-1.fc42.aarch64",
+      "evra": "6.16-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "btrfs-progs"
       }
@@ -373,13 +373,13 @@
       }
     },
     "criu": {
-      "evra": "4.1-2.fc42.aarch64",
+      "evra": "4.1.1-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "criu"
       }
     },
     "criu-libs": {
-      "evra": "4.1-2.fc42.aarch64",
+      "evra": "4.1.1-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "criu"
       }
@@ -1135,7 +1135,7 @@
       }
     },
     "libarchive": {
-      "evra": "3.7.7-4.fc42.aarch64",
+      "evra": "3.8.1-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "libarchive"
       }
@@ -2263,13 +2263,13 @@
       }
     },
     "selinux-policy": {
-      "evra": "42.4-1.fc42.noarch",
+      "evra": "42.5-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
     },
     "selinux-policy-targeted": {
-      "evra": "42.4-1.fc42.noarch",
+      "evra": "42.5-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
@@ -2623,7 +2623,7 @@
       }
     },
     "zlib-ng-compat": {
-      "evra": "2.2.4-3.fc42.aarch64",
+      "evra": "2.2.5-2.fc42.aarch64",
       "metadata": {
         "sourcerpm": "zlib-ng"
       }
@@ -2642,16 +2642,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-08-18T00:00:00Z",
+    "generated": "2025-08-20T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-08-16T16:22:09Z"
+        "generated": "2025-08-19T16:54:39Z"
       },
       "fedora-updates": {
-        "generated": "2025-08-18T01:51:32Z"
+        "generated": "2025-08-20T01:03:06Z"
       }
     }
   }
