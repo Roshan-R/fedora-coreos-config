@@ -10,12 +10,11 @@ metadata:
   annotations:
     build.appstudio.openshift.io/repo: https://github.com/Roshan-R/fedora-coreos-config?rev={{revision}}
     pipelinesascode.tekton.dev/cancel-in-progress: "false"
-    pipelinesascode.tekton.dev/on-path-changed: "ci/buildroot"
     build.appstudio.redhat.com/commit_sha: '{{revision}}'
     build.appstudio.redhat.com/target_branch: '{{target_branch}}'
     pipelinesascode.tekton.dev/max-keep-runs: "3"
     pipelinesascode.tekton.dev/on-cel-expression: event == "push" && target_branch
-      == "testing-devel" && ".tekton/fcos-buildroot-push.yaml".pathChanged()
+      == "testing-devel" && (".tekton/fcos-buildroot-push.yaml".pathChanged() || "ci/buildroot/**".pathChanged())
   creationTimestamp: null
 spec:
   params:
