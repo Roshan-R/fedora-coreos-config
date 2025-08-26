@@ -10,3 +10,5 @@ FROM quay.io/fedora/fedora:42
 ENV container=oci
 COPY . /src
 RUN ./src/install-buildroot.sh && yum clean all && rm /src -rf
+
+
