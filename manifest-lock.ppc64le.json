@@ -157,13 +157,13 @@
       }
     },
     "bind-libs": {
-      "evra": "32:9.18.36-1.fc42.ppc64le",
+      "evra": "32:9.18.38-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "bind"
       }
     },
     "bind-utils": {
-      "evra": "32:9.18.36-1.fc42.ppc64le",
+      "evra": "32:9.18.38-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "bind"
       }
@@ -403,13 +403,13 @@
       }
     },
     "cryptsetup": {
-      "evra": "2.8.0-1.fc42.ppc64le",
+      "evra": "2.8.1-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "cryptsetup"
       }
     },
     "cryptsetup-libs": {
-      "evra": "2.8.0-1.fc42.ppc64le",
+      "evra": "2.8.1-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "cryptsetup"
       }
@@ -601,19 +601,19 @@
       }
     },
     "fedora-release-common": {
-      "evra": "42-28.noarch",
+      "evra": "42-30.noarch",
       "metadata": {
         "sourcerpm": "fedora-release"
       }
     },
     "fedora-release-coreos": {
-      "evra": "42-28.noarch",
+      "evra": "42-30.noarch",
       "metadata": {
         "sourcerpm": "fedora-release"
       }
     },
     "fedora-release-identity-coreos": {
-      "evra": "42-28.noarch",
+      "evra": "42-30.noarch",
       "metadata": {
         "sourcerpm": "fedora-release"
       }
@@ -757,7 +757,7 @@
       }
     },
     "git-core": {
-      "evra": "2.50.1-1.fc42.ppc64le",
+      "evra": "2.51.0-2.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "git"
       }
@@ -1027,7 +1027,7 @@
       }
     },
     "kdump-utils": {
-      "evra": "1.0.54-1.fc42.ppc64le",
+      "evra": "1.0.56-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "kdump-utils"
       }
@@ -1351,7 +1351,7 @@
       }
     },
     "libldb": {
-      "evra": "2:4.22.3-2.fc42.ppc64le",
+      "evra": "2:4.22.4-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -1561,7 +1561,7 @@
       }
     },
     "libsmbclient": {
-      "evra": "2:4.22.3-2.fc42.ppc64le",
+      "evra": "2:4.22.4-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -1687,7 +1687,7 @@
       }
     },
     "libwbclient": {
-      "evra": "2:4.22.3-2.fc42.ppc64le",
+      "evra": "2:4.22.4-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -1855,7 +1855,7 @@
       }
     },
     "netavark": {
-      "evra": "2:1.16.0-1.fc42.ppc64le",
+      "evra": "2:1.16.1-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "netavark"
       }
@@ -2221,19 +2221,19 @@
       }
     },
     "samba-client-libs": {
-      "evra": "2:4.22.3-2.fc42.ppc64le",
+      "evra": "2:4.22.4-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "samba"
       }
     },
     "samba-common": {
-      "evra": "2:4.22.3-2.fc42.noarch",
+      "evra": "2:4.22.4-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "samba"
       }
     },
     "samba-common-libs": {
-      "evra": "2:4.22.3-2.fc42.ppc64le",
+      "evra": "2:4.22.4-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -2251,13 +2251,13 @@
       }
     },
     "selinux-policy": {
-      "evra": "42.5-1.fc42.noarch",
+      "evra": "42.6-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
     },
     "selinux-policy-targeted": {
-      "evra": "42.5-1.fc42.noarch",
+      "evra": "42.6-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
@@ -2329,7 +2329,7 @@
       }
     },
     "socat": {
-      "evra": "1.8.0.0-5.fc42.ppc64le",
+      "evra": "1.8.0.3-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "socat"
       }
@@ -2618,16 +2618,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-08-21T00:00:00Z",
+    "generated": "2025-08-26T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-08-20T16:00:13Z"
+        "generated": "2025-08-25T12:46:05Z"
       },
       "fedora-updates": {
-        "generated": "2025-08-21T00:50:36Z"
+        "generated": "2025-08-26T01:50:11Z"
       }
     }
   }
