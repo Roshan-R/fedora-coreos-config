@@ -1,3 +1,4 @@
+# Add a line to trigger fcos-buildroot component
 # This includes the build dependencies for some key packages
 # such as ignition, rpm-ostree, libpod, systemd, and kernel.
 # If you want another package in this list, submit a PR and
