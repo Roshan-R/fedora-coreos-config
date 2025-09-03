@@ -5,6 +5,13 @@
 #
 # Note: we should be able to drop the `-v $PWD:/run/src` once
 # https://github.com/containers/buildah/issues/5952 is fixed.
+#
+# For development convenience, an `overrides/` directory in the context dir, or
+# mounted at `/run/src/overrides` is supported:
+# - The `overrides/rpm` directory can be a yum repo. Its packages take
+#   precedence over those from remote repos.
+# - The `overrides/rootfs` directory can contain files in a rootfs layout which
+#   will be copied on top of the final rootfs.
 
 # Overridden by build-args.conf. The value here is invalid on purpose.
 ARG BUILDER_IMG=overridden
@@ -16,10 +23,17 @@ ARG MANIFEST=overridden
 # XXX: see inject_passwd_group() in build-rootfs
 ARG PASSWD_GROUP_DIR
 
+# this allows FCOS/SCOS/RHCOS to do specific things before going into the shared build-rootfs script
+RUN --mount=type=bind,target=/run/src \
+  if test -x /run/src/buildroot-prep; then /run/src/buildroot-prep; fi
+
 # useful if you're hacking on rpm-ostree/bootc-base-imagectl
 # COPY rpm-ostree /usr/bin/
 # COPY bootc-base-imagectl /usr/libexec/
 
+# always nuke any leftover libdnf lockfile from interrupted runs
+RUN --mount=type=cache,rw,id=coreos-build-cache,target=/cache \
+        rm -rf /cache/cache/*lock*
 RUN --mount=type=cache,rw,id=coreos-build-cache,target=/cache \
     --mount=type=secret,id=yumrepos,target=/etc/yum.repos.d/secret.repo \
     --mount=type=secret,id=contentsets \
@@ -33,6 +47,7 @@ RUN --mount=type=bind,target=/run/src,rw \
 FROM oci-archive:./out.ociarchive
 ARG VERSION
 ARG NAME=overridden
+ARG DESCRIPTION=overridden
 # Need to reference builder here to force ordering. But since we have to run
 # something anyway, we might as well cleanup after ourselves.
 RUN --mount=type=bind,from=builder,target=/var/tmp \
@@ -43,5 +58,7 @@ LABEL containers.bootc=1
 LABEL ostree.bootable=1
 LABEL org.opencontainers.image.version=$VERSION
 LABEL com.coreos.osname=$NAME
+LABEL org.opencontainers.image.title=$DESCRIPTION
+LABEL org.opencontainers.image.description=$DESCRIPTION
 STOPSIGNAL SIGRTMIN+3
 CMD ["/sbin/init"]
