@@ -865,7 +865,7 @@
       }
     },
     "hwdata": {
-      "evra": "0.398-1.fc42.noarch",
+      "evra": "0.399-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "hwdata"
       }
@@ -2618,16 +2618,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-09-03T00:00:00Z",
+    "generated": "2025-09-04T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-09-03T02:16:30Z"
+        "generated": "2025-09-03T07:18:18Z"
       },
       "fedora-updates": {
-        "generated": "2025-09-03T01:41:36Z"
+        "generated": "2025-09-04T00:47:04Z"
       }
     }
   }
