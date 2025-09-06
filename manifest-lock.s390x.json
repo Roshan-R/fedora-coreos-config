@@ -1873,25 +1873,25 @@
       }
     },
     "ostree": {
-      "evra": "2025.4-2.fc42.s390x",
+      "evra": "2025.5-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "ostree"
       }
     },
     "ostree-libs": {
-      "evra": "2025.4-2.fc42.s390x",
+      "evra": "2025.5-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "ostree"
       }
     },
     "p11-kit": {
-      "evra": "0.25.5-5.fc42.s390x",
+      "evra": "0.25.5-6.fc42.s390x",
       "metadata": {
         "sourcerpm": "p11-kit"
       }
     },
     "p11-kit-trust": {
-      "evra": "0.25.5-5.fc42.s390x",
+      "evra": "0.25.5-6.fc42.s390x",
       "metadata": {
         "sourcerpm": "p11-kit"
       }
@@ -2305,49 +2305,49 @@
       }
     },
     "systemd": {
-      "evra": "257.7-1.fc42.s390x",
+      "evra": "257.9-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-container": {
-      "evra": "257.7-1.fc42.s390x",
+      "evra": "257.9-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-libs": {
-      "evra": "257.7-1.fc42.s390x",
+      "evra": "257.9-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-pam": {
-      "evra": "257.7-1.fc42.s390x",
+      "evra": "257.9-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-resolved": {
-      "evra": "257.7-1.fc42.s390x",
+      "evra": "257.9-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-shared": {
-      "evra": "257.7-1.fc42.s390x",
+      "evra": "257.9-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-sysusers": {
-      "evra": "257.7-1.fc42.s390x",
+      "evra": "257.9-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-udev": {
-      "evra": "257.7-1.fc42.s390x",
+      "evra": "257.9-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "systemd"
       }
@@ -2510,16 +2510,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-09-05T00:00:00Z",
+    "generated": "2025-09-06T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-09-04T20:00:51Z"
+        "generated": "2025-09-05T07:02:31Z"
       },
       "fedora-updates": {
-        "generated": "2025-09-05T02:21:45Z"
+        "generated": "2025-09-06T02:08:49Z"
       }
     }
   }
