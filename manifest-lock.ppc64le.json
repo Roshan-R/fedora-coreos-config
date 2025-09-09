@@ -319,7 +319,7 @@
       }
     },
     "container-selinux": {
-      "evra": "4:2.241.0-1.fc42.noarch",
+      "evra": "4:2.242.0-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "container-selinux"
       }
@@ -1033,25 +1033,25 @@
       }
     },
     "kernel": {
-      "evra": "6.15.10-200.fc42.ppc64le",
+      "evra": "6.16.5-200.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.15.10-200.fc42.ppc64le",
+      "evra": "6.16.5-200.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.15.10-200.fc42.ppc64le",
+      "evra": "6.16.5-200.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.15.10-200.fc42.ppc64le",
+      "evra": "6.16.5-200.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -2533,13 +2533,13 @@
       }
     },
     "vim-data": {
-      "evra": "2:9.1.1623-1.fc42.noarch",
+      "evra": "2:9.1.1723-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "vim"
       }
     },
     "vim-minimal": {
-      "evra": "2:9.1.1623-1.fc42.ppc64le",
+      "evra": "2:9.1.1723-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "vim"
       }
@@ -2618,16 +2618,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-09-07T00:00:00Z",
+    "generated": "2025-09-09T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-09-07T02:58:26Z"
+        "generated": "2025-09-07T07:06:13Z"
       },
       "fedora-updates": {
-        "generated": "2025-09-07T00:47:45Z"
+        "generated": "2025-09-09T01:15:08Z"
       }
     }
   }
