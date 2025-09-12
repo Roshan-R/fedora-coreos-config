@@ -157,13 +157,13 @@
       }
     },
     "bind-libs": {
-      "evra": "32:9.18.39-2.fc42.x86_64",
+      "evra": "32:9.18.39-3.fc42.x86_64",
       "metadata": {
         "sourcerpm": "bind"
       }
     },
     "bind-utils": {
-      "evra": "32:9.18.39-2.fc42.x86_64",
+      "evra": "32:9.18.39-3.fc42.x86_64",
       "metadata": {
         "sourcerpm": "bind"
       }
@@ -391,13 +391,13 @@
       }
     },
     "crun": {
-      "evra": "1.23.1-1.fc42.x86_64",
+      "evra": "1.24-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "crun"
       }
     },
     "crun-wasm": {
-      "evra": "1.23.1-1.fc42.x86_64",
+      "evra": "1.24-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "crun"
       }
@@ -733,7 +733,7 @@
       }
     },
     "fwupd": {
-      "evra": "2.0.14-1.fc42.x86_64",
+      "evra": "2.0.15-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "fwupd"
       }
@@ -907,13 +907,13 @@
       }
     },
     "ignition": {
-      "evra": "2.22.0-3.fc42.x86_64",
+      "evra": "2.23.0-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "ignition"
       }
     },
     "ignition-grub": {
-      "evra": "2.22.0-3.fc42.x86_64",
+      "evra": "2.23.0-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "ignition"
       }
@@ -1069,25 +1069,25 @@
       }
     },
     "kernel": {
-      "evra": "6.16.5-200.fc42.x86_64",
+      "evra": "6.16.7-200.fc42.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.16.5-200.fc42.x86_64",
+      "evra": "6.16.7-200.fc42.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.16.5-200.fc42.x86_64",
+      "evra": "6.16.7-200.fc42.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.16.5-200.fc42.x86_64",
+      "evra": "6.16.7-200.fc42.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -1729,7 +1729,7 @@
       }
     },
     "libxmlb": {
-      "evra": "0.3.23-1.fc42.x86_64",
+      "evra": "0.3.24-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "libxmlb"
       }
@@ -2029,13 +2029,13 @@
       }
     },
     "p11-kit": {
-      "evra": "0.25.5-6.fc42.x86_64",
+      "evra": "0.25.6-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "p11-kit"
       }
     },
     "p11-kit-trust": {
-      "evra": "0.25.5-6.fc42.x86_64",
+      "evra": "0.25.6-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "p11-kit"
       }
@@ -2563,13 +2563,13 @@
       }
     },
     "vim-data": {
-      "evra": "2:9.1.1723-1.fc42.noarch",
+      "evra": "2:9.1.1723-2.fc42.noarch",
       "metadata": {
         "sourcerpm": "vim"
       }
     },
     "vim-minimal": {
-      "evra": "2:9.1.1723-1.fc42.x86_64",
+      "evra": "2:9.1.1723-2.fc42.x86_64",
       "metadata": {
         "sourcerpm": "vim"
       }
@@ -2654,16 +2654,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-09-10T00:00:00Z",
+    "generated": "2025-09-12T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-09-10T02:24:06Z"
+        "generated": "2025-09-12T06:38:03Z"
       },
       "fedora-updates": {
-        "generated": "2025-09-10T00:48:25Z"
+        "generated": "2025-09-12T02:02:36Z"
       }
     }
   }
