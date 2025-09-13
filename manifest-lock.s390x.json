@@ -181,7 +181,7 @@
       }
     },
     "btrfs-progs": {
-      "evra": "6.16-1.fc42.s390x",
+      "evra": "6.16.1-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "btrfs-progs"
       }
@@ -1873,13 +1873,13 @@
       }
     },
     "ostree": {
-      "evra": "2025.5-1.fc42.s390x",
+      "evra": "2025.6-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "ostree"
       }
     },
     "ostree-libs": {
-      "evra": "2025.5-1.fc42.s390x",
+      "evra": "2025.6-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "ostree"
       }
@@ -1915,13 +1915,13 @@
       }
     },
     "passt": {
-      "evra": "0^20250805.g309eefd-2.fc42.s390x",
+      "evra": "0^20250911.g6cbcccc-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "passt"
       }
     },
     "passt-selinux": {
-      "evra": "0^20250805.g309eefd-2.fc42.noarch",
+      "evra": "0^20250911.g6cbcccc-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "passt"
       }
@@ -2101,7 +2101,7 @@
       }
     },
     "runc": {
-      "evra": "2:1.3.0-1.fc42.s390x",
+      "evra": "2:1.3.1-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "runc"
       }
@@ -2510,16 +2510,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-09-12T00:00:00Z",
+    "generated": "2025-09-13T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-09-12T06:34:16Z"
+        "generated": "2025-09-12T10:14:50Z"
       },
       "fedora-updates": {
-        "generated": "2025-09-12T02:02:32Z"
+        "generated": "2025-09-13T03:33:48Z"
       }
     }
   }

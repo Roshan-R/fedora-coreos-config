@@ -187,7 +187,7 @@
       }
     },
     "btrfs-progs": {
-      "evra": "6.16-1.fc42.ppc64le",
+      "evra": "6.16.1-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "btrfs-progs"
       }
@@ -1969,19 +1969,19 @@
       }
     },
     "ostree": {
-      "evra": "2025.5-1.fc42.ppc64le",
+      "evra": "2025.6-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "ostree"
       }
     },
     "ostree-grub2": {
-      "evra": "2025.5-1.fc42.ppc64le",
+      "evra": "2025.6-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "ostree"
       }
     },
     "ostree-libs": {
-      "evra": "2025.5-1.fc42.ppc64le",
+      "evra": "2025.6-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "ostree"
       }
@@ -2017,13 +2017,13 @@
       }
     },
     "passt": {
-      "evra": "0^20250805.g309eefd-2.fc42.ppc64le",
+      "evra": "0^20250911.g6cbcccc-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "passt"
       }
     },
     "passt-selinux": {
-      "evra": "0^20250805.g309eefd-2.fc42.noarch",
+      "evra": "0^20250911.g6cbcccc-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "passt"
       }
@@ -2215,7 +2215,7 @@
       }
     },
     "runc": {
-      "evra": "2:1.3.0-1.fc42.ppc64le",
+      "evra": "2:1.3.1-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "runc"
       }
@@ -2618,16 +2618,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-09-12T00:00:00Z",
+    "generated": "2025-09-13T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-09-12T06:33:44Z"
+        "generated": "2025-09-12T10:15:29Z"
       },
       "fedora-updates": {
-        "generated": "2025-09-12T02:02:29Z"
+        "generated": "2025-09-13T03:33:45Z"
       }
     }
   }
