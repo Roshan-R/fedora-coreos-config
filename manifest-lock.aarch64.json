@@ -1537,13 +1537,13 @@
       }
     },
     "libselinux": {
-      "evra": "3.8-2.fc42.aarch64",
+      "evra": "3.8-3.fc42.aarch64",
       "metadata": {
         "sourcerpm": "libselinux"
       }
     },
     "libselinux-utils": {
-      "evra": "3.8-2.fc42.aarch64",
+      "evra": "3.8-3.fc42.aarch64",
       "metadata": {
         "sourcerpm": "libselinux"
       }
@@ -2425,7 +2425,7 @@
       }
     },
     "stalld": {
-      "evra": "1.20.4-1.fc42.aarch64",
+      "evra": "1.21.1-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "stalld"
       }
@@ -2551,13 +2551,13 @@
       }
     },
     "vim-data": {
-      "evra": "2:9.1.1723-2.fc42.noarch",
+      "evra": "2:9.1.1775-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "vim"
       }
     },
     "vim-minimal": {
-      "evra": "2:9.1.1723-2.fc42.aarch64",
+      "evra": "2:9.1.1775-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "vim"
       }
@@ -2642,16 +2642,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-09-20T00:00:00Z",
+    "generated": "2025-09-22T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-09-18T16:23:12Z"
+        "generated": "2025-09-22T16:28:24Z"
       },
       "fedora-updates": {
-        "generated": "2025-09-20T00:51:05Z"
+        "generated": "2025-09-22T01:03:52Z"
       }
     }
   }
