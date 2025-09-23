@@ -2059,13 +2059,13 @@
       }
     },
     "passt": {
-      "evra": "0^20250911.g6cbcccc-1.fc42.x86_64",
+      "evra": "0^20250919.g623dbf6-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "passt"
       }
     },
     "passt-selinux": {
-      "evra": "0^20250911.g6cbcccc-1.fc42.noarch",
+      "evra": "0^20250919.g623dbf6-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "passt"
       }
@@ -2654,16 +2654,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-09-22T00:00:00Z",
+    "generated": "2025-09-23T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-09-22T16:28:20Z"
+        "generated": "2025-09-23T03:26:04Z"
       },
       "fedora-updates": {
-        "generated": "2025-09-22T01:04:02Z"
+        "generated": "2025-09-23T01:09:01Z"
       }
     }
   }
