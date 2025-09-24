@@ -2209,13 +2209,13 @@
       }
     },
     "rpm-ostree": {
-      "evra": "2025.10-1.fc42.x86_64",
+      "evra": "2025.11-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "rpm-ostree"
       }
     },
     "rpm-ostree-libs": {
-      "evra": "2025.10-1.fc42.x86_64",
+      "evra": "2025.11-1.fc42.x86_64",
       "metadata": {
         "sourcerpm": "rpm-ostree"
       }
@@ -2654,13 +2654,13 @@
     }
   },
   "metadata": {
-    "generated": "2025-09-23T00:00:00Z",
+    "generated": "2025-09-24T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-09-23T03:26:04Z"
+        "generated": "2025-09-23T18:10:41Z"
       },
       "fedora-updates": {
         "generated": "2025-09-23T01:09:01Z"
