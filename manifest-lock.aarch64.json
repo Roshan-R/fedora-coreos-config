@@ -529,19 +529,19 @@
       }
     },
     "dracut": {
-      "evra": "107-2.fc42.aarch64",
+      "evra": "107-3.fc42.aarch64",
       "metadata": {
         "sourcerpm": "dracut"
       }
     },
     "dracut-network": {
-      "evra": "107-2.fc42.aarch64",
+      "evra": "107-3.fc42.aarch64",
       "metadata": {
         "sourcerpm": "dracut"
       }
     },
     "dracut-squash": {
-      "evra": "107-2.fc42.aarch64",
+      "evra": "107-3.fc42.aarch64",
       "metadata": {
         "sourcerpm": "dracut"
       }
@@ -1051,25 +1051,25 @@
       }
     },
     "kernel": {
-      "evra": "6.16.7-200.fc42.aarch64",
+      "evra": "6.16.8-200.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.16.7-200.fc42.aarch64",
+      "evra": "6.16.8-200.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.16.7-200.fc42.aarch64",
+      "evra": "6.16.8-200.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.16.7-200.fc42.aarch64",
+      "evra": "6.16.8-200.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -2563,7 +2563,7 @@
       }
     },
     "wasmedge-rt": {
-      "evra": "0.14.1-4.fc42.aarch64",
+      "evra": "0.15.0-1.fc42.aarch64",
       "metadata": {
         "sourcerpm": "wasmedge"
       }
@@ -2642,7 +2642,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-09-24T00:00:00Z",
+    "generated": "2025-09-25T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
@@ -2651,7 +2651,7 @@
         "generated": "2025-09-23T18:10:34Z"
       },
       "fedora-updates": {
-        "generated": "2025-09-23T01:08:52Z"
+        "generated": "2025-09-25T00:54:24Z"
       }
     }
   }
