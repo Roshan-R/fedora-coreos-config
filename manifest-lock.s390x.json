@@ -523,19 +523,19 @@
       }
     },
     "dracut": {
-      "evra": "107-3.fc42.s390x",
+      "evra": "107-4.fc42.s390x",
       "metadata": {
         "sourcerpm": "dracut"
       }
     },
     "dracut-network": {
-      "evra": "107-3.fc42.s390x",
+      "evra": "107-4.fc42.s390x",
       "metadata": {
         "sourcerpm": "dracut"
       }
     },
     "dracut-squash": {
-      "evra": "107-3.fc42.s390x",
+      "evra": "107-4.fc42.s390x",
       "metadata": {
         "sourcerpm": "dracut"
       }
@@ -2510,16 +2510,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-09-25T00:00:00Z",
+    "generated": "2025-09-26T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-09-23T18:08:02Z"
+        "generated": "2025-09-25T15:56:09Z"
       },
       "fedora-updates": {
-        "generated": "2025-09-25T00:54:30Z"
+        "generated": "2025-09-26T01:02:10Z"
       }
     }
   }
