@@ -349,13 +349,13 @@
       }
     },
     "coreutils": {
-      "evra": "9.6-5.fc42.aarch64",
+      "evra": "9.6-6.fc42.aarch64",
       "metadata": {
         "sourcerpm": "coreutils"
       }
     },
     "coreutils-common": {
-      "evra": "9.6-5.fc42.aarch64",
+      "evra": "9.6-6.fc42.aarch64",
       "metadata": {
         "sourcerpm": "coreutils"
       }
@@ -814,6 +814,12 @@
       "evra": "1:6.3.0-4.fc42.aarch64",
       "metadata": {
         "sourcerpm": "gmp"
+      }
+    },
+    "gnulib-l10n": {
+      "evra": "20241231-1.fc42.noarch",
+      "metadata": {
+        "sourcerpm": "gnulib-l10n"
       }
     },
     "gnupg2": {
@@ -2317,7 +2323,7 @@
       }
     },
     "skopeo": {
-      "evra": "1:1.20.0-1.fc42.aarch64",
+      "evra": "1:1.20.0-3.fc42.aarch64",
       "metadata": {
         "sourcerpm": "skopeo"
       }
@@ -2353,7 +2359,7 @@
       }
     },
     "sqlite-libs": {
-      "evra": "3.47.2-2.fc42.aarch64",
+      "evra": "3.47.2-5.fc42.aarch64",
       "metadata": {
         "sourcerpm": "sqlite"
       }
@@ -2642,16 +2648,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-09-29T00:00:00Z",
+    "generated": "2025-10-02T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-09-28T07:37:38Z"
+        "generated": "2025-10-01T07:44:01Z"
       },
       "fedora-updates": {
-        "generated": "2025-09-29T00:44:43Z"
+        "generated": "2025-10-02T02:11:25Z"
       }
     }
   }
