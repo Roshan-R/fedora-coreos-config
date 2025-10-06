@@ -55,13 +55,13 @@
       }
     },
     "afterburn": {
-      "evra": "5.9.0-1.fc42.s390x",
+      "evra": "5.10.0-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "rust-afterburn"
       }
     },
     "afterburn-dracut": {
-      "evra": "5.9.0-1.fc42.s390x",
+      "evra": "5.10.0-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "rust-afterburn"
       }
@@ -1165,7 +1165,7 @@
       }
     },
     "libdrm": {
-      "evra": "2.4.125-1.fc42.s390x",
+      "evra": "2.4.126-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "libdrm"
       }
@@ -1255,7 +1255,7 @@
       }
     },
     "libjcat": {
-      "evra": "0.2.4-1.fc42.s390x",
+      "evra": "0.2.5-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "libjcat"
       }
@@ -2425,13 +2425,13 @@
       }
     },
     "vim-data": {
-      "evra": "2:9.1.1775-1.fc42.noarch",
+      "evra": "2:9.1.1818-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "vim"
       }
     },
     "vim-minimal": {
-      "evra": "2:9.1.1775-1.fc42.s390x",
+      "evra": "2:9.1.1818-1.fc42.s390x",
       "metadata": {
         "sourcerpm": "vim"
       }
@@ -2510,16 +2510,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-10-03T00:00:00Z",
+    "generated": "2025-10-06T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-10-02T16:04:33Z"
+        "generated": "2025-10-05T15:50:41Z"
       },
       "fedora-updates": {
-        "generated": "2025-10-03T00:48:56Z"
+        "generated": "2025-10-06T01:05:21Z"
       }
     }
   }
