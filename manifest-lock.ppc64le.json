@@ -175,7 +175,7 @@
       }
     },
     "bootupd": {
-      "evra": "0.2.30-1.fc42.ppc64le",
+      "evra": "0.2.31-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "rust-bootupd"
       }
@@ -2618,16 +2618,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-10-10T00:00:00Z",
+    "generated": "2025-10-11T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-10-09T16:19:56Z"
+        "generated": "2025-10-10T16:37:44Z"
       },
       "fedora-updates": {
-        "generated": "2025-10-10T00:45:21Z"
+        "generated": "2025-10-11T00:46:28Z"
       }
     }
   }
