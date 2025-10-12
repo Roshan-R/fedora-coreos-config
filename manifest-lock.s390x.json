@@ -1807,7 +1807,7 @@
       }
     },
     "nmstate": {
-      "evra": "2.2.50-1.fc42.s390x",
+      "evra": "2.2.52-2.fc42.s390x",
       "metadata": {
         "sourcerpm": "nmstate"
       }
@@ -2510,7 +2510,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-10-11T00:00:00Z",
+    "generated": "2025-10-12T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:57Z"
@@ -2519,7 +2519,7 @@
         "generated": "2025-10-10T16:37:07Z"
       },
       "fedora-updates": {
-        "generated": "2025-10-11T00:46:32Z"
+        "generated": "2025-10-12T01:02:59Z"
       }
     }
   }

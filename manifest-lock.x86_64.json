@@ -1939,7 +1939,7 @@
       }
     },
     "nmstate": {
-      "evra": "2.2.50-1.fc42.x86_64",
+      "evra": "2.2.52-2.fc42.x86_64",
       "metadata": {
         "sourcerpm": "nmstate"
       }
@@ -2654,7 +2654,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-10-11T00:00:00Z",
+    "generated": "2025-10-12T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:59Z"
@@ -2663,7 +2663,7 @@
         "generated": "2025-10-10T16:40:56Z"
       },
       "fedora-updates": {
-        "generated": "2025-10-11T00:46:35Z"
+        "generated": "2025-10-12T01:03:02Z"
       }
     }
   }
