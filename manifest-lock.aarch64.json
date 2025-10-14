@@ -1057,25 +1057,25 @@
       }
     },
     "kernel": {
-      "evra": "6.16.10-200.fc42.aarch64",
+      "evra": "6.16.11-200.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.16.10-200.fc42.aarch64",
+      "evra": "6.16.11-200.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.16.10-200.fc42.aarch64",
+      "evra": "6.16.11-200.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.16.10-200.fc42.aarch64",
+      "evra": "6.16.11-200.fc42.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -2642,16 +2642,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-10-12T00:00:00Z",
+    "generated": "2025-10-14T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-10-10T16:41:26Z"
+        "generated": "2025-10-13T16:23:15Z"
       },
       "fedora-updates": {
-        "generated": "2025-10-12T01:02:48Z"
+        "generated": "2025-10-14T01:37:52Z"
       }
     }
   }
