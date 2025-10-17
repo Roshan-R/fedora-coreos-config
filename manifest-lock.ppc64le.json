@@ -73,7 +73,7 @@
       }
     },
     "amd-gpu-firmware": {
-      "evra": "20250917-2.fc42.noarch",
+      "evra": "20251011-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -877,13 +877,13 @@
       }
     },
     "ignition": {
-      "evra": "2.23.0-1.fc42.ppc64le",
+      "evra": "2.24.0-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "ignition"
       }
     },
     "ignition-grub": {
-      "evra": "2.23.0-1.fc42.ppc64le",
+      "evra": "2.24.0-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "ignition"
       }
@@ -895,7 +895,7 @@
       }
     },
     "intel-gpu-firmware": {
-      "evra": "20250917-2.fc42.noarch",
+      "evra": "20251011-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -1039,25 +1039,25 @@
       }
     },
     "kernel": {
-      "evra": "6.16.11-200.fc42.ppc64le",
+      "evra": "6.16.12-200.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.16.11-200.fc42.ppc64le",
+      "evra": "6.16.12-200.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.16.11-200.fc42.ppc64le",
+      "evra": "6.16.12-200.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.16.11-200.fc42.ppc64le",
+      "evra": "6.16.12-200.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -1729,13 +1729,13 @@
       }
     },
     "linux-firmware": {
-      "evra": "20250917-2.fc42.noarch",
+      "evra": "20251011-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
     },
     "linux-firmware-whence": {
-      "evra": "20250917-2.fc42.noarch",
+      "evra": "20251011-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -1915,7 +1915,7 @@
       }
     },
     "nvidia-gpu-firmware": {
-      "evra": "20250917-2.fc42.noarch",
+      "evra": "20251011-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -2149,7 +2149,7 @@
       }
     },
     "qed-firmware": {
-      "evra": "20250917-2.fc42.noarch",
+      "evra": "20251011-1.fc42.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -2419,49 +2419,49 @@
       }
     },
     "systemd": {
-      "evra": "257.9-2.fc42.ppc64le",
+      "evra": "257.10-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-container": {
-      "evra": "257.9-2.fc42.ppc64le",
+      "evra": "257.10-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-libs": {
-      "evra": "257.9-2.fc42.ppc64le",
+      "evra": "257.10-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-pam": {
-      "evra": "257.9-2.fc42.ppc64le",
+      "evra": "257.10-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-resolved": {
-      "evra": "257.9-2.fc42.ppc64le",
+      "evra": "257.10-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-shared": {
-      "evra": "257.9-2.fc42.ppc64le",
+      "evra": "257.10-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-sysusers": {
-      "evra": "257.9-2.fc42.ppc64le",
+      "evra": "257.10-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-udev": {
-      "evra": "257.9-2.fc42.ppc64le",
+      "evra": "257.10-1.fc42.ppc64le",
       "metadata": {
         "sourcerpm": "systemd"
       }
@@ -2618,16 +2618,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-10-15T00:00:00Z",
+    "generated": "2025-10-17T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-04-09T11:06:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-10-14T16:01:29Z"
+        "generated": "2025-10-17T02:42:09Z"
       },
       "fedora-updates": {
-        "generated": "2025-10-15T00:56:49Z"
+        "generated": "2025-10-17T02:03:18Z"
       }
     }
   }
