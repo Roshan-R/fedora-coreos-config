@@ -2678,13 +2678,13 @@
     }
   },
   "metadata": {
-    "generated": "2025-10-29T00:00:00Z",
+    "generated": "2025-10-30T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:18Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-10-28T14:21:21Z"
+        "generated": "2025-10-29T16:11:41Z"
       },
       "fedora-updates": {
         "generated": "2025-10-29T01:16:16Z"
