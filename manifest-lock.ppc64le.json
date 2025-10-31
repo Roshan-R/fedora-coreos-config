@@ -505,7 +505,7 @@
       }
     },
     "dnsmasq": {
-      "evra": "2.90-7.fc43.ppc64le",
+      "evra": "2.91-1.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "dnsmasq"
       }
@@ -559,19 +559,19 @@
       }
     },
     "elfutils-default-yama-scope": {
-      "evra": "0.193-3.fc43.noarch",
+      "evra": "0.194-1.fc43.noarch",
       "metadata": {
         "sourcerpm": "elfutils"
       }
     },
     "elfutils-libelf": {
-      "evra": "0.193-3.fc43.ppc64le",
+      "evra": "0.194-1.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "elfutils"
       }
     },
     "elfutils-libs": {
-      "evra": "0.193-3.fc43.ppc64le",
+      "evra": "0.194-1.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "elfutils"
       }
@@ -2191,7 +2191,7 @@
       }
     },
     "qemu-user-static-x86": {
-      "evra": "2:10.1.1-1.fc43.ppc64le",
+      "evra": "2:10.1.2-1.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "qemu"
       }
@@ -2654,16 +2654,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-10-30T00:00:00Z",
+    "generated": "2025-10-31T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:18Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-10-29T16:07:16Z"
+        "generated": "2025-10-30T15:59:11Z"
       },
       "fedora-updates": {
-        "generated": "2025-10-29T01:16:17Z"
+        "generated": "2025-10-31T00:46:32Z"
       }
     }
   }
