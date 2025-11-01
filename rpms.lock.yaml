@@ -170,7 +170,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/d/dnf5-5.2.17.0-2.fc43.aarch64.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/d/dnsmasq-2.91-1.fc43.aarch64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/d/dnsmasq-2.91-1.fc43.aarch64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/d/docker-cli-28.5.1-2.fc43.aarch64.rpm
   - repoid: fedora
@@ -194,11 +194,11 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/e/efivar-libs-39-10.fc43.aarch64.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/e/elfutils-default-yama-scope-0.194-1.fc43.noarch.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/e/elfutils-default-yama-scope-0.194-1.fc43.noarch.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/e/elfutils-libelf-0.194-1.fc43.aarch64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/e/elfutils-libelf-0.194-1.fc43.aarch64.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/e/elfutils-libs-0.194-1.fc43.aarch64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/e/elfutils-libs-0.194-1.fc43.aarch64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/e/ethtool-6.15-3.fc43.aarch64.rpm
   - repoid: fedora
@@ -260,7 +260,7 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/g/git-core-2.51.1-1.fc43.aarch64.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/g/glib2-2.86.0-2.fc43.aarch64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/g/glib2-2.86.1-1.fc43.aarch64.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/g/glibc-2.42-4.fc43.aarch64.rpm
   - repoid: fedora-updates
@@ -322,13 +322,13 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/i/iproute-tc-6.14.0-2.fc43.aarch64.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/i/iptables-libs-1.8.11-11.fc43.aarch64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/i/iptables-libs-1.8.11-12.fc43.aarch64.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/i/iptables-nft-1.8.11-11.fc43.aarch64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/i/iptables-nft-1.8.11-12.fc43.aarch64.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/i/iptables-services-1.8.11-11.fc43.noarch.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/i/iptables-services-1.8.11-12.fc43.noarch.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/i/iptables-utils-1.8.11-11.fc43.aarch64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/i/iptables-utils-1.8.11-12.fc43.aarch64.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/i/iputils-20250605-1.fc43.aarch64.rpm
   - repoid: fedora-updates
@@ -614,7 +614,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/l/lzo-2.10-15.fc43.aarch64.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/m/makedumpfile-1.7.7-4.fc43.aarch64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/m/makedumpfile-1.7.8-1.fc43.aarch64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/m/mdadm-4.3-9.fc43.aarch64.rpm
   - repoid: fedora
@@ -736,7 +736,7 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/q/qed-firmware-20251021-1.fc43.noarch.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/q/qemu-user-static-x86-10.1.2-1.fc43.aarch64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/q/qemu-user-static-x86-10.1.2-1.fc43.aarch64.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/r/readline-8.3-2.fc43.aarch64.rpm
   - repoid: fedora-updates
@@ -1064,7 +1064,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/d/dnf5-5.2.17.0-2.fc43.ppc64le.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/d/dnsmasq-2.91-1.fc43.ppc64le.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/d/dnsmasq-2.91-1.fc43.ppc64le.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/d/docker-cli-28.5.1-2.fc43.ppc64le.rpm
   - repoid: fedora
@@ -1082,11 +1082,11 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/e/e2fsprogs-libs-1.47.3-2.fc43.ppc64le.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/e/elfutils-default-yama-scope-0.194-1.fc43.noarch.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/e/elfutils-default-yama-scope-0.194-1.fc43.noarch.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/e/elfutils-libelf-0.194-1.fc43.ppc64le.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/e/elfutils-libelf-0.194-1.fc43.ppc64le.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/e/elfutils-libs-0.194-1.fc43.ppc64le.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/e/elfutils-libs-0.194-1.fc43.ppc64le.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/e/ethtool-6.15-3.fc43.ppc64le.rpm
   - repoid: fedora-updates
@@ -1148,7 +1148,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/g/git-core-2.51.1-1.fc43.ppc64le.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/g/glib2-2.86.0-2.fc43.ppc64le.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/g/glib2-2.86.1-1.fc43.ppc64le.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/g/glibc-2.42-4.fc43.ppc64le.rpm
   - repoid: fedora
@@ -1210,13 +1210,13 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/i/iproute-tc-6.14.0-2.fc43.ppc64le.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/i/iptables-libs-1.8.11-11.fc43.ppc64le.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/i/iptables-libs-1.8.11-12.fc43.ppc64le.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/i/iptables-nft-1.8.11-11.fc43.ppc64le.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/i/iptables-nft-1.8.11-12.fc43.ppc64le.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/i/iptables-services-1.8.11-11.fc43.noarch.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/i/iptables-services-1.8.11-12.fc43.noarch.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/i/iptables-utils-1.8.11-11.fc43.ppc64le.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/i/iptables-utils-1.8.11-12.fc43.ppc64le.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/i/iputils-20250605-1.fc43.ppc64le.rpm
   - repoid: fedora
@@ -1500,7 +1500,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/l/lzo-2.10-15.fc43.ppc64le.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/m/makedumpfile-1.7.7-4.fc43.ppc64le.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/m/makedumpfile-1.7.8-1.fc43.ppc64le.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/m/mdadm-4.3-9.fc43.ppc64le.rpm
   - repoid: fedora
@@ -1626,7 +1626,7 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/q/qed-firmware-20251021-1.fc43.noarch.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/q/qemu-user-static-x86-10.1.2-1.fc43.ppc64le.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/q/qemu-user-static-x86-10.1.2-1.fc43.ppc64le.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/r/readline-8.3-2.fc43.ppc64le.rpm
   - repoid: fedora-updates
@@ -1948,7 +1948,7 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/d/dnf5-5.2.17.0-2.fc43.s390x.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/d/dnsmasq-2.91-1.fc43.s390x.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/d/dnsmasq-2.91-1.fc43.s390x.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/d/docker-cli-28.5.1-2.fc43.s390x.rpm
   - repoid: fedora-updates
@@ -1966,11 +1966,11 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/e/e2fsprogs-libs-1.47.3-2.fc43.s390x.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/e/elfutils-default-yama-scope-0.194-1.fc43.noarch.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/e/elfutils-default-yama-scope-0.194-1.fc43.noarch.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/e/elfutils-libelf-0.194-1.fc43.s390x.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/e/elfutils-libelf-0.194-1.fc43.s390x.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/e/elfutils-libs-0.194-1.fc43.s390x.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/e/elfutils-libs-0.194-1.fc43.s390x.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/e/ethtool-6.15-3.fc43.s390x.rpm
   - repoid: fedora
@@ -2026,7 +2026,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/g/git-core-2.51.1-1.fc43.s390x.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/g/glib2-2.86.0-2.fc43.s390x.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/g/glib2-2.86.1-1.fc43.s390x.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/g/glibc-2.42-4.fc43.s390x.rpm
   - repoid: fedora
@@ -2078,13 +2078,13 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/i/iproute-tc-6.14.0-2.fc43.s390x.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/i/iptables-libs-1.8.11-11.fc43.s390x.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/i/iptables-libs-1.8.11-12.fc43.s390x.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/i/iptables-nft-1.8.11-11.fc43.s390x.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/i/iptables-nft-1.8.11-12.fc43.s390x.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/i/iptables-services-1.8.11-11.fc43.noarch.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/i/iptables-services-1.8.11-12.fc43.noarch.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/i/iptables-utils-1.8.11-11.fc43.s390x.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/i/iptables-utils-1.8.11-12.fc43.s390x.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/i/iputils-20250605-1.fc43.s390x.rpm
   - repoid: fedora-updates
@@ -2358,7 +2358,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/l/lzo-2.10-15.fc43.s390x.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/m/makedumpfile-1.7.7-4.fc43.s390x.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/m/makedumpfile-1.7.8-1.fc43.s390x.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/m/mdadm-4.3-9.fc43.s390x.rpm
   - repoid: fedora
@@ -2474,7 +2474,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/q/qed-firmware-20251021-1.fc43.noarch.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/q/qemu-user-static-x86-10.1.2-1.fc43.s390x.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/q/qemu-user-static-x86-10.1.2-1.fc43.s390x.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/r/readline-8.3-2.fc43.s390x.rpm
   - repoid: fedora
@@ -2802,7 +2802,7 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/d/dnf5-5.2.17.0-2.fc43.x86_64.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/d/dnsmasq-2.91-1.fc43.x86_64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/d/dnsmasq-2.91-1.fc43.x86_64.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/d/docker-cli-28.5.1-2.fc43.x86_64.rpm
   - repoid: fedora-updates
@@ -2826,11 +2826,11 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/e/efivar-libs-39-10.fc43.x86_64.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/e/elfutils-default-yama-scope-0.194-1.fc43.noarch.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/e/elfutils-default-yama-scope-0.194-1.fc43.noarch.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/e/elfutils-libelf-0.194-1.fc43.x86_64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/e/elfutils-libelf-0.194-1.fc43.x86_64.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/e/elfutils-libs-0.194-1.fc43.x86_64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/e/elfutils-libs-0.194-1.fc43.x86_64.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/e/ethtool-6.15-3.fc43.x86_64.rpm
   - repoid: fedora-updates
@@ -2892,7 +2892,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/g/git-core-2.51.1-1.fc43.x86_64.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/g/glib2-2.86.0-2.fc43.x86_64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/g/glib2-2.86.1-1.fc43.x86_64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/g/glibc-2.42-4.fc43.x86_64.rpm
   - repoid: fedora
@@ -2958,13 +2958,13 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/i/iproute-tc-6.14.0-2.fc43.x86_64.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/i/iptables-libs-1.8.11-11.fc43.x86_64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/i/iptables-libs-1.8.11-12.fc43.x86_64.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/i/iptables-nft-1.8.11-11.fc43.x86_64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/i/iptables-nft-1.8.11-12.fc43.x86_64.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/i/iptables-services-1.8.11-11.fc43.noarch.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/i/iptables-services-1.8.11-12.fc43.noarch.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/i/iptables-utils-1.8.11-11.fc43.x86_64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/i/iptables-utils-1.8.11-12.fc43.x86_64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/i/iputils-20250605-1.fc43.x86_64.rpm
   - repoid: fedora
@@ -3248,7 +3248,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/l/lzo-2.10-15.fc43.x86_64.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/m/makedumpfile-1.7.7-4.fc43.x86_64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/m/makedumpfile-1.7.8-1.fc43.x86_64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/m/mdadm-4.3-9.fc43.x86_64.rpm
   - repoid: fedora

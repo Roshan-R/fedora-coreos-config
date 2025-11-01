@@ -775,7 +775,7 @@
       }
     },
     "glib2": {
-      "evra": "2.86.0-2.fc43.aarch64",
+      "evra": "2.86.1-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "glib2"
       }
@@ -961,25 +961,25 @@
       }
     },
     "iptables-libs": {
-      "evra": "1.8.11-11.fc43.aarch64",
+      "evra": "1.8.11-12.fc43.aarch64",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-nft": {
-      "evra": "1.8.11-11.fc43.aarch64",
+      "evra": "1.8.11-12.fc43.aarch64",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-services": {
-      "evra": "1.8.11-11.fc43.noarch",
+      "evra": "1.8.11-12.fc43.noarch",
       "metadata": {
         "sourcerpm": "iptables"
       }
     },
     "iptables-utils": {
-      "evra": "1.8.11-11.fc43.aarch64",
+      "evra": "1.8.11-12.fc43.aarch64",
       "metadata": {
         "sourcerpm": "iptables"
       }
@@ -1837,7 +1837,7 @@
       }
     },
     "makedumpfile": {
-      "evra": "1.7.7-4.fc43.aarch64",
+      "evra": "1.7.8-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "makedumpfile"
       }
@@ -2678,16 +2678,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-10-31T00:00:00Z",
+    "generated": "2025-11-01T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:18Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-10-30T16:01:19Z"
+        "generated": "2025-10-31T07:27:23Z"
       },
       "fedora-updates": {
-        "generated": "2025-10-31T00:46:31Z"
+        "generated": "2025-11-01T01:30:58Z"
       }
     }
   }
