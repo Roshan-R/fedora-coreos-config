@@ -1087,25 +1087,25 @@
       }
     },
     "kernel": {
-      "evra": "6.17.5-300.fc43.x86_64",
+      "evra": "6.17.6-300.fc43.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.17.5-300.fc43.x86_64",
+      "evra": "6.17.6-300.fc43.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.17.5-300.fc43.x86_64",
+      "evra": "6.17.6-300.fc43.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.17.5-300.fc43.x86_64",
+      "evra": "6.17.6-300.fc43.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -1615,7 +1615,7 @@
       }
     },
     "libsolv": {
-      "evra": "0.7.34-5.fc43.x86_64",
+      "evra": "0.7.35-1.fc43.x86_64",
       "metadata": {
         "sourcerpm": "libsolv"
       }
@@ -1693,7 +1693,7 @@
       }
     },
     "libtirpc": {
-      "evra": "1.3.7-0.fc43.x86_64",
+      "evra": "1.3.7-1.fc43.x86_64",
       "metadata": {
         "sourcerpm": "libtirpc"
       }
@@ -1741,7 +1741,7 @@
       }
     },
     "libxcrypt": {
-      "evra": "4.4.38-8.fc43.x86_64",
+      "evra": "4.4.38-10.fc43.x86_64",
       "metadata": {
         "sourcerpm": "libxcrypt"
       }
@@ -2245,13 +2245,13 @@
       }
     },
     "rpm-ostree": {
-      "evra": "2025.11-1.fc43.x86_64",
+      "evra": "2025.12-1.fc43.x86_64",
       "metadata": {
         "sourcerpm": "rpm-ostree"
       }
     },
     "rpm-ostree-libs": {
-      "evra": "2025.11-1.fc43.x86_64",
+      "evra": "2025.12-1.fc43.x86_64",
       "metadata": {
         "sourcerpm": "rpm-ostree"
       }
@@ -2365,7 +2365,7 @@
       }
     },
     "skopeo": {
-      "evra": "1:1.20.0-4.fc43.x86_64",
+      "evra": "1:1.20.0-5.fc43.x86_64",
       "metadata": {
         "sourcerpm": "skopeo"
       }
@@ -2599,13 +2599,13 @@
       }
     },
     "vim-data": {
-      "evra": "2:9.1.1863-1.fc43.noarch",
+      "evra": "2:9.1.1888-1.fc43.noarch",
       "metadata": {
         "sourcerpm": "vim"
       }
     },
     "vim-minimal": {
-      "evra": "2:9.1.1863-1.fc43.x86_64",
+      "evra": "2:9.1.1888-1.fc43.x86_64",
       "metadata": {
         "sourcerpm": "vim"
       }
@@ -2690,16 +2690,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-01T00:00:00Z",
+    "generated": "2025-11-04T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:20Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-10-31T07:28:54Z"
+        "generated": "2025-11-01T15:48:56Z"
       },
       "fedora-updates": {
-        "generated": "2025-11-01T01:31:00Z"
+        "generated": "2025-11-04T04:02:57Z"
       }
     }
   }
