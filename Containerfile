@@ -48,7 +48,7 @@ RUN --mount=type=bind,target=/run/src,rw \
         --bootc --format-version=1 --rootfs /target-rootfs \
         --output oci-archive:/run/src/out.ociarchive \
         --label com.coreos.inputhash=$(cat /run/inputhash) \
-        --label fedora-coreos.stream=$STREAM
+        --label com.coreos.stream=$STREAM
 
 FROM oci-archive:./out.ociarchive
 ARG VERSION
