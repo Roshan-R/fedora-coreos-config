@@ -358,13 +358,13 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/k/kdump-utils-1.0.58-1.fc43.aarch64.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/k/kernel-6.17.6-300.fc43.aarch64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/k/kernel-6.17.6-300.fc43.aarch64.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/k/kernel-core-6.17.6-300.fc43.aarch64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/k/kernel-core-6.17.6-300.fc43.aarch64.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/k/kernel-modules-6.17.6-300.fc43.aarch64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/k/kernel-modules-6.17.6-300.fc43.aarch64.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/k/kernel-modules-core-6.17.6-300.fc43.aarch64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/k/kernel-modules-core-6.17.6-300.fc43.aarch64.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/k/kexec-tools-2.0.32-1.fc43.aarch64.rpm
   - repoid: fedora-updates
@@ -536,7 +536,7 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/l/libsmbclient-4.23.2-1.fc43.aarch64.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/l/libsolv-0.7.35-1.fc43.aarch64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/l/libsolv-0.7.35-1.fc43.aarch64.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/l/libss-1.47.3-2.fc43.aarch64.rpm
   - repoid: fedora-updates
@@ -562,7 +562,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/l/libtextstyle-0.25.1-2.fc43.aarch64.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/l/libtirpc-1.3.7-1.fc43.aarch64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/l/libtirpc-1.3.7-1.fc43.aarch64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/l/libtool-ltdl-2.5.4-7.fc43.aarch64.rpm
   - repoid: fedora
@@ -578,7 +578,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/l/libwbclient-4.23.2-1.fc43.aarch64.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/l/libxcrypt-4.4.38-10.fc43.aarch64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/l/libxcrypt-4.4.38-10.fc43.aarch64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/l/libxml2-2.12.10-5.fc43.aarch64.rpm
   - repoid: fedora
@@ -746,9 +746,9 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/r/rpm-libs-6.0.0-1.fc43.aarch64.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/r/rpm-ostree-2025.12-1.fc43.aarch64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/r/rpm-ostree-2025.12-1.fc43.aarch64.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/r/rpm-ostree-libs-2025.12-1.fc43.aarch64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/r/rpm-ostree-libs-2025.12-1.fc43.aarch64.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/r/rpm-plugin-selinux-6.0.0-1.fc43.aarch64.rpm
   - repoid: fedora-updates
@@ -786,7 +786,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/s/shim-aa64-15.8-3.aarch64.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/s/skopeo-1.20.0-5.fc43.aarch64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/s/skopeo-1.20.0-5.fc43.aarch64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/s/slang-2.3.3-8.fc43.aarch64.rpm
   - repoid: fedora
@@ -864,9 +864,9 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/u/util-linux-core-2.41.1-17.fc43.aarch64.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/v/vim-data-9.1.1888-1.fc43.noarch.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/v/vim-data-9.1.1888-1.fc43.noarch.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/v/vim-minimal-9.1.1888-1.fc43.aarch64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/v/vim-minimal-9.1.1888-1.fc43.aarch64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/w/wasmedge-rt-0.15.0-1.fc43.aarch64.rpm
   - repoid: fedora
@@ -1246,13 +1246,13 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/k/kdump-utils-1.0.58-1.fc43.ppc64le.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/k/kernel-6.17.6-300.fc43.ppc64le.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/k/kernel-6.17.6-300.fc43.ppc64le.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/k/kernel-core-6.17.6-300.fc43.ppc64le.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/k/kernel-core-6.17.6-300.fc43.ppc64le.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/k/kernel-modules-6.17.6-300.fc43.ppc64le.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/k/kernel-modules-6.17.6-300.fc43.ppc64le.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/k/kernel-modules-core-6.17.6-300.fc43.ppc64le.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/k/kernel-modules-core-6.17.6-300.fc43.ppc64le.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/k/kexec-tools-2.0.32-1.fc43.ppc64le.rpm
   - repoid: fedora
@@ -1426,7 +1426,7 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/l/libsmbclient-4.23.2-1.fc43.ppc64le.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/l/libsolv-0.7.35-1.fc43.ppc64le.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/l/libsolv-0.7.35-1.fc43.ppc64le.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/l/libss-1.47.3-2.fc43.ppc64le.rpm
   - repoid: fedora-updates
@@ -1452,7 +1452,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/l/libtextstyle-0.25.1-2.fc43.ppc64le.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/l/libtirpc-1.3.7-1.fc43.ppc64le.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/l/libtirpc-1.3.7-1.fc43.ppc64le.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/l/libtool-ltdl-2.5.4-7.fc43.ppc64le.rpm
   - repoid: fedora
@@ -1468,7 +1468,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/l/libwbclient-4.23.2-1.fc43.ppc64le.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/l/libxcrypt-4.4.38-10.fc43.ppc64le.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/l/libxcrypt-4.4.38-10.fc43.ppc64le.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/l/libxml2-2.12.10-5.fc43.ppc64le.rpm
   - repoid: fedora
@@ -1636,9 +1636,9 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/r/rpm-libs-6.0.0-1.fc43.ppc64le.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/r/rpm-ostree-2025.12-1.fc43.ppc64le.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/r/rpm-ostree-2025.12-1.fc43.ppc64le.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/r/rpm-ostree-libs-2025.12-1.fc43.ppc64le.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/r/rpm-ostree-libs-2025.12-1.fc43.ppc64le.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/r/rpm-plugin-selinux-6.0.0-1.fc43.ppc64le.rpm
   - repoid: fedora-updates
@@ -1676,7 +1676,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/s/shared-mime-info-2.4-2.fc43.ppc64le.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/s/skopeo-1.20.0-5.fc43.ppc64le.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/s/skopeo-1.20.0-5.fc43.ppc64le.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/s/slang-2.3.3-8.fc43.ppc64le.rpm
   - repoid: fedora
@@ -1752,9 +1752,9 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/u/util-linux-core-2.41.1-17.fc43.ppc64le.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/v/vim-data-9.1.1888-1.fc43.noarch.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/v/vim-data-9.1.1888-1.fc43.noarch.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/v/vim-minimal-9.1.1888-1.fc43.ppc64le.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/v/vim-minimal-9.1.1888-1.fc43.ppc64le.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/w/which-2.23-3.fc43.ppc64le.rpm
   - repoid: fedora-updates
@@ -2112,13 +2112,13 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/k/kdump-utils-1.0.58-1.fc43.s390x.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/k/kernel-6.17.6-300.fc43.s390x.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/k/kernel-6.17.6-300.fc43.s390x.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/k/kernel-core-6.17.6-300.fc43.s390x.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/k/kernel-core-6.17.6-300.fc43.s390x.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/k/kernel-modules-6.17.6-300.fc43.s390x.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/k/kernel-modules-6.17.6-300.fc43.s390x.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/k/kernel-modules-core-6.17.6-300.fc43.s390x.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/k/kernel-modules-core-6.17.6-300.fc43.s390x.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/k/kexec-tools-2.0.32-1.fc43.s390x.rpm
   - repoid: fedora
@@ -2286,7 +2286,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/l/libsmbclient-4.23.2-1.fc43.s390x.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/l/libsolv-0.7.35-1.fc43.s390x.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/l/libsolv-0.7.35-1.fc43.s390x.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/l/libss-1.47.3-2.fc43.s390x.rpm
   - repoid: fedora
@@ -2310,7 +2310,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/l/libtevent-0.17.1-3.fc43.s390x.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/l/libtirpc-1.3.7-1.fc43.s390x.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/l/libtirpc-1.3.7-1.fc43.s390x.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/l/libtool-ltdl-2.5.4-7.fc43.s390x.rpm
   - repoid: fedora
@@ -2326,7 +2326,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/l/libwbclient-4.23.2-1.fc43.s390x.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/l/libxcrypt-4.4.38-10.fc43.s390x.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/l/libxcrypt-4.4.38-10.fc43.s390x.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/l/libxml2-2.12.10-5.fc43.s390x.rpm
   - repoid: fedora
@@ -2484,9 +2484,9 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/r/rpm-libs-6.0.0-1.fc43.s390x.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/r/rpm-ostree-2025.12-1.fc43.s390x.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/r/rpm-ostree-2025.12-1.fc43.s390x.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/r/rpm-ostree-libs-2025.12-1.fc43.s390x.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/r/rpm-ostree-libs-2025.12-1.fc43.s390x.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/r/rpm-plugin-selinux-6.0.0-1.fc43.s390x.rpm
   - repoid: fedora
@@ -2524,7 +2524,7 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/s/shared-mime-info-2.4-2.fc43.s390x.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/s/skopeo-1.20.0-5.fc43.s390x.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/s/skopeo-1.20.0-5.fc43.s390x.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/s/slang-2.3.3-8.fc43.s390x.rpm
   - repoid: fedora-updates
@@ -2602,9 +2602,9 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/v/veritysetup-2.8.1-1.fc43.s390x.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/v/vim-data-9.1.1888-1.fc43.noarch.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/v/vim-data-9.1.1888-1.fc43.noarch.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/v/vim-minimal-9.1.1888-1.fc43.s390x.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/v/vim-minimal-9.1.1888-1.fc43.s390x.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/w/which-2.23-3.fc43.s390x.rpm
   - repoid: fedora-updates
@@ -2994,13 +2994,13 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/k/kdump-utils-1.0.58-1.fc43.x86_64.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/k/kernel-6.17.6-300.fc43.x86_64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/k/kernel-6.17.6-300.fc43.x86_64.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/k/kernel-core-6.17.6-300.fc43.x86_64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/k/kernel-core-6.17.6-300.fc43.x86_64.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/k/kernel-modules-6.17.6-300.fc43.x86_64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/k/kernel-modules-6.17.6-300.fc43.x86_64.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/k/kernel-modules-core-6.17.6-300.fc43.x86_64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/k/kernel-modules-core-6.17.6-300.fc43.x86_64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/k/kexec-tools-2.0.32-1.fc43.x86_64.rpm
   - repoid: fedora
@@ -3170,7 +3170,7 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/l/libsmbclient-4.23.2-1.fc43.x86_64.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/l/libsolv-0.7.35-1.fc43.x86_64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/l/libsolv-0.7.35-1.fc43.x86_64.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/l/libss-1.47.3-2.fc43.x86_64.rpm
   - repoid: fedora-updates
@@ -3196,7 +3196,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/l/libtextstyle-0.25.1-2.fc43.x86_64.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/l/libtirpc-1.3.7-1.fc43.x86_64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/l/libtirpc-1.3.7-1.fc43.x86_64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/l/libtool-ltdl-2.5.4-7.fc43.x86_64.rpm
   - repoid: fedora
@@ -3212,7 +3212,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/l/libwbclient-4.23.2-1.fc43.x86_64.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/l/libxcrypt-4.4.38-10.fc43.x86_64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/l/libxcrypt-4.4.38-10.fc43.x86_64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/l/libxml2-2.12.10-5.fc43.x86_64.rpm
   - repoid: fedora
@@ -3380,9 +3380,9 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/r/rpm-libs-6.0.0-1.fc43.x86_64.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/r/rpm-ostree-2025.12-1.fc43.x86_64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/r/rpm-ostree-2025.12-1.fc43.x86_64.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/r/rpm-ostree-libs-2025.12-1.fc43.x86_64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/r/rpm-ostree-libs-2025.12-1.fc43.x86_64.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/r/rpm-plugin-selinux-6.0.0-1.fc43.x86_64.rpm
   - repoid: fedora-updates
@@ -3420,7 +3420,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/s/shim-x64-15.8-3.x86_64.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/s/skopeo-1.20.0-5.fc43.x86_64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/s/skopeo-1.20.0-5.fc43.x86_64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/s/slang-2.3.3-8.fc43.x86_64.rpm
   - repoid: fedora
@@ -3498,9 +3498,9 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/u/util-linux-core-2.41.1-17.fc43.x86_64.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/v/vim-data-9.1.1888-1.fc43.noarch.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/v/vim-data-9.1.1888-1.fc43.noarch.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/v/vim-minimal-9.1.1888-1.fc43.x86_64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/v/vim-minimal-9.1.1888-1.fc43.x86_64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/w/wasmedge-rt-0.15.0-1.fc43.x86_64.rpm
   - repoid: fedora
