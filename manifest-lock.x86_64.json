@@ -1087,25 +1087,25 @@
       }
     },
     "kernel": {
-      "evra": "6.17.6-300.fc43.x86_64",
+      "evra": "6.17.7-300.fc43.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.17.6-300.fc43.x86_64",
+      "evra": "6.17.7-300.fc43.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.17.6-300.fc43.x86_64",
+      "evra": "6.17.7-300.fc43.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.17.6-300.fc43.x86_64",
+      "evra": "6.17.7-300.fc43.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -1273,7 +1273,7 @@
       }
     },
     "libdrm": {
-      "evra": "2.4.127-3.fc43.x86_64",
+      "evra": "2.4.128-3.fc43.x86_64",
       "metadata": {
         "sourcerpm": "libdrm"
       }
@@ -1741,7 +1741,7 @@
       }
     },
     "libxcrypt": {
-      "evra": "4.4.38-10.fc43.x86_64",
+      "evra": "4.5.0-1.fc43.x86_64",
       "metadata": {
         "sourcerpm": "libxcrypt"
       }
@@ -2479,7 +2479,7 @@
       }
     },
     "sudo": {
-      "evra": "1.9.17-5.p1.fc43.x86_64",
+      "evra": "1.9.17-6.p2.fc43.x86_64",
       "metadata": {
         "sourcerpm": "sudo"
       }
@@ -2690,16 +2690,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-05T00:00:00Z",
+    "generated": "2025-11-06T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:20Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-11-04T16:05:33Z"
+        "generated": "2025-11-05T16:49:18Z"
       },
       "fedora-updates": {
-        "generated": "2025-11-05T01:53:14Z"
+        "generated": "2025-11-06T02:33:14Z"
       }
     }
   }
