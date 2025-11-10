@@ -145,13 +145,13 @@
       }
     },
     "bind-libs": {
-      "evra": "32:9.18.41-1.fc43.s390x",
+      "evra": "32:9.18.41-2.fc43.s390x",
       "metadata": {
         "sourcerpm": "bind"
       }
     },
     "bind-utils": {
-      "evra": "32:9.18.41-1.fc43.s390x",
+      "evra": "32:9.18.41-2.fc43.s390x",
       "metadata": {
         "sourcerpm": "bind"
       }
@@ -175,7 +175,7 @@
       }
     },
     "btrfs-progs": {
-      "evra": "6.17-1.fc43.s390x",
+      "evra": "6.17.1-1.fc43.s390x",
       "metadata": {
         "sourcerpm": "btrfs-progs"
       }
@@ -733,7 +733,7 @@
       }
     },
     "glib2": {
-      "evra": "2.86.1-1.fc43.s390x",
+      "evra": "2.86.1-2.fc43.s390x",
       "metadata": {
         "sourcerpm": "glib2"
       }
@@ -841,7 +841,7 @@
       }
     },
     "hwdata": {
-      "evra": "0.400-1.fc43.noarch",
+      "evra": "0.401-1.fc43.noarch",
       "metadata": {
         "sourcerpm": "hwdata"
       }
@@ -1315,7 +1315,7 @@
       }
     },
     "libluksmeta": {
-      "evra": "9-25.fc43.s390x",
+      "evra": "10-1.fc43.s390x",
       "metadata": {
         "sourcerpm": "luksmeta"
       }
@@ -1633,7 +1633,7 @@
       }
     },
     "libxcrypt": {
-      "evra": "4.5.0-1.fc43.s390x",
+      "evra": "4.5.1-1.fc43.s390x",
       "metadata": {
         "sourcerpm": "libxcrypt"
       }
@@ -1699,7 +1699,7 @@
       }
     },
     "luksmeta": {
-      "evra": "9-25.fc43.s390x",
+      "evra": "10-1.fc43.s390x",
       "metadata": {
         "sourcerpm": "luksmeta"
       }
@@ -2546,7 +2546,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-07T00:00:00Z",
+    "generated": "2025-11-10T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:17Z"
@@ -2555,7 +2555,7 @@
         "generated": "2025-11-06T15:39:21Z"
       },
       "fedora-updates": {
-        "generated": "2025-11-07T00:47:54Z"
+        "generated": "2025-11-10T00:42:43Z"
       }
     }
   }

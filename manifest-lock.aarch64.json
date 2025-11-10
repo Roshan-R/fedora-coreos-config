@@ -145,13 +145,13 @@
       }
     },
     "bind-libs": {
-      "evra": "32:9.18.41-1.fc43.aarch64",
+      "evra": "32:9.18.41-2.fc43.aarch64",
       "metadata": {
         "sourcerpm": "bind"
       }
     },
     "bind-utils": {
-      "evra": "32:9.18.41-1.fc43.aarch64",
+      "evra": "32:9.18.41-2.fc43.aarch64",
       "metadata": {
         "sourcerpm": "bind"
       }
@@ -175,7 +175,7 @@
       }
     },
     "btrfs-progs": {
-      "evra": "6.17-1.fc43.aarch64",
+      "evra": "6.17.1-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "btrfs-progs"
       }
@@ -775,7 +775,7 @@
       }
     },
     "glib2": {
-      "evra": "2.86.1-1.fc43.aarch64",
+      "evra": "2.86.1-2.fc43.aarch64",
       "metadata": {
         "sourcerpm": "glib2"
       }
@@ -913,7 +913,7 @@
       }
     },
     "hwdata": {
-      "evra": "0.400-1.fc43.noarch",
+      "evra": "0.401-1.fc43.noarch",
       "metadata": {
         "sourcerpm": "hwdata"
       }
@@ -1399,7 +1399,7 @@
       }
     },
     "libluksmeta": {
-      "evra": "9-25.fc43.aarch64",
+      "evra": "10-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "luksmeta"
       }
@@ -1729,7 +1729,7 @@
       }
     },
     "libxcrypt": {
-      "evra": "4.5.0-1.fc43.aarch64",
+      "evra": "4.5.1-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "libxcrypt"
       }
@@ -1807,7 +1807,7 @@
       }
     },
     "luksmeta": {
-      "evra": "9-25.fc43.aarch64",
+      "evra": "10-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "luksmeta"
       }
@@ -2678,7 +2678,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-07T00:00:00Z",
+    "generated": "2025-11-10T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:18Z"
@@ -2687,7 +2687,7 @@
         "generated": "2025-11-06T15:43:54Z"
       },
       "fedora-updates": {
-        "generated": "2025-11-07T00:47:52Z"
+        "generated": "2025-11-10T00:42:41Z"
       }
     }
   }
