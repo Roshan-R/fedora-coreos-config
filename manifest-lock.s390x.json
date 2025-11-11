@@ -67,7 +67,7 @@
       }
     },
     "alternatives": {
-      "evra": "1.33-2.fc43.s390x",
+      "evra": "1.33-3.fc43.s390x",
       "metadata": {
         "sourcerpm": "chkconfig"
       }
@@ -1309,7 +1309,7 @@
       }
     },
     "libldb": {
-      "evra": "2:4.23.2-1.fc43.s390x",
+      "evra": "2:4.23.3-1.fc43.s390x",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -1507,7 +1507,7 @@
       }
     },
     "libsmbclient": {
-      "evra": "2:4.23.2-1.fc43.s390x",
+      "evra": "2:4.23.3-1.fc43.s390x",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -1627,7 +1627,7 @@
       }
     },
     "libwbclient": {
-      "evra": "2:4.23.2-1.fc43.s390x",
+      "evra": "2:4.23.3-1.fc43.s390x",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -2149,19 +2149,19 @@
       }
     },
     "samba-client-libs": {
-      "evra": "2:4.23.2-1.fc43.s390x",
+      "evra": "2:4.23.3-1.fc43.s390x",
       "metadata": {
         "sourcerpm": "samba"
       }
     },
     "samba-common": {
-      "evra": "2:4.23.2-1.fc43.noarch",
+      "evra": "2:4.23.3-1.fc43.noarch",
       "metadata": {
         "sourcerpm": "samba"
       }
     },
     "samba-common-libs": {
-      "evra": "2:4.23.2-1.fc43.s390x",
+      "evra": "2:4.23.3-1.fc43.s390x",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -2546,16 +2546,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-10T00:00:00Z",
+    "generated": "2025-11-11T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:17Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-11-06T15:39:21Z"
+        "generated": "2025-11-10T17:05:50Z"
       },
       "fedora-updates": {
-        "generated": "2025-11-10T00:42:43Z"
+        "generated": "2025-11-11T00:45:40Z"
       }
     }
   }
