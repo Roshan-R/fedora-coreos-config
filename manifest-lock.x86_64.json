@@ -1975,7 +1975,7 @@
       }
     },
     "nmstate": {
-      "evra": "2.2.52-2.fc43.x86_64",
+      "evra": "2.2.54-1.fc43.x86_64",
       "metadata": {
         "sourcerpm": "nmstate"
       }
@@ -2690,16 +2690,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-11T00:00:00Z",
+    "generated": "2025-11-12T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:20Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-11-10T17:10:12Z"
+        "generated": "2025-11-11T16:28:04Z"
       },
       "fedora-updates": {
-        "generated": "2025-11-11T00:45:41Z"
+        "generated": "2025-11-12T00:43:57Z"
       }
     }
   }
