@@ -757,7 +757,7 @@
       }
     },
     "glib2": {
-      "evra": "2.86.1-2.fc43.ppc64le",
+      "evra": "2.86.1-5.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "glib2"
       }
@@ -1717,7 +1717,7 @@
       }
     },
     "libxcrypt": {
-      "evra": "4.5.1-1.fc43.ppc64le",
+      "evra": "4.5.2-1.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "libxcrypt"
       }
@@ -2455,49 +2455,49 @@
       }
     },
     "systemd": {
-      "evra": "258.1-1.fc43.ppc64le",
+      "evra": "258.2-1.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-container": {
-      "evra": "258.1-1.fc43.ppc64le",
+      "evra": "258.2-1.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-libs": {
-      "evra": "258.1-1.fc43.ppc64le",
+      "evra": "258.2-1.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-pam": {
-      "evra": "258.1-1.fc43.ppc64le",
+      "evra": "258.2-1.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-resolved": {
-      "evra": "258.1-1.fc43.ppc64le",
+      "evra": "258.2-1.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-shared": {
-      "evra": "258.1-1.fc43.ppc64le",
+      "evra": "258.2-1.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-sysusers": {
-      "evra": "258.1-1.fc43.ppc64le",
+      "evra": "258.2-1.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-udev": {
-      "evra": "258.1-1.fc43.ppc64le",
+      "evra": "258.2-1.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "systemd"
       }
@@ -2654,16 +2654,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-12T00:00:00Z",
+    "generated": "2025-11-13T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:18Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-11-11T16:31:55Z"
+        "generated": "2025-11-13T00:27:22Z"
       },
       "fedora-updates": {
-        "generated": "2025-11-12T00:43:55Z"
+        "generated": "2025-11-13T00:46:55Z"
       }
     }
   }

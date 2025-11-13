@@ -260,7 +260,7 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/g/git-core-2.51.1-1.fc43.aarch64.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/g/glib2-2.86.1-2.fc43.aarch64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/g/glib2-2.86.1-5.fc43.aarch64.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/g/glibc-2.42-4.fc43.aarch64.rpm
   - repoid: fedora-updates
@@ -578,7 +578,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/l/libwbclient-4.23.3-1.fc43.aarch64.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/l/libxcrypt-4.5.1-1.fc43.aarch64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/l/libxcrypt-4.5.2-1.fc43.aarch64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/l/libxml2-2.12.10-5.fc43.aarch64.rpm
   - repoid: fedora
@@ -654,7 +654,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/n/ngtcp2-crypto-gnutls-1.16.0-1.fc43.aarch64.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/n/nmstate-2.2.54-1.fc43.aarch64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/n/nmstate-2.2.54-1.fc43.aarch64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/n/npth-1.8-3.fc43.aarch64.rpm
   - repoid: fedora
@@ -826,21 +826,21 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/s/sudo-1.9.17-6.p2.fc43.aarch64.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/s/systemd-258.1-1.fc43.aarch64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/s/systemd-258.2-1.fc43.aarch64.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/s/systemd-container-258.1-1.fc43.aarch64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/s/systemd-container-258.2-1.fc43.aarch64.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/s/systemd-libs-258.1-1.fc43.aarch64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/s/systemd-libs-258.2-1.fc43.aarch64.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/s/systemd-pam-258.1-1.fc43.aarch64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/s/systemd-pam-258.2-1.fc43.aarch64.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/s/systemd-resolved-258.1-1.fc43.aarch64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/s/systemd-resolved-258.2-1.fc43.aarch64.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/s/systemd-shared-258.1-1.fc43.aarch64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/s/systemd-shared-258.2-1.fc43.aarch64.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/s/systemd-sysusers-258.1-1.fc43.aarch64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/s/systemd-sysusers-258.2-1.fc43.aarch64.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/s/systemd-udev-258.1-1.fc43.aarch64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/s/systemd-udev-258.2-1.fc43.aarch64.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/t/tar-1.35-6.fc43.aarch64.rpm
   - repoid: fedora-updates
@@ -1148,7 +1148,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/g/git-core-2.51.1-1.fc43.ppc64le.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/g/glib2-2.86.1-2.fc43.ppc64le.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/g/glib2-2.86.1-5.fc43.ppc64le.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/g/glibc-2.42-4.fc43.ppc64le.rpm
   - repoid: fedora
@@ -1468,7 +1468,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/l/libwbclient-4.23.3-1.fc43.ppc64le.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/l/libxcrypt-4.5.1-1.fc43.ppc64le.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/l/libxcrypt-4.5.2-1.fc43.ppc64le.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/l/libxml2-2.12.10-5.fc43.ppc64le.rpm
   - repoid: fedora
@@ -1538,7 +1538,7 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/n/ngtcp2-crypto-gnutls-1.16.0-1.fc43.ppc64le.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/n/nmstate-2.2.54-1.fc43.ppc64le.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/n/nmstate-2.2.54-1.fc43.ppc64le.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/n/npth-1.8-3.fc43.ppc64le.rpm
   - repoid: fedora-updates
@@ -1714,21 +1714,21 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/s/sudo-1.9.17-6.p2.fc43.ppc64le.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/s/systemd-258.1-1.fc43.ppc64le.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/s/systemd-258.2-1.fc43.ppc64le.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/s/systemd-container-258.1-1.fc43.ppc64le.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/s/systemd-container-258.2-1.fc43.ppc64le.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/s/systemd-libs-258.1-1.fc43.ppc64le.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/s/systemd-libs-258.2-1.fc43.ppc64le.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/s/systemd-pam-258.1-1.fc43.ppc64le.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/s/systemd-pam-258.2-1.fc43.ppc64le.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/s/systemd-resolved-258.1-1.fc43.ppc64le.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/s/systemd-resolved-258.2-1.fc43.ppc64le.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/s/systemd-shared-258.1-1.fc43.ppc64le.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/s/systemd-shared-258.2-1.fc43.ppc64le.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/s/systemd-sysusers-258.1-1.fc43.ppc64le.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/s/systemd-sysusers-258.2-1.fc43.ppc64le.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/s/systemd-udev-258.1-1.fc43.ppc64le.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/s/systemd-udev-258.2-1.fc43.ppc64le.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/t/tar-1.35-6.fc43.ppc64le.rpm
   - repoid: fedora
@@ -2026,7 +2026,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/g/git-core-2.51.1-1.fc43.s390x.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/g/glib2-2.86.1-2.fc43.s390x.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/g/glib2-2.86.1-5.fc43.s390x.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/g/glibc-2.42-4.fc43.s390x.rpm
   - repoid: fedora
@@ -2326,7 +2326,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/l/libwbclient-4.23.3-1.fc43.s390x.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/l/libxcrypt-4.5.1-1.fc43.s390x.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/l/libxcrypt-4.5.2-1.fc43.s390x.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/l/libxml2-2.12.10-5.fc43.s390x.rpm
   - repoid: fedora
@@ -2396,7 +2396,7 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/n/ngtcp2-crypto-gnutls-1.16.0-1.fc43.s390x.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/n/nmstate-2.2.54-1.fc43.s390x.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/n/nmstate-2.2.54-1.fc43.s390x.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/n/npth-1.8-3.fc43.s390x.rpm
   - repoid: fedora-updates
@@ -2562,21 +2562,21 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/s/sudo-1.9.17-6.p2.fc43.s390x.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/s/systemd-258.1-1.fc43.s390x.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/s/systemd-258.2-1.fc43.s390x.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/s/systemd-container-258.1-1.fc43.s390x.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/s/systemd-container-258.2-1.fc43.s390x.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/s/systemd-libs-258.1-1.fc43.s390x.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/s/systemd-libs-258.2-1.fc43.s390x.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/s/systemd-pam-258.1-1.fc43.s390x.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/s/systemd-pam-258.2-1.fc43.s390x.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/s/systemd-resolved-258.1-1.fc43.s390x.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/s/systemd-resolved-258.2-1.fc43.s390x.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/s/systemd-shared-258.1-1.fc43.s390x.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/s/systemd-shared-258.2-1.fc43.s390x.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/s/systemd-sysusers-258.1-1.fc43.s390x.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/s/systemd-sysusers-258.2-1.fc43.s390x.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/s/systemd-udev-258.1-1.fc43.s390x.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/s/systemd-udev-258.2-1.fc43.s390x.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/t/tar-1.35-6.fc43.s390x.rpm
   - repoid: fedora-updates
@@ -2892,7 +2892,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/g/git-core-2.51.1-1.fc43.x86_64.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/g/glib2-2.86.1-2.fc43.x86_64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/g/glib2-2.86.1-5.fc43.x86_64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/g/glibc-2.42-4.fc43.x86_64.rpm
   - repoid: fedora
@@ -3212,7 +3212,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/l/libwbclient-4.23.3-1.fc43.x86_64.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/l/libxcrypt-4.5.1-1.fc43.x86_64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/l/libxcrypt-4.5.2-1.fc43.x86_64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/l/libxml2-2.12.10-5.fc43.x86_64.rpm
   - repoid: fedora
@@ -3290,7 +3290,7 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/n/ngtcp2-crypto-gnutls-1.16.0-1.fc43.x86_64.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/n/nmstate-2.2.54-1.fc43.x86_64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/n/nmstate-2.2.54-1.fc43.x86_64.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/n/npth-1.8-3.fc43.x86_64.rpm
   - repoid: fedora-updates
@@ -3460,21 +3460,21 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/s/sudo-1.9.17-6.p2.fc43.x86_64.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/s/systemd-258.1-1.fc43.x86_64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/s/systemd-258.2-1.fc43.x86_64.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/s/systemd-container-258.1-1.fc43.x86_64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/s/systemd-container-258.2-1.fc43.x86_64.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/s/systemd-libs-258.1-1.fc43.x86_64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/s/systemd-libs-258.2-1.fc43.x86_64.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/s/systemd-pam-258.1-1.fc43.x86_64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/s/systemd-pam-258.2-1.fc43.x86_64.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/s/systemd-resolved-258.1-1.fc43.x86_64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/s/systemd-resolved-258.2-1.fc43.x86_64.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/s/systemd-shared-258.1-1.fc43.x86_64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/s/systemd-shared-258.2-1.fc43.x86_64.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/s/systemd-sysusers-258.1-1.fc43.x86_64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/s/systemd-sysusers-258.2-1.fc43.x86_64.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/s/systemd-udev-258.1-1.fc43.x86_64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/s/systemd-udev-258.2-1.fc43.x86_64.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/t/tar-1.35-6.fc43.x86_64.rpm
   - repoid: fedora-updates
