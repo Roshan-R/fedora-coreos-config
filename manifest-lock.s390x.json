@@ -379,7 +379,7 @@
       }
     },
     "crun": {
-      "evra": "1.24-1.fc43.s390x",
+      "evra": "1.25-1.fc43.s390x",
       "metadata": {
         "sourcerpm": "crun"
       }
@@ -505,7 +505,7 @@
       }
     },
     "docker-cli": {
-      "evra": "28.5.1-2.fc43.s390x",
+      "evra": "28.5.2-1.fc43.s390x",
       "metadata": {
         "sourcerpm": "moby-engine"
       }
@@ -697,7 +697,7 @@
       }
     },
     "fwupd": {
-      "evra": "2.0.16-1.fc43.s390x",
+      "evra": "2.0.17-1.fc43.s390x",
       "metadata": {
         "sourcerpm": "fwupd"
       }
@@ -1741,13 +1741,13 @@
       }
     },
     "moby-engine": {
-      "evra": "28.5.1-2.fc43.s390x",
+      "evra": "28.5.2-1.fc43.s390x",
       "metadata": {
         "sourcerpm": "moby-engine"
       }
     },
     "moby-filesystem": {
-      "evra": "28.5.1-2.fc43.noarch",
+      "evra": "28.5.2-1.fc43.noarch",
       "metadata": {
         "sourcerpm": "moby-engine"
       }
@@ -2137,7 +2137,7 @@
       }
     },
     "runc": {
-      "evra": "2:1.3.2-1.fc43.s390x",
+      "evra": "2:1.3.3-1.fc43.s390x",
       "metadata": {
         "sourcerpm": "runc"
       }
@@ -2546,16 +2546,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-13T00:00:00Z",
+    "generated": "2025-11-14T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:17Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-11-13T00:26:51Z"
+        "generated": "2025-11-13T18:26:50Z"
       },
       "fedora-updates": {
-        "generated": "2025-11-13T00:46:57Z"
+        "generated": "2025-11-14T01:18:54Z"
       }
     }
   }
