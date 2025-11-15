@@ -319,7 +319,7 @@
       }
     },
     "containerd": {
-      "evra": "2.1.4-4.fc43.ppc64le",
+      "evra": "2.1.5-1.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "containerd"
       }
@@ -1147,7 +1147,7 @@
       }
     },
     "libatomic": {
-      "evra": "15.2.1-3.fc43.ppc64le",
+      "evra": "15.2.1-4.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "gcc"
       }
@@ -1285,7 +1285,7 @@
       }
     },
     "libgcc": {
-      "evra": "15.2.1-3.fc43.ppc64le",
+      "evra": "15.2.1-4.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "gcc"
       }
@@ -1627,7 +1627,7 @@
       }
     },
     "libstdc++": {
-      "evra": "15.2.1-3.fc43.ppc64le",
+      "evra": "15.2.1-4.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "gcc"
       }
@@ -1777,7 +1777,7 @@
       }
     },
     "lua-libs": {
-      "evra": "5.4.8-2.fc43.ppc64le",
+      "evra": "5.4.8-3.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "lua"
       }
@@ -2287,13 +2287,13 @@
       }
     },
     "selinux-policy": {
-      "evra": "42.14-1.fc43.noarch",
+      "evra": "42.15-1.fc43.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
     },
     "selinux-policy-targeted": {
-      "evra": "42.14-1.fc43.noarch",
+      "evra": "42.15-1.fc43.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
@@ -2654,7 +2654,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-14T00:00:00Z",
+    "generated": "2025-11-15T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:18Z"
@@ -2663,7 +2663,7 @@
         "generated": "2025-11-13T18:27:55Z"
       },
       "fedora-updates": {
-        "generated": "2025-11-14T01:18:53Z"
+        "generated": "2025-11-15T00:44:20Z"
       }
     }
   }
