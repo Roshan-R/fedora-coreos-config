@@ -163,7 +163,7 @@
       }
     },
     "bootc": {
-      "evra": "1.8.0-1.fc43.ppc64le",
+      "evra": "1.10.0-2.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "bootc"
       }
@@ -2654,7 +2654,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-17T00:00:00Z",
+    "generated": "2025-11-18T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:18Z"
@@ -2663,7 +2663,7 @@
         "generated": "2025-11-17T06:12:05Z"
       },
       "fedora-updates": {
-        "generated": "2025-11-17T02:40:08Z"
+        "generated": "2025-11-18T02:12:08Z"
       }
     }
   }
