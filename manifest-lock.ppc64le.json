@@ -1051,25 +1051,25 @@
       }
     },
     "kernel": {
-      "evra": "6.17.7-300.fc43.ppc64le",
+      "evra": "6.17.8-300.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.17.7-300.fc43.ppc64le",
+      "evra": "6.17.8-300.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.17.7-300.fc43.ppc64le",
+      "evra": "6.17.8-300.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.17.7-300.fc43.ppc64le",
+      "evra": "6.17.8-300.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -2443,7 +2443,7 @@
       }
     },
     "stalld": {
-      "evra": "1.23.1-1.fc43.ppc64le",
+      "evra": "1.25.1-1.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "stalld"
       }
@@ -2654,7 +2654,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-18T00:00:00Z",
+    "generated": "2025-11-19T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:18Z"
@@ -2663,7 +2663,7 @@
         "generated": "2025-11-17T06:12:05Z"
       },
       "fedora-updates": {
-        "generated": "2025-11-18T02:12:08Z"
+        "generated": "2025-11-19T01:58:31Z"
       }
     }
   }
