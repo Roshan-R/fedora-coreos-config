@@ -2143,9 +2143,15 @@
       }
     },
     "podman": {
-      "evra": "5:5.6.2-1.fc43.aarch64",
+      "evra": "5:5.7.0-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "podman"
+      }
+    },
+    "podman-sequoia": {
+      "evra": "0.2.0-1.fc43.aarch64",
+      "metadata": {
+        "sourcerpm": "rust-podman-sequoia"
       }
     },
     "policycoreutils": {
@@ -2678,16 +2684,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-19T00:00:00Z",
+    "generated": "2025-11-20T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:18Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-11-17T06:13:35Z"
+        "generated": "2025-11-19T17:40:18Z"
       },
       "fedora-updates": {
-        "generated": "2025-11-19T01:58:29Z"
+        "generated": "2025-11-20T02:38:27Z"
       }
     }
   }

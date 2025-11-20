@@ -2017,9 +2017,15 @@
       }
     },
     "podman": {
-      "evra": "5:5.6.2-1.fc43.s390x",
+      "evra": "5:5.7.0-1.fc43.s390x",
       "metadata": {
         "sourcerpm": "podman"
+      }
+    },
+    "podman-sequoia": {
+      "evra": "0.2.0-1.fc43.s390x",
+      "metadata": {
+        "sourcerpm": "rust-podman-sequoia"
       }
     },
     "policycoreutils": {
@@ -2546,16 +2552,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-19T00:00:00Z",
+    "generated": "2025-11-20T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:17Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-11-17T06:12:38Z"
+        "generated": "2025-11-19T17:36:59Z"
       },
       "fedora-updates": {
-        "generated": "2025-11-19T01:58:32Z"
+        "generated": "2025-11-20T02:38:30Z"
       }
     }
   }
