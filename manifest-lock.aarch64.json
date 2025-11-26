@@ -37,7 +37,7 @@
       }
     },
     "aardvark-dns": {
-      "evra": "2:1.16.0-1.fc43.aarch64",
+      "evra": "2:1.17.0-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "aardvark-dns"
       }
@@ -73,7 +73,7 @@
       }
     },
     "amd-gpu-firmware": {
-      "evra": "20251021-1.fc43.noarch",
+      "evra": "20251111-1.fc43.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -367,13 +367,13 @@
       }
     },
     "criu": {
-      "evra": "4.1.1-2.fc43.aarch64",
+      "evra": "4.2-11.fc43.aarch64",
       "metadata": {
         "sourcerpm": "criu"
       }
     },
     "criu-libs": {
-      "evra": "4.1.1-2.fc43.aarch64",
+      "evra": "4.2-11.fc43.aarch64",
       "metadata": {
         "sourcerpm": "criu"
       }
@@ -703,7 +703,7 @@
       }
     },
     "fuse-sshfs": {
-      "evra": "3.7.3-12.fc43.aarch64",
+      "evra": "3.7.5-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "fuse-sshfs"
       }
@@ -769,7 +769,7 @@
       }
     },
     "git-core": {
-      "evra": "2.51.1-1.fc43.aarch64",
+      "evra": "2.52.0-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "git"
       }
@@ -853,7 +853,7 @@
       }
     },
     "gnutls": {
-      "evra": "3.8.10-3.fc43.aarch64",
+      "evra": "3.8.11-5.fc43.aarch64",
       "metadata": {
         "sourcerpm": "gnutls"
       }
@@ -937,7 +937,7 @@
       }
     },
     "intel-gpu-firmware": {
-      "evra": "20251021-1.fc43.noarch",
+      "evra": "20251111-1.fc43.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -1063,7 +1063,7 @@
       }
     },
     "kdump-utils": {
-      "evra": "1.0.58-1.fc43.aarch64",
+      "evra": "1.0.59-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "kdump-utils"
       }
@@ -1291,7 +1291,7 @@
       }
     },
     "libffi": {
-      "evra": "3.5.1-2.fc43.aarch64",
+      "evra": "3.5.2-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "libffi"
       }
@@ -1759,13 +1759,13 @@
       }
     },
     "linux-firmware": {
-      "evra": "20251021-1.fc43.noarch",
+      "evra": "20251111-1.fc43.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
     },
     "linux-firmware-whence": {
-      "evra": "20251021-1.fc43.noarch",
+      "evra": "20251111-1.fc43.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -1909,7 +1909,7 @@
       }
     },
     "netavark": {
-      "evra": "2:1.16.1-1.fc43.aarch64",
+      "evra": "2:1.17.0-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "netavark"
       }
@@ -1957,7 +1957,7 @@
       }
     },
     "nmstate": {
-      "evra": "2.2.54-1.fc43.aarch64",
+      "evra": "2.2.55-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "nmstate"
       }
@@ -1981,7 +1981,7 @@
       }
     },
     "nvidia-gpu-firmware": {
-      "evra": "20251021-1.fc43.noarch",
+      "evra": "20251111-1.fc43.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -2041,13 +2041,13 @@
       }
     },
     "ostree": {
-      "evra": "2025.6-1.fc43.aarch64",
+      "evra": "2025.7-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "ostree"
       }
     },
     "ostree-libs": {
-      "evra": "2025.6-1.fc43.aarch64",
+      "evra": "2025.7-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "ostree"
       }
@@ -2107,13 +2107,13 @@
       }
     },
     "pcre2": {
-      "evra": "10.46-1.fc43.aarch64",
+      "evra": "10.47-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "pcre2"
       }
     },
     "pcre2-syntax": {
-      "evra": "10.46-1.fc43.noarch",
+      "evra": "10.47-1.fc43.noarch",
       "metadata": {
         "sourcerpm": "pcre2"
       }
@@ -2149,7 +2149,7 @@
       }
     },
     "podman-sequoia": {
-      "evra": "0.2.0-1.fc43.aarch64",
+      "evra": "0.2.0-3.fc43.aarch64",
       "metadata": {
         "sourcerpm": "rust-podman-sequoia"
       }
@@ -2203,7 +2203,7 @@
       }
     },
     "qed-firmware": {
-      "evra": "20251021-1.fc43.noarch",
+      "evra": "20251111-1.fc43.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -2305,13 +2305,13 @@
       }
     },
     "selinux-policy": {
-      "evra": "42.15-1.fc43.noarch",
+      "evra": "42.16-1.fc43.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
     },
     "selinux-policy-targeted": {
-      "evra": "42.15-1.fc43.noarch",
+      "evra": "42.16-1.fc43.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
@@ -2684,16 +2684,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-20T00:00:00Z",
+    "generated": "2025-11-26T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:18Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-11-19T17:40:18Z"
+        "generated": "2025-11-25T20:59:25Z"
       },
       "fedora-updates": {
-        "generated": "2025-11-20T02:38:27Z"
+        "generated": "2025-11-26T00:46:35Z"
       }
     }
   }
