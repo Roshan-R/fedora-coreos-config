@@ -8,4 +8,10 @@
 # in the `metadata.reason` key, though it's acceptable to omit a `reason`
 # for FCOS-specific packages (ignition, afterburn, etc.).
 
-packages: {}
+packages:
+  gnutls:
+    evr: 3.8.11-5.fc43
+    metadata:
+      bodhi: https://bodhi.fedoraproject.org/updates/FEDORA-2025-7c520ffe0c
+      reason: https://example.com/
+      type: fast-track

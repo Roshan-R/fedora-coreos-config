@@ -1,3 +1,13 @@
+# This lockfile should be used to pin to a package version (`type: pin`) or to
+# fast-track packages ahead of Bodhi (`type: fast-track`). Fast-tracked
+# packages will automatically be removed once they are in the stable repos.
+#
+# IMPORTANT: YAML comments *will not* be preserved. All `pin` overrides *must*
+# include a URL in the `metadata.reason` key. Overrides of type `fast-track`
+# *should* include a Bodhi update URL in the `metadata.bodhi` key and a URL
+# in the `metadata.reason` key, though it's acceptable to omit a `reason`
+# for FCOS-specific packages (ignition, afterburn, etc.).
+
 arches:
 - arch: aarch64
   packages:
@@ -286,7 +296,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/g/gnupg2-verify-2.4.8-4.fc43.aarch64.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/g/gnutls-3.8.11-5.fc43.aarch64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/g/gnutls-3.8.11-5.fc43.aarch64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/g/google-compute-engine-guest-configs-udev-20250221.00-2.fc43.noarch.rpm
   - repoid: fedora
@@ -1176,7 +1186,7 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/g/gnupg2-verify-2.4.8-4.fc43.ppc64le.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/g/gnutls-3.8.11-5.fc43.ppc64le.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/g/gnutls-3.8.11-5.fc43.ppc64le.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/g/gpgme-1.24.3-6.fc43.ppc64le.rpm
   - repoid: fedora-updates
@@ -2056,7 +2066,7 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/g/gnupg2-verify-2.4.8-4.fc43.s390x.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/g/gnutls-3.8.11-5.fc43.s390x.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/g/gnutls-3.8.11-5.fc43.s390x.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/g/gpgme-1.24.3-6.fc43.s390x.rpm
   - repoid: fedora-updates
@@ -2924,7 +2934,7 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/g/gnupg2-verify-2.4.8-4.fc43.x86_64.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/g/gnutls-3.8.11-5.fc43.x86_64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/g/gnutls-3.8.11-5.fc43.x86_64.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/g/google-compute-engine-guest-configs-udev-20250221.00-2.fc43.noarch.rpm
   - repoid: fedora-updates
