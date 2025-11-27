@@ -115,6 +115,40 @@ def do_fast_track(args):
     for lockfile_path in get_lockfiles():
         merge_overrides(lockfile_path, overrides)
 
+    konflux_rpm_lock(overrides)
+
+
+def konflux_rpm_lock(overrides: dict):
+    # Modify the rpms.lock.yaml for override
+    lockfile_path = get_rpm_lockfile()
+    with open(lockfile_path) as f:
+        lockfile = yaml.safe_load(f)
+    for pkg_name, v in overrides.items():
+        ver = v.get("evr") or v.get("evra")
+        nvr = f'{pkg_name}-{ver}'
+        update_rpm_lock_for_nvr(nvr, pkg_name, lockfile)
+    write_lockfile(lockfile_path, lockfile)
+
+
+def update_rpm_lock_for_nvr(nvr, pkg_name, manifest):
+    nevra_form = libdnf5.rpm.VectorNevraForm(1, libdnf5.rpm.Nevra.Form_NEVRA)
+    updated = False
+    # Iterate over all the arches
+    for arch_block in manifest["arches"]:
+        arch = arch_block.get("arch")
+        packages = arch_block.get("packages")
+        # Check if the nvr already exists in the konflux rpm lock or not
+        for package_entry in packages:
+            package_nvr = package_entry["url"].split("/")[-1]
+            parsed_vector = libdnf5.rpm.Nevra.parse(package_nvr, nevra_form)
+            parsed = parsed_vector.pop()
+            # Update the nvr with the new url if a match is found
+            if parsed.get_name() == pkg_name:
+                package_entry["url"] = build_coreos_pool_url(nvr, arch)
+                updated = True
+    if not updated:
+        raise Exception(f"Cannot find specified package {nvr} in the konflux rpm lock")
+
 
 def do_pin(args):
     overrides = {}
@@ -306,6 +340,20 @@ def get_lockfiles():
     # for the basearch on which we're running
     # lockfiles += [f'manifest-lock.overrides.{arch}.yaml' for arch in ARCHES]
     return [os.path.join(basedir, f) for f in lockfiles]
+
+
+def get_rpm_lockfile():
+    lockfile = 'rpms.lock.yaml'
+    return os.path.join(basedir, lockfile)
+
+
+def build_coreos_pool_url(nvr, arch):
+    """
+    nvr: e.g. 'audit-4.1.2-2.fc43'
+    """
+    first_letter = nvr[0].lower()
+    base = "https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest"
+    return f"{base}/{arch}/Packages/{first_letter}/{nvr}.{arch}.rpm"
 
 
 def graduate_lockfile(base, fn):
