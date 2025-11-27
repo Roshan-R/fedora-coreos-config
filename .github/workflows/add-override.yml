@@ -82,12 +82,12 @@ jobs:
       - name: Open pull request
         uses: peter-evans/create-pull-request@v6
         with:
-          token: ${{ secrets.COREOSBOT_RELENG_TOKEN }}
+          token: ${{ secrets.PR_TOKEN_ROSHAN }}
           branch: ${{ env.BRANCH_NAME }}
           commit-message: ${{ env.COMMIT_TITLE }}
-          push-to-fork: coreosbot-releng/fedora-coreos-config
           title: ${{ env.PR_TITLE }}
-          body: "Requested by @${{ github.actor }} via [GitHub workflow](${{ github.server_url }}/${{ github.repository }}/actions/workflows/add-override.yml) ([source](${{ github.server_url }}/${{ github.repository }}/blob/testing-devel/.github/workflows/add-override.yml))."
-          committer: "CoreOS Bot <coreosbot@fedoraproject.org>"
-          author: "CoreOS Bot <coreosbot@fedoraproject.org>"
+          body: "Requested by @${{ github.actor }} via [GitHub workflow](${{ github.server_url }}/${{ github.repository }}/actions/workflows/add-override.yml)"
+          committer: "Roshan-R <roshanr2001@gmail.com>"
+          author: "Roshan-R <roshanr2001@gmail.com>"
           delete-branch: true
+
