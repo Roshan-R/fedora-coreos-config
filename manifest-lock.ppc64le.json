@@ -1915,13 +1915,13 @@
       }
     },
     "ngtcp2": {
-      "evra": "1.16.0-1.fc43.ppc64le",
+      "evra": "1.18.0-1.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "ngtcp2"
       }
     },
     "ngtcp2-crypto-gnutls": {
-      "evra": "1.16.0-1.fc43.ppc64le",
+      "evra": "1.18.0-1.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "ngtcp2"
       }
@@ -2611,13 +2611,13 @@
       }
     },
     "xz": {
-      "evra": "1:5.8.1-2.fc43.ppc64le",
+      "evra": "1:5.8.1-4.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "xz"
       }
     },
     "xz-libs": {
-      "evra": "1:5.8.1-2.fc43.ppc64le",
+      "evra": "1:5.8.1-4.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "xz"
       }
@@ -2660,16 +2660,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-26T00:00:00Z",
+    "generated": "2025-11-27T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:18Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-11-25T20:54:44Z"
+        "generated": "2025-11-26T11:47:42Z"
       },
       "fedora-updates": {
-        "generated": "2025-11-26T00:46:37Z"
+        "generated": "2025-11-27T00:43:10Z"
       }
     }
   }
