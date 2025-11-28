@@ -650,9 +650,9 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/n/nftables-services-1.1.3-5.fc43.noarch.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/n/ngtcp2-1.18.0-1.fc43.aarch64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/n/ngtcp2-1.18.0-1.fc43.aarch64.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/n/ngtcp2-crypto-gnutls-1.18.0-1.fc43.aarch64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/n/ngtcp2-crypto-gnutls-1.18.0-1.fc43.aarch64.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/n/nmstate-2.2.55-1.fc43.aarch64.rpm
   - repoid: fedora-updates
@@ -880,9 +880,9 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/x/xxhash-libs-0.8.3-3.fc43.aarch64.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/x/xz-5.8.1-4.fc43.aarch64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/x/xz-5.8.1-4.fc43.aarch64.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/x/xz-libs-5.8.1-4.fc43.aarch64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/x/xz-libs-5.8.1-4.fc43.aarch64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/y/yajl-2.1.0-38.fc43.aarch64.rpm
   - repoid: fedora
@@ -1536,9 +1536,9 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/n/nftables-services-1.1.3-5.fc43.noarch.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/n/ngtcp2-1.18.0-1.fc43.ppc64le.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/n/ngtcp2-1.18.0-1.fc43.ppc64le.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/n/ngtcp2-crypto-gnutls-1.18.0-1.fc43.ppc64le.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/n/ngtcp2-crypto-gnutls-1.18.0-1.fc43.ppc64le.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/n/nmstate-2.2.55-1.fc43.ppc64le.rpm
   - repoid: fedora
@@ -1768,9 +1768,9 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/x/xxhash-libs-0.8.3-3.fc43.ppc64le.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/x/xz-5.8.1-4.fc43.ppc64le.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/x/xz-5.8.1-4.fc43.ppc64le.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/x/xz-libs-5.8.1-4.fc43.ppc64le.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/x/xz-libs-5.8.1-4.fc43.ppc64le.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/y/yajl-2.1.0-38.fc43.ppc64le.rpm
   - repoid: fedora
@@ -2396,9 +2396,9 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/n/nftables-services-1.1.3-5.fc43.noarch.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/n/ngtcp2-1.18.0-1.fc43.s390x.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/n/ngtcp2-1.18.0-1.fc43.s390x.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/n/ngtcp2-crypto-gnutls-1.18.0-1.fc43.s390x.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/n/ngtcp2-crypto-gnutls-1.18.0-1.fc43.s390x.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/n/nmstate-2.2.55-1.fc43.s390x.rpm
   - repoid: fedora
@@ -2620,9 +2620,9 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/x/xxhash-libs-0.8.3-3.fc43.s390x.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/x/xz-5.8.1-4.fc43.s390x.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/x/xz-5.8.1-4.fc43.s390x.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/x/xz-libs-5.8.1-4.fc43.s390x.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/x/xz-libs-5.8.1-4.fc43.s390x.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/y/yajl-2.1.0-38.fc43.s390x.rpm
   - repoid: fedora
@@ -3292,9 +3292,9 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/n/nftables-services-1.1.3-5.fc43.noarch.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/n/ngtcp2-1.18.0-1.fc43.x86_64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/n/ngtcp2-1.18.0-1.fc43.x86_64.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/n/ngtcp2-crypto-gnutls-1.18.0-1.fc43.x86_64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/n/ngtcp2-crypto-gnutls-1.18.0-1.fc43.x86_64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/n/nmstate-2.2.55-1.fc43.x86_64.rpm
   - repoid: fedora
@@ -3520,9 +3520,9 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/x/xxhash-libs-0.8.3-3.fc43.x86_64.rpm
   - repoid: fedora-updates
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/x/xz-5.8.1-4.fc43.x86_64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/x/xz-5.8.1-4.fc43.x86_64.rpm
   - repoid: fedora
-    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/x/xz-libs-5.8.1-4.fc43.x86_64.rpm
+    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/x/xz-libs-5.8.1-4.fc43.x86_64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/y/yajl-2.1.0-38.fc43.x86_64.rpm
   - repoid: fedora
