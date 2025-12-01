@@ -733,7 +733,7 @@
       }
     },
     "glib2": {
-      "evra": "2.86.1-5.fc43.s390x",
+      "evra": "2.86.2-1.fc43.s390x",
       "metadata": {
         "sourcerpm": "glib2"
       }
@@ -2552,16 +2552,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-30T00:00:00Z",
+    "generated": "2025-12-01T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:17Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-11-29T11:12:17Z"
+        "generated": "2025-11-30T11:27:42Z"
       },
       "fedora-updates": {
-        "generated": "2025-11-30T01:10:28Z"
+        "generated": "2025-12-01T00:47:37Z"
       }
     }
   }

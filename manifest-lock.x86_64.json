@@ -781,7 +781,7 @@
       }
     },
     "glib2": {
-      "evra": "2.86.1-5.fc43.x86_64",
+      "evra": "2.86.2-1.fc43.x86_64",
       "metadata": {
         "sourcerpm": "glib2"
       }
@@ -2696,16 +2696,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-11-30T00:00:00Z",
+    "generated": "2025-12-01T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:20Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-11-29T11:16:55Z"
+        "generated": "2025-11-30T11:32:22Z"
       },
       "fedora-updates": {
-        "generated": "2025-11-30T01:10:30Z"
+        "generated": "2025-12-01T00:47:39Z"
       }
     }
   }
