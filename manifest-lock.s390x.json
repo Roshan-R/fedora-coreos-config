@@ -961,7 +961,7 @@
       }
     },
     "json-glib": {
-      "evra": "1.10.8-1.fc43.s390x",
+      "evra": "1.10.8-4.fc43.s390x",
       "metadata": {
         "sourcerpm": "json-glib"
       }
@@ -991,25 +991,25 @@
       }
     },
     "kernel": {
-      "evra": "6.17.8-300.fc43.s390x",
+      "evra": "6.17.9-300.fc43.s390x",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.17.8-300.fc43.s390x",
+      "evra": "6.17.9-300.fc43.s390x",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.17.8-300.fc43.s390x",
+      "evra": "6.17.9-300.fc43.s390x",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.17.8-300.fc43.s390x",
+      "evra": "6.17.9-300.fc43.s390x",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -1591,7 +1591,7 @@
       }
     },
     "libtool-ltdl": {
-      "evra": "2.5.4-7.fc43.s390x",
+      "evra": "2.5.4-8.fc43.s390x",
       "metadata": {
         "sourcerpm": "libtool"
       }
@@ -2552,16 +2552,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-12-01T00:00:00Z",
+    "generated": "2025-12-02T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:17Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-11-30T11:27:42Z"
+        "generated": "2025-12-01T11:18:01Z"
       },
       "fedora-updates": {
-        "generated": "2025-12-01T00:47:37Z"
+        "generated": "2025-12-02T00:44:45Z"
       }
     }
   }

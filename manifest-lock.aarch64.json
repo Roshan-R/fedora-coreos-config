@@ -1039,7 +1039,7 @@
       }
     },
     "json-glib": {
-      "evra": "1.10.8-1.fc43.aarch64",
+      "evra": "1.10.8-4.fc43.aarch64",
       "metadata": {
         "sourcerpm": "json-glib"
       }
@@ -1069,25 +1069,25 @@
       }
     },
     "kernel": {
-      "evra": "6.17.8-300.fc43.aarch64",
+      "evra": "6.17.9-300.fc43.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.17.8-300.fc43.aarch64",
+      "evra": "6.17.9-300.fc43.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.17.8-300.fc43.aarch64",
+      "evra": "6.17.9-300.fc43.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.17.8-300.fc43.aarch64",
+      "evra": "6.17.9-300.fc43.aarch64",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -1687,7 +1687,7 @@
       }
     },
     "libtool-ltdl": {
-      "evra": "2.5.4-7.fc43.aarch64",
+      "evra": "2.5.4-8.fc43.aarch64",
       "metadata": {
         "sourcerpm": "libtool"
       }
@@ -2684,16 +2684,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-12-01T00:00:00Z",
+    "generated": "2025-12-02T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:18Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-11-30T11:32:49Z"
+        "generated": "2025-12-01T11:21:47Z"
       },
       "fedora-updates": {
-        "generated": "2025-12-01T00:47:34Z"
+        "generated": "2025-12-02T00:44:42Z"
       }
     }
   }
