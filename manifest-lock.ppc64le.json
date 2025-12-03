@@ -2660,16 +2660,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-12-02T00:00:00Z",
+    "generated": "2025-12-03T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:18Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-12-02T11:02:08Z"
+        "generated": "2025-12-02T14:41:07Z"
       },
       "fedora-updates": {
-        "generated": "2025-12-02T00:44:43Z"
+        "generated": "2025-12-03T00:48:31Z"
       }
     }
   }
