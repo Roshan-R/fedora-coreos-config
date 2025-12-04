@@ -313,7 +313,7 @@
       }
     },
     "container-selinux": {
-      "evra": "4:2.242.0-1.fc43.noarch",
+      "evra": "4:2.244.0-1.fc43.noarch",
       "metadata": {
         "sourcerpm": "container-selinux"
       }
@@ -511,7 +511,7 @@
       }
     },
     "docker-cli": {
-      "evra": "28.5.2-1.fc43.ppc64le",
+      "evra": "29.0.4-1.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "moby-engine"
       }
@@ -583,7 +583,7 @@
       }
     },
     "expat": {
-      "evra": "2.7.2-1.fc43.ppc64le",
+      "evra": "2.7.3-1.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "expat"
       }
@@ -703,7 +703,7 @@
       }
     },
     "fwupd": {
-      "evra": "2.0.17-1.fc43.ppc64le",
+      "evra": "2.0.18-1.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "fwupd"
       }
@@ -1825,13 +1825,13 @@
       }
     },
     "moby-engine": {
-      "evra": "28.5.2-1.fc43.ppc64le",
+      "evra": "29.0.4-1.fc43.ppc64le",
       "metadata": {
         "sourcerpm": "moby-engine"
       }
     },
     "moby-filesystem": {
-      "evra": "28.5.2-1.fc43.noarch",
+      "evra": "29.0.4-1.fc43.noarch",
       "metadata": {
         "sourcerpm": "moby-engine"
       }
@@ -2293,13 +2293,13 @@
       }
     },
     "selinux-policy": {
-      "evra": "42.17-1.fc43.noarch",
+      "evra": "42.18-1.fc43.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
     },
     "selinux-policy-targeted": {
-      "evra": "42.17-1.fc43.noarch",
+      "evra": "42.18-1.fc43.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
@@ -2660,16 +2660,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-12-03T00:00:00Z",
+    "generated": "2025-12-04T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:18Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-12-02T14:41:07Z"
+        "generated": "2025-12-03T11:07:08Z"
       },
       "fedora-updates": {
-        "generated": "2025-12-03T00:48:31Z"
+        "generated": "2025-12-04T00:47:46Z"
       }
     }
   }
