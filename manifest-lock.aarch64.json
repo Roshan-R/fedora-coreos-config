@@ -409,7 +409,7 @@
       }
     },
     "curl": {
-      "evra": "8.15.0-3.fc43.aarch64",
+      "evra": "8.15.0-4.fc43.aarch64",
       "metadata": {
         "sourcerpm": "curl"
       }
@@ -1231,7 +1231,7 @@
       }
     },
     "libcurl-minimal": {
-      "evra": "8.15.0-3.fc43.aarch64",
+      "evra": "8.15.0-4.fc43.aarch64",
       "metadata": {
         "sourcerpm": "curl"
       }
@@ -1801,7 +1801,7 @@
       }
     },
     "lua-libs": {
-      "evra": "5.4.8-3.fc43.aarch64",
+      "evra": "5.4.8-4.fc43.aarch64",
       "metadata": {
         "sourcerpm": "lua"
       }
@@ -2593,13 +2593,13 @@
       }
     },
     "vim-data": {
-      "evra": "2:9.1.1914-1.fc43.noarch",
+      "evra": "2:9.1.1952-1.fc43.noarch",
       "metadata": {
         "sourcerpm": "vim"
       }
     },
     "vim-minimal": {
-      "evra": "2:9.1.1914-1.fc43.aarch64",
+      "evra": "2:9.1.1952-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "vim"
       }
@@ -2684,7 +2684,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-12-06T00:00:00Z",
+    "generated": "2025-12-07T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:18Z"
@@ -2693,7 +2693,7 @@
         "generated": "2025-12-05T11:16:54Z"
       },
       "fedora-updates": {
-        "generated": "2025-12-06T00:44:30Z"
+        "generated": "2025-12-07T00:48:39Z"
       }
     }
   }

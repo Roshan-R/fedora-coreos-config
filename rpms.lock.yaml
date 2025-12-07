@@ -138,7 +138,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/c/cryptsetup-libs-2.8.1-1.fc43.aarch64.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/c/curl-8.15.0-3.fc43.aarch64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/c/curl-8.15.0-4.fc43.aarch64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/c/cyrus-sasl-gssapi-2.1.28-33.fc43.aarch64.rpm
   - repoid: fedora
@@ -412,7 +412,7 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/l/libcom_err-1.47.3-2.fc43.aarch64.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/l/libcurl-minimal-8.15.0-3.fc43.aarch64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/l/libcurl-minimal-8.15.0-4.fc43.aarch64.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/l/libdaemon-0.14-32.fc43.aarch64.rpm
   - repoid: fedora-updates
@@ -602,7 +602,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/l/lsof-4.98.0-8.fc43.aarch64.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/l/lua-libs-5.4.8-3.fc43.aarch64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/l/lua-libs-5.4.8-4.fc43.aarch64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/l/luksmeta-10-1.fc43.aarch64.rpm
   - repoid: fedora
@@ -866,9 +866,9 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/u/util-linux-core-2.41.1-17.fc43.aarch64.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/v/vim-data-9.1.1914-1.fc43.noarch.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/v/vim-data-9.1.1952-1.fc43.noarch.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/v/vim-minimal-9.1.1914-1.fc43.aarch64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/aarch64/Packages/v/vim-minimal-9.1.1952-1.fc43.aarch64.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/aarch64/Packages/w/wasmedge-rt-0.15.0-1.fc43.aarch64.rpm
   - repoid: fedora-updates
@@ -1034,7 +1034,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/c/cryptsetup-libs-2.8.1-1.fc43.ppc64le.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/c/curl-8.15.0-3.fc43.ppc64le.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/c/curl-8.15.0-4.fc43.ppc64le.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/c/cyrus-sasl-gssapi-2.1.28-33.fc43.ppc64le.rpm
   - repoid: fedora
@@ -1302,7 +1302,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/l/libcom_err-1.47.3-2.fc43.ppc64le.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/l/libcurl-minimal-8.15.0-3.fc43.ppc64le.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/l/libcurl-minimal-8.15.0-4.fc43.ppc64le.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/l/libdaemon-0.14-32.fc43.ppc64le.rpm
   - repoid: fedora
@@ -1490,7 +1490,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/l/lsof-4.98.0-8.fc43.ppc64le.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/l/lua-libs-5.4.8-3.fc43.ppc64le.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/l/lua-libs-5.4.8-4.fc43.ppc64le.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/l/luksmeta-10-1.fc43.ppc64le.rpm
   - repoid: fedora
@@ -1756,9 +1756,9 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/u/util-linux-core-2.41.1-17.fc43.ppc64le.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/v/vim-data-9.1.1914-1.fc43.noarch.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/v/vim-data-9.1.1952-1.fc43.noarch.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/v/vim-minimal-9.1.1914-1.fc43.ppc64le.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/ppc64le/Packages/v/vim-minimal-9.1.1952-1.fc43.ppc64le.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/ppc64le/Packages/w/which-2.23-3.fc43.ppc64le.rpm
   - repoid: fedora
@@ -1920,7 +1920,7 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/c/cryptsetup-libs-2.8.1-1.fc43.s390x.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/c/curl-8.15.0-3.fc43.s390x.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/c/curl-8.15.0-4.fc43.s390x.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/c/cyrus-sasl-gssapi-2.1.28-33.fc43.s390x.rpm
   - repoid: fedora-updates
@@ -2168,7 +2168,7 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/l/libcom_err-1.47.3-2.fc43.s390x.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/l/libcurl-minimal-8.15.0-3.fc43.s390x.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/l/libcurl-minimal-8.15.0-4.fc43.s390x.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/l/libdaemon-0.14-32.fc43.s390x.rpm
   - repoid: fedora-updates
@@ -2350,7 +2350,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/l/lsof-4.98.0-8.fc43.s390x.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/l/lua-libs-5.4.8-3.fc43.s390x.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/l/lua-libs-5.4.8-4.fc43.s390x.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/l/luksmeta-10-1.fc43.s390x.rpm
   - repoid: fedora
@@ -2608,9 +2608,9 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/v/veritysetup-2.8.1-1.fc43.s390x.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/v/vim-data-9.1.1914-1.fc43.noarch.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/v/vim-data-9.1.1952-1.fc43.noarch.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/v/vim-minimal-9.1.1914-1.fc43.s390x.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/s390x/Packages/v/vim-minimal-9.1.1952-1.fc43.s390x.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/s390x/Packages/w/which-2.23-3.fc43.s390x.rpm
   - repoid: fedora
@@ -2776,7 +2776,7 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/c/cryptsetup-libs-2.8.1-1.fc43.x86_64.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/c/curl-8.15.0-3.fc43.x86_64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/c/curl-8.15.0-4.fc43.x86_64.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/c/cyrus-sasl-gssapi-2.1.28-33.fc43.x86_64.rpm
   - repoid: fedora-updates
@@ -3052,7 +3052,7 @@ arches:
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/l/libcom_err-1.47.3-2.fc43.x86_64.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/l/libcurl-minimal-8.15.0-3.fc43.x86_64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/l/libcurl-minimal-8.15.0-4.fc43.x86_64.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/l/libdaemon-0.14-32.fc43.x86_64.rpm
   - repoid: fedora-updates
@@ -3242,7 +3242,7 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/l/lsof-4.98.0-8.fc43.x86_64.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/l/lua-libs-5.4.8-3.fc43.x86_64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/l/lua-libs-5.4.8-4.fc43.x86_64.rpm
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/l/luksmeta-10-1.fc43.x86_64.rpm
   - repoid: fedora
@@ -3506,9 +3506,9 @@ arches:
   - repoid: fedora-updates
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/u/util-linux-core-2.41.1-17.fc43.x86_64.rpm
   - repoid: fedora
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/v/vim-data-9.1.1914-1.fc43.noarch.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/v/vim-data-9.1.1952-1.fc43.noarch.rpm
   - repoid: fedora-updates
-    url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/v/vim-minimal-9.1.1914-1.fc43.x86_64.rpm
+    url: https://dl.fedoraproject.org/pub/fedora/linux/updates/43/Everything/x86_64/Packages/v/vim-minimal-9.1.1952-1.fc43.x86_64.rpm
   - repoid: fedora
     url: https://kojipkgs.fedoraproject.org/repos-dist/coreos-pool/latest/x86_64/Packages/w/wasmedge-rt-0.15.0-1.fc43.x86_64.rpm
   - repoid: fedora-updates
