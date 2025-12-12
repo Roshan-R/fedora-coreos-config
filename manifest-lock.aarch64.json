@@ -169,7 +169,7 @@
       }
     },
     "bsdtar": {
-      "evra": "3.8.1-3.fc43.aarch64",
+      "evra": "3.8.4-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "libarchive"
       }
@@ -1153,7 +1153,7 @@
       }
     },
     "libarchive": {
-      "evra": "3.8.1-3.fc43.aarch64",
+      "evra": "3.8.4-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "libarchive"
       }
@@ -1909,7 +1909,7 @@
       }
     },
     "netavark": {
-      "evra": "2:1.17.0-1.fc43.aarch64",
+      "evra": "2:1.17.1-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "netavark"
       }
@@ -2005,19 +2005,19 @@
       }
     },
     "openssh": {
-      "evra": "10.0p1-5.fc43.aarch64",
+      "evra": "10.0p1-6.fc43.aarch64",
       "metadata": {
         "sourcerpm": "openssh"
       }
     },
     "openssh-clients": {
-      "evra": "10.0p1-5.fc43.aarch64",
+      "evra": "10.0p1-6.fc43.aarch64",
       "metadata": {
         "sourcerpm": "openssh"
       }
     },
     "openssh-server": {
-      "evra": "10.0p1-5.fc43.aarch64",
+      "evra": "10.0p1-6.fc43.aarch64",
       "metadata": {
         "sourcerpm": "openssh"
       }
@@ -2143,7 +2143,7 @@
       }
     },
     "podman": {
-      "evra": "5:5.7.0-1.fc43.aarch64",
+      "evra": "5:5.7.1-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "podman"
       }
@@ -2665,7 +2665,7 @@
       }
     },
     "zlib-ng-compat": {
-      "evra": "2.2.5-2.fc43.aarch64",
+      "evra": "2.3.2-1.fc43.aarch64",
       "metadata": {
         "sourcerpm": "zlib-ng"
       }
@@ -2684,7 +2684,7 @@
     }
   },
   "metadata": {
-    "generated": "2025-12-11T00:00:00Z",
+    "generated": "2025-12-12T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2025-10-23T03:37:18Z"
@@ -2693,7 +2693,7 @@
         "generated": "2025-12-09T07:46:23Z"
       },
       "fedora-updates": {
-        "generated": "2025-12-10T01:29:33Z"
+        "generated": "2025-12-12T01:28:50Z"
       }
     }
   }
