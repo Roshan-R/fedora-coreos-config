@@ -160,7 +160,7 @@
       "evra": "4:2.245.0-1.fc43.noarch"
     },
     "containerd": {
-      "evra": "2.1.5-1.fc43.x86_64"
+      "evra": "2.1.6-1.fc43.x86_64"
     },
     "containers-common": {
       "evra": "5:0.64.2-1.fc43.noarch"
@@ -469,10 +469,10 @@
       "evra": "0.402-1.fc43.noarch"
     },
     "ignition": {
-      "evra": "2.25.0-1.fc43.x86_64"
+      "evra": "2.25.1-1.fc43.x86_64"
     },
     "ignition-grub": {
-      "evra": "2.25.0-1.fc43.x86_64"
+      "evra": "2.25.1-1.fc43.x86_64"
     },
     "inih": {
       "evra": "62-1.fc43.x86_64"
@@ -1051,10 +1051,10 @@
       "evra": "0.1.10-2.fc43.x86_64"
     },
     "passt": {
-      "evra": "0^20251215.gb40f5cd-1.fc43.x86_64"
+      "evra": "0^20251223.g2ba9fd5-1.fc43.x86_64"
     },
     "passt-selinux": {
-      "evra": "0^20251215.gb40f5cd-1.fc43.noarch"
+      "evra": "0^20251223.g2ba9fd5-1.fc43.noarch"
     },
     "pciutils": {
       "evra": "3.14.0-2.fc43.x86_64"
@@ -1102,7 +1102,7 @@
       "evra": "4.0.4-7.fc43.1.x86_64"
     },
     "protobuf-c": {
-      "evra": "1.5.1-2.fc43.x86_64"
+      "evra": "1.5.2-1.fc43.x86_64"
     },
     "psmisc": {
       "evra": "23.7-6.fc43.x86_64"
@@ -1346,6 +1346,6 @@
     }
   },
   "metadata": {
-    "generated": "2025-12-23T00:00:00Z"
+    "generated": "2026-01-03T00:00:00Z"
   }
 }
