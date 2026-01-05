@@ -412,22 +412,22 @@
       "evra": "20241231-1.fc43.noarch"
     },
     "gnupg2": {
-      "evra": "2.4.8-4.fc43.x86_64"
+      "evra": "2.4.9-1.fc43.x86_64"
     },
     "gnupg2-dirmngr": {
-      "evra": "2.4.8-4.fc43.x86_64"
+      "evra": "2.4.9-1.fc43.x86_64"
     },
     "gnupg2-gpg-agent": {
-      "evra": "2.4.8-4.fc43.x86_64"
+      "evra": "2.4.9-1.fc43.x86_64"
     },
     "gnupg2-gpgconf": {
-      "evra": "2.4.8-4.fc43.x86_64"
+      "evra": "2.4.9-1.fc43.x86_64"
     },
     "gnupg2-keyboxd": {
-      "evra": "2.4.8-4.fc43.x86_64"
+      "evra": "2.4.9-1.fc43.x86_64"
     },
     "gnupg2-verify": {
-      "evra": "2.4.8-4.fc43.x86_64"
+      "evra": "2.4.9-1.fc43.x86_64"
     },
     "gnutls": {
       "evra": "3.8.11-5.fc43.x86_64"
@@ -1346,6 +1346,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-01-03T00:00:00Z"
+    "generated": "2026-01-05T00:00:00Z"
   }
 }
