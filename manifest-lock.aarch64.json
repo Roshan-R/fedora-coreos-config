@@ -1114,10 +1114,10 @@
       "evra": "1.2.8-0.fc43.aarch64"
     },
     "rpm": {
-      "evra": "6.0.0-1.fc43.aarch64"
+      "evra": "6.0.1-1.fc43.aarch64"
     },
     "rpm-libs": {
-      "evra": "6.0.0-1.fc43.aarch64"
+      "evra": "6.0.1-1.fc43.aarch64"
     },
     "rpm-ostree": {
       "evra": "2025.12-1.fc43.aarch64"
@@ -1126,10 +1126,10 @@
       "evra": "2025.12-1.fc43.aarch64"
     },
     "rpm-plugin-selinux": {
-      "evra": "6.0.0-1.fc43.aarch64"
+      "evra": "6.0.1-1.fc43.aarch64"
     },
     "rpm-sequoia": {
-      "evra": "1.9.0-2.fc43.aarch64"
+      "evra": "1.10.0-1.fc43.aarch64"
     },
     "rsync": {
       "evra": "3.4.1-4.fc43.aarch64"
@@ -1340,6 +1340,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-01-05T00:00:00Z"
+    "generated": "2026-01-06T00:00:00Z"
   }
 }
