@@ -754,7 +754,7 @@
       "evra": "0.2.1-59.fc43.aarch64"
     },
     "libpcap": {
-      "evra": "14:1.10.5-3.fc43.aarch64"
+      "evra": "14:1.10.6-1.fc43.aarch64"
     },
     "libpciaccess": {
       "evra": "0.16-16.fc43.aarch64"
@@ -1340,6 +1340,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-01-06T00:00:00Z"
+    "generated": "2026-01-07T00:00:00Z"
   }
 }
