@@ -415,7 +415,7 @@
       "evra": "3.25-3.fc43.s390x"
     },
     "hwdata": {
-      "evra": "0.402-1.fc43.noarch"
+      "evra": "0.403-1.fc43.noarch"
     },
     "ignition": {
       "evra": "2.25.1-1.fc43.s390x"
@@ -1087,10 +1087,10 @@
       "evra": "4.9-5.fc43.s390x"
     },
     "selinux-policy": {
-      "evra": "42.19-1.fc43.noarch"
+      "evra": "42.20-1.fc43.noarch"
     },
     "selinux-policy-targeted": {
-      "evra": "42.19-1.fc43.noarch"
+      "evra": "42.20-1.fc43.noarch"
     },
     "setup": {
       "evra": "2.15.0-26.fc43.noarch"
@@ -1268,6 +1268,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-01-07T00:00:00Z"
+    "generated": "2026-01-09T00:00:00Z"
   }
 }

@@ -442,7 +442,7 @@
       "evra": "3.25-3.fc43.ppc64le"
     },
     "hwdata": {
-      "evra": "0.402-1.fc43.noarch"
+      "evra": "0.403-1.fc43.noarch"
     },
     "ignition": {
       "evra": "2.25.1-1.fc43.ppc64le"
@@ -1141,10 +1141,10 @@
       "evra": "4.9-5.fc43.ppc64le"
     },
     "selinux-policy": {
-      "evra": "42.19-1.fc43.noarch"
+      "evra": "42.20-1.fc43.noarch"
     },
     "selinux-policy-targeted": {
-      "evra": "42.19-1.fc43.noarch"
+      "evra": "42.20-1.fc43.noarch"
     },
     "servicelog": {
       "evra": "1.1.16-9.fc43.ppc64le"
@@ -1322,6 +1322,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-01-07T00:00:00Z"
+    "generated": "2026-01-09T00:00:00Z"
   }
 }
