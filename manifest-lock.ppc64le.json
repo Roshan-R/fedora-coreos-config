@@ -1279,10 +1279,10 @@
       "evra": "2.41.3-7.fc43.ppc64le"
     },
     "vim-data": {
-      "evra": "2:9.1.1972-1.fc43.noarch"
+      "evra": "2:9.1.2068-1.fc43.noarch"
     },
     "vim-minimal": {
-      "evra": "2:9.1.1972-1.fc43.ppc64le"
+      "evra": "2:9.1.2068-1.fc43.ppc64le"
     },
     "which": {
       "evra": "2.23-3.fc43.ppc64le"
@@ -1322,6 +1322,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-01-10T00:00:00Z"
+    "generated": "2026-01-11T00:00:00Z"
   }
 }
