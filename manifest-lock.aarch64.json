@@ -37,7 +37,7 @@
       "evra": "1.33-3.fc43.aarch64"
     },
     "amd-gpu-firmware": {
-      "evra": "20251125-1.fc43.noarch"
+      "evra": "20260110-1.fc43.noarch"
     },
     "attr": {
       "evra": "2.5.2-6.fc43.aarch64"
@@ -469,7 +469,7 @@
       "evra": "62-1.fc43.aarch64"
     },
     "intel-gpu-firmware": {
-      "evra": "20251125-1.fc43.noarch"
+      "evra": "20260110-1.fc43.noarch"
     },
     "ipcalc": {
       "evra": "1.0.3-12.fc43.aarch64"
@@ -655,7 +655,7 @@
       "evra": "15.2.1-5.fc43.aarch64"
     },
     "libgcrypt": {
-      "evra": "1.11.1-2.fc43.aarch64"
+      "evra": "1.11.1-3.fc43.aarch64"
     },
     "libgpg-error": {
       "evra": "1.55-2.fc43.aarch64"
@@ -880,10 +880,10 @@
       "evra": "1.5.7-2.fc43.aarch64"
     },
     "linux-firmware": {
-      "evra": "20251125-1.fc43.noarch"
+      "evra": "20260110-1.fc43.noarch"
     },
     "linux-firmware-whence": {
-      "evra": "20251125-1.fc43.noarch"
+      "evra": "20260110-1.fc43.noarch"
     },
     "lld18-libs": {
       "evra": "18.1.8-8.fc43.aarch64"
@@ -991,7 +991,7 @@
       "evra": "2.0.19-3.fc43.aarch64"
     },
     "nvidia-gpu-firmware": {
-      "evra": "20251125-1.fc43.noarch"
+      "evra": "20260110-1.fc43.noarch"
     },
     "nvme-cli": {
       "evra": "2.16-1.fc43.aarch64"
@@ -1102,7 +1102,7 @@
       "evra": "20250616-2.fc43.noarch"
     },
     "qed-firmware": {
-      "evra": "20251125-1.fc43.noarch"
+      "evra": "20260110-1.fc43.noarch"
     },
     "qemu-user-static-x86": {
       "evra": "2:10.1.3-1.fc43.aarch64"
@@ -1340,6 +1340,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-01-14T00:00:00Z"
+    "generated": "2026-01-16T00:00:00Z"
   }
 }
