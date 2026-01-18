@@ -169,10 +169,10 @@
       "evra": "0.25.0-2.fc43.ppc64le"
     },
     "coreutils": {
-      "evra": "9.7-6.fc43.ppc64le"
+      "evra": "9.7-7.fc43.ppc64le"
     },
     "coreutils-common": {
-      "evra": "9.7-6.fc43.ppc64le"
+      "evra": "9.7-7.fc43.ppc64le"
     },
     "cpio": {
       "evra": "2.15-6.fc43.ppc64le"
@@ -1325,6 +1325,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-01-17T00:00:00Z"
+    "generated": "2026-01-18T00:00:00Z"
   }
 }

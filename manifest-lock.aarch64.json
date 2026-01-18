@@ -172,10 +172,10 @@
       "evra": "0.25.0-2.fc43.aarch64"
     },
     "coreutils": {
-      "evra": "9.7-6.fc43.aarch64"
+      "evra": "9.7-7.fc43.aarch64"
     },
     "coreutils-common": {
-      "evra": "9.7-6.fc43.aarch64"
+      "evra": "9.7-7.fc43.aarch64"
     },
     "cpio": {
       "evra": "2.15-6.fc43.aarch64"
@@ -1340,6 +1340,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-01-17T00:00:00Z"
+    "generated": "2026-01-18T00:00:00Z"
   }
 }
