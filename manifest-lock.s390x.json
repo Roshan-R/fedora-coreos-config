@@ -73,7 +73,7 @@
       "evra": "32:9.18.43-1.fc43.s390x"
     },
     "bootc": {
-      "evra": "1.12.0-1.fc43.s390x"
+      "evra": "1.12.1-1.fc43.s390x"
     },
     "bootupd": {
       "evra": "0.2.32-2.fc43.s390x"
@@ -196,7 +196,7 @@
       "evra": "2.8.1-1.fc43.s390x"
     },
     "curl": {
-      "evra": "8.15.0-4.fc43.s390x"
+      "evra": "8.15.0-5.fc43.s390x"
     },
     "cyrus-sasl-gssapi": {
       "evra": "2.1.28-33.fc43.s390x"
@@ -568,7 +568,7 @@
       "evra": "1.47.3-2.fc43.s390x"
     },
     "libcurl-minimal": {
-      "evra": "8.15.0-4.fc43.s390x"
+      "evra": "8.15.0-5.fc43.s390x"
     },
     "libdaemon": {
       "evra": "0.14-32.fc43.s390x"
@@ -1228,10 +1228,10 @@
       "evra": "2.8.1-1.fc43.s390x"
     },
     "vim-data": {
-      "evra": "2:9.1.2068-1.fc43.noarch"
+      "evra": "2:9.1.2086-1.fc43.noarch"
     },
     "vim-minimal": {
-      "evra": "2:9.1.2068-1.fc43.s390x"
+      "evra": "2:9.1.2086-1.fc43.s390x"
     },
     "which": {
       "evra": "2.23-3.fc43.s390x"
@@ -1271,6 +1271,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-01-19T00:00:00Z"
+    "generated": "2026-01-22T00:00:00Z"
   }
 }

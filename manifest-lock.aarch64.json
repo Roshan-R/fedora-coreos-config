@@ -79,7 +79,7 @@
       "evra": "32:9.18.43-1.fc43.aarch64"
     },
     "bootc": {
-      "evra": "1.12.0-1.fc43.aarch64"
+      "evra": "1.12.1-1.fc43.aarch64"
     },
     "bootupd": {
       "evra": "0.2.32-2.fc43.aarch64"
@@ -205,7 +205,7 @@
       "evra": "2.8.1-1.fc43.aarch64"
     },
     "curl": {
-      "evra": "8.15.0-4.fc43.aarch64"
+      "evra": "8.15.0-5.fc43.aarch64"
     },
     "cyrus-sasl-gssapi": {
       "evra": "2.1.28-33.fc43.aarch64"
@@ -616,7 +616,7 @@
       "evra": "1.47.3-2.fc43.aarch64"
     },
     "libcurl-minimal": {
-      "evra": "8.15.0-4.fc43.aarch64"
+      "evra": "8.15.0-5.fc43.aarch64"
     },
     "libdaemon": {
       "evra": "0.14-32.fc43.aarch64"
@@ -1294,10 +1294,10 @@
       "evra": "2.41.3-7.fc43.aarch64"
     },
     "vim-data": {
-      "evra": "2:9.1.2068-1.fc43.noarch"
+      "evra": "2:9.1.2086-1.fc43.noarch"
     },
     "vim-minimal": {
-      "evra": "2:9.1.2068-1.fc43.aarch64"
+      "evra": "2:9.1.2086-1.fc43.aarch64"
     },
     "wasmedge-rt": {
       "evra": "0.15.0-4.fc43.aarch64"
@@ -1340,6 +1340,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-01-19T00:00:00Z"
+    "generated": "2026-01-22T00:00:00Z"
   }
 }
