@@ -322,7 +322,7 @@
       "evra": "1:4.10.0-6.fc43.ppc64le"
     },
     "flatpak-session-helper": {
-      "evra": "1.16.2-1.fc43.ppc64le"
+      "evra": "1.16.3-1.fc43.ppc64le"
     },
     "fmt": {
       "evra": "11.2.0-3.fc43.ppc64le"
@@ -394,22 +394,22 @@
       "evra": "20241231-1.fc43.noarch"
     },
     "gnupg2": {
-      "evra": "2.4.9-1.fc43.ppc64le"
+      "evra": "2.4.9-4.fc43.ppc64le"
     },
     "gnupg2-dirmngr": {
-      "evra": "2.4.9-1.fc43.ppc64le"
+      "evra": "2.4.9-4.fc43.ppc64le"
     },
     "gnupg2-gpg-agent": {
-      "evra": "2.4.9-1.fc43.ppc64le"
+      "evra": "2.4.9-4.fc43.ppc64le"
     },
     "gnupg2-gpgconf": {
-      "evra": "2.4.9-1.fc43.ppc64le"
+      "evra": "2.4.9-4.fc43.ppc64le"
     },
     "gnupg2-keyboxd": {
-      "evra": "2.4.9-1.fc43.ppc64le"
+      "evra": "2.4.9-4.fc43.ppc64le"
     },
     "gnupg2-verify": {
-      "evra": "2.4.9-1.fc43.ppc64le"
+      "evra": "2.4.9-4.fc43.ppc64le"
     },
     "gnutls": {
       "evra": "3.8.11-5.fc43.ppc64le"
@@ -1027,10 +1027,10 @@
       "evra": "0.1.10-2.fc43.ppc64le"
     },
     "passt": {
-      "evra": "0^20260117.g81c97f6-1.fc43.ppc64le"
+      "evra": "0^20260120.g386b5f5-1.fc43.ppc64le"
     },
     "passt-selinux": {
-      "evra": "0^20260117.g81c97f6-1.fc43.noarch"
+      "evra": "0^20260120.g386b5f5-1.fc43.noarch"
     },
     "pciutils": {
       "evra": "3.14.0-2.fc43.ppc64le"
@@ -1090,7 +1090,7 @@
       "evra": "23.7-6.fc43.ppc64le"
     },
     "publicsuffix-list-dafsa": {
-      "evra": "20250616-2.fc43.noarch"
+      "evra": "20260116-1.fc43.noarch"
     },
     "qed-firmware": {
       "evra": "20260110-1.fc43.noarch"
@@ -1325,6 +1325,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-01-22T00:00:00Z"
+    "generated": "2026-01-23T00:00:00Z"
   }
 }
