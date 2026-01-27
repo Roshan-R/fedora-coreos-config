@@ -73,10 +73,10 @@
       "evra": "1:2.16-2.fc43.noarch"
     },
     "bind-libs": {
-      "evra": "32:9.18.43-1.fc43.aarch64"
+      "evra": "32:9.18.44-1.fc43.aarch64"
     },
     "bind-utils": {
-      "evra": "32:9.18.43-1.fc43.aarch64"
+      "evra": "32:9.18.44-1.fc43.aarch64"
     },
     "bootc": {
       "evra": "1.12.1-1.fc43.aarch64"
@@ -253,10 +253,10 @@
       "evra": "5.2.17.0-2.fc43.aarch64"
     },
     "dnsmasq": {
-      "evra": "2.91-1.fc43.aarch64"
+      "evra": "2.92-1.fc43.aarch64"
     },
     "docker-cli": {
-      "evra": "29.1.4-1.fc43.aarch64"
+      "evra": "29.1.5-2.fc43.aarch64"
     },
     "dosfstools": {
       "evra": "4.2-16.fc43.aarch64"
@@ -391,16 +391,16 @@
       "evra": "2.86.3-1.fc43.aarch64"
     },
     "glibc": {
-      "evra": "2.42-6.fc43.aarch64"
+      "evra": "2.42-9.fc43.aarch64"
     },
     "glibc-common": {
-      "evra": "2.42-6.fc43.aarch64"
+      "evra": "2.42-9.fc43.aarch64"
     },
     "glibc-gconv-extra": {
-      "evra": "2.42-6.fc43.aarch64"
+      "evra": "2.42-9.fc43.aarch64"
     },
     "glibc-minimal-langpack": {
-      "evra": "2.42-6.fc43.aarch64"
+      "evra": "2.42-9.fc43.aarch64"
     },
     "gmp": {
       "evra": "1:6.3.0-4.fc43.aarch64"
@@ -697,7 +697,7 @@
       "evra": "2.41.3-7.fc43.aarch64"
     },
     "libldb": {
-      "evra": "2:4.23.4-5.fc43.aarch64"
+      "evra": "2:4.23.5-1.fc43.aarch64"
     },
     "libluksmeta": {
       "evra": "10-1.fc43.aarch64"
@@ -799,7 +799,7 @@
       "evra": "2.41.3-7.fc43.aarch64"
     },
     "libsmbclient": {
-      "evra": "2:4.23.4-5.fc43.aarch64"
+      "evra": "2:4.23.5-1.fc43.aarch64"
     },
     "libsolv": {
       "evra": "0.7.35-3.fc43.aarch64"
@@ -862,7 +862,7 @@
       "evra": "0.3.2-11.fc43.aarch64"
     },
     "libwbclient": {
-      "evra": "2:4.23.4-5.fc43.aarch64"
+      "evra": "2:4.23.5-1.fc43.aarch64"
     },
     "libxcrypt": {
       "evra": "4.5.2-1.fc43.aarch64"
@@ -925,10 +925,10 @@
       "evra": "4.3-9.fc43.aarch64"
     },
     "moby-engine": {
-      "evra": "29.1.4-1.fc43.aarch64"
+      "evra": "29.1.5-2.fc43.aarch64"
     },
     "moby-filesystem": {
-      "evra": "29.1.4-1.fc43.noarch"
+      "evra": "29.1.5-2.fc43.noarch"
     },
     "mokutil": {
       "evra": "2:0.7.2-2.fc43.aarch64"
@@ -1138,13 +1138,13 @@
       "evra": "2:1.4.0-1.fc43.aarch64"
     },
     "samba-client-libs": {
-      "evra": "2:4.23.4-5.fc43.aarch64"
+      "evra": "2:4.23.5-1.fc43.aarch64"
     },
     "samba-common": {
-      "evra": "2:4.23.4-5.fc43.noarch"
+      "evra": "2:4.23.5-1.fc43.noarch"
     },
     "samba-common-libs": {
-      "evra": "2:4.23.4-5.fc43.aarch64"
+      "evra": "2:4.23.5-1.fc43.aarch64"
     },
     "sdbus-cpp": {
       "evra": "2.1.0-3.fc43.aarch64"
@@ -1153,10 +1153,10 @@
       "evra": "4.9-5.fc43.aarch64"
     },
     "selinux-policy": {
-      "evra": "42.21-1.fc43.noarch"
+      "evra": "42.22-1.fc43.noarch"
     },
     "selinux-policy-targeted": {
-      "evra": "42.21-1.fc43.noarch"
+      "evra": "42.22-1.fc43.noarch"
     },
     "setup": {
       "evra": "2.15.0-26.fc43.noarch"
@@ -1340,6 +1340,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-01-25T00:00:00Z"
+    "generated": "2026-01-27T00:00:00Z"
   }
 }

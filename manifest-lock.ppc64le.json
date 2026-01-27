@@ -70,10 +70,10 @@
       "evra": "1.08.2-2.fc43.ppc64le"
     },
     "bind-libs": {
-      "evra": "32:9.18.43-1.fc43.ppc64le"
+      "evra": "32:9.18.44-1.fc43.ppc64le"
     },
     "bind-utils": {
-      "evra": "32:9.18.43-1.fc43.ppc64le"
+      "evra": "32:9.18.44-1.fc43.ppc64le"
     },
     "bootc": {
       "evra": "1.12.1-1.fc43.ppc64le"
@@ -247,10 +247,10 @@
       "evra": "5.2.17.0-2.fc43.ppc64le"
     },
     "dnsmasq": {
-      "evra": "2.91-1.fc43.ppc64le"
+      "evra": "2.92-1.fc43.ppc64le"
     },
     "docker-cli": {
-      "evra": "29.1.4-1.fc43.ppc64le"
+      "evra": "29.1.5-2.fc43.ppc64le"
     },
     "dosfstools": {
       "evra": "4.2-16.fc43.ppc64le"
@@ -376,16 +376,16 @@
       "evra": "2.86.3-1.fc43.ppc64le"
     },
     "glibc": {
-      "evra": "2.42-6.fc43.ppc64le"
+      "evra": "2.42-9.fc43.ppc64le"
     },
     "glibc-common": {
-      "evra": "2.42-6.fc43.ppc64le"
+      "evra": "2.42-9.fc43.ppc64le"
     },
     "glibc-gconv-extra": {
-      "evra": "2.42-6.fc43.ppc64le"
+      "evra": "2.42-9.fc43.ppc64le"
     },
     "glibc-minimal-langpack": {
-      "evra": "2.42-6.fc43.ppc64le"
+      "evra": "2.42-9.fc43.ppc64le"
     },
     "gmp": {
       "evra": "1:6.3.0-4.fc43.ppc64le"
@@ -682,7 +682,7 @@
       "evra": "2.41.3-7.fc43.ppc64le"
     },
     "libldb": {
-      "evra": "2:4.23.4-5.fc43.ppc64le"
+      "evra": "2:4.23.5-1.fc43.ppc64le"
     },
     "libluksmeta": {
       "evra": "10-1.fc43.ppc64le"
@@ -790,7 +790,7 @@
       "evra": "2.41.3-7.fc43.ppc64le"
     },
     "libsmbclient": {
-      "evra": "2:4.23.4-5.fc43.ppc64le"
+      "evra": "2:4.23.5-1.fc43.ppc64le"
     },
     "libsolv": {
       "evra": "0.7.35-3.fc43.ppc64le"
@@ -853,7 +853,7 @@
       "evra": "0.3.2-11.fc43.ppc64le"
     },
     "libwbclient": {
-      "evra": "2:4.23.4-5.fc43.ppc64le"
+      "evra": "2:4.23.5-1.fc43.ppc64le"
     },
     "libxcrypt": {
       "evra": "4.5.2-1.fc43.ppc64le"
@@ -910,10 +910,10 @@
       "evra": "4.3-9.fc43.ppc64le"
     },
     "moby-engine": {
-      "evra": "29.1.4-1.fc43.ppc64le"
+      "evra": "29.1.5-2.fc43.ppc64le"
     },
     "moby-filesystem": {
-      "evra": "29.1.4-1.fc43.noarch"
+      "evra": "29.1.5-2.fc43.noarch"
     },
     "mpfr": {
       "evra": "4.2.2-2.fc43.ppc64le"
@@ -1129,13 +1129,13 @@
       "evra": "2:1.4.0-1.fc43.ppc64le"
     },
     "samba-client-libs": {
-      "evra": "2:4.23.4-5.fc43.ppc64le"
+      "evra": "2:4.23.5-1.fc43.ppc64le"
     },
     "samba-common": {
-      "evra": "2:4.23.4-5.fc43.noarch"
+      "evra": "2:4.23.5-1.fc43.noarch"
     },
     "samba-common-libs": {
-      "evra": "2:4.23.4-5.fc43.ppc64le"
+      "evra": "2:4.23.5-1.fc43.ppc64le"
     },
     "sdbus-cpp": {
       "evra": "2.1.0-3.fc43.ppc64le"
@@ -1144,10 +1144,10 @@
       "evra": "4.9-5.fc43.ppc64le"
     },
     "selinux-policy": {
-      "evra": "42.21-1.fc43.noarch"
+      "evra": "42.22-1.fc43.noarch"
     },
     "selinux-policy-targeted": {
-      "evra": "42.21-1.fc43.noarch"
+      "evra": "42.22-1.fc43.noarch"
     },
     "servicelog": {
       "evra": "1.1.16-9.fc43.ppc64le"
@@ -1325,6 +1325,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-01-25T00:00:00Z"
+    "generated": "2026-01-27T00:00:00Z"
   }
 }
