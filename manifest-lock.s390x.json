@@ -490,16 +490,16 @@
       "evra": "1.0.59-1.fc43.s390x"
     },
     "kernel": {
-      "evra": "6.18.6-200.fc43.s390x"
+      "evra": "6.18.7-200.fc43.s390x"
     },
     "kernel-core": {
-      "evra": "6.18.6-200.fc43.s390x"
+      "evra": "6.18.7-200.fc43.s390x"
     },
     "kernel-modules": {
-      "evra": "6.18.6-200.fc43.s390x"
+      "evra": "6.18.7-200.fc43.s390x"
     },
     "kernel-modules-core": {
-      "evra": "6.18.6-200.fc43.s390x"
+      "evra": "6.18.7-200.fc43.s390x"
     },
     "kexec-tools": {
       "evra": "2.0.32-1.fc43.s390x"
@@ -1271,6 +1271,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-01-28T00:00:00Z"
+    "generated": "2026-01-29T00:00:00Z"
   }
 }
