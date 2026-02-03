@@ -1012,7 +1012,7 @@
       "evra": "0.2.0-3.fc43.s390x"
     },
     "policycoreutils": {
-      "evra": "3.9-5.fc43.s390x"
+      "evra": "3.9-7.fc43.s390x"
     },
     "polkit": {
       "evra": "126-6.fc43.s390x"
@@ -1271,6 +1271,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-02-02T00:00:00Z"
+    "generated": "2026-02-03T00:00:00Z"
   }
 }

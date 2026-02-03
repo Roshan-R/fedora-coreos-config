@@ -1063,7 +1063,7 @@
       "evra": "0.2.0-3.fc43.ppc64le"
     },
     "policycoreutils": {
-      "evra": "3.9-5.fc43.ppc64le"
+      "evra": "3.9-7.fc43.ppc64le"
     },
     "polkit": {
       "evra": "126-6.fc43.ppc64le"
@@ -1325,6 +1325,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-02-02T00:00:00Z"
+    "generated": "2026-02-03T00:00:00Z"
   }
 }
