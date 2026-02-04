@@ -43,13 +43,13 @@
       "evra": "2.5.2-6.fc43.aarch64"
     },
     "audit": {
-      "evra": "4.1.2-2.fc43.aarch64"
+      "evra": "4.1.3-1.fc43.aarch64"
     },
     "audit-libs": {
-      "evra": "4.1.2-2.fc43.aarch64"
+      "evra": "4.1.3-1.fc43.aarch64"
     },
     "audit-rules": {
-      "evra": "4.1.2-2.fc43.aarch64"
+      "evra": "4.1.3-1.fc43.aarch64"
     },
     "authselect": {
       "evra": "1.6.2-1.fc43.aarch64"
@@ -199,10 +199,10 @@
       "evra": "20251125-1.git63291f8.fc43.noarch"
     },
     "cryptsetup": {
-      "evra": "2.8.1-1.fc43.aarch64"
+      "evra": "2.8.4-1.fc43.aarch64"
     },
     "cryptsetup-libs": {
-      "evra": "2.8.1-1.fc43.aarch64"
+      "evra": "2.8.4-1.fc43.aarch64"
     },
     "curl": {
       "evra": "8.15.0-5.fc43.aarch64"
@@ -604,7 +604,7 @@
       "evra": "2.76-3.fc43.aarch64"
     },
     "libcap-ng": {
-      "evra": "0.8.5-8.fc43.aarch64"
+      "evra": "0.9-7.fc43.aarch64"
     },
     "libcbor": {
       "evra": "0.12.0-6.fc43.aarch64"
@@ -673,7 +673,7 @@
       "evra": "1.3.1-59.fc43.aarch64"
     },
     "libipa_hbac": {
-      "evra": "2.11.1-4.fc43.aarch64"
+      "evra": "2.12.0-1.fc43.aarch64"
     },
     "libjcat": {
       "evra": "0.2.5-1.fc43.aarch64"
@@ -808,16 +808,16 @@
       "evra": "1.47.3-2.fc43.aarch64"
     },
     "libsss_certmap": {
-      "evra": "2.11.1-4.fc43.aarch64"
+      "evra": "2.12.0-1.fc43.aarch64"
     },
     "libsss_idmap": {
-      "evra": "2.11.1-4.fc43.aarch64"
+      "evra": "2.12.0-1.fc43.aarch64"
     },
     "libsss_nss_idmap": {
-      "evra": "2.11.1-4.fc43.aarch64"
+      "evra": "2.12.0-1.fc43.aarch64"
     },
     "libsss_sudo": {
-      "evra": "2.11.1-4.fc43.aarch64"
+      "evra": "2.12.0-1.fc43.aarch64"
     },
     "libstdc++": {
       "evra": "15.2.1-7.fc43.aarch64"
@@ -1204,31 +1204,31 @@
       "evra": "4.6.1-7.fc43.aarch64"
     },
     "sssd-ad": {
-      "evra": "2.11.1-4.fc43.aarch64"
+      "evra": "2.12.0-1.fc43.aarch64"
     },
     "sssd-client": {
-      "evra": "2.11.1-4.fc43.aarch64"
+      "evra": "2.12.0-1.fc43.aarch64"
     },
     "sssd-common": {
-      "evra": "2.11.1-4.fc43.aarch64"
+      "evra": "2.12.0-1.fc43.aarch64"
     },
     "sssd-common-pac": {
-      "evra": "2.11.1-4.fc43.aarch64"
+      "evra": "2.12.0-1.fc43.aarch64"
     },
     "sssd-ipa": {
-      "evra": "2.11.1-4.fc43.aarch64"
+      "evra": "2.12.0-1.fc43.aarch64"
     },
     "sssd-krb5": {
-      "evra": "2.11.1-4.fc43.aarch64"
+      "evra": "2.12.0-1.fc43.aarch64"
     },
     "sssd-krb5-common": {
-      "evra": "2.11.1-4.fc43.aarch64"
+      "evra": "2.12.0-1.fc43.aarch64"
     },
     "sssd-ldap": {
-      "evra": "2.11.1-4.fc43.aarch64"
+      "evra": "2.12.0-1.fc43.aarch64"
     },
     "sssd-nfs-idmap": {
-      "evra": "2.11.1-4.fc43.aarch64"
+      "evra": "2.12.0-1.fc43.aarch64"
     },
     "stalld": {
       "evra": "1.26.3-1.fc43.aarch64"
@@ -1294,10 +1294,10 @@
       "evra": "2.41.3-7.fc43.aarch64"
     },
     "vim-data": {
-      "evra": "2:9.1.2086-1.fc43.noarch"
+      "evra": "2:9.1.2114-1.fc43.noarch"
     },
     "vim-minimal": {
-      "evra": "2:9.1.2086-1.fc43.aarch64"
+      "evra": "2:9.1.2114-1.fc43.aarch64"
     },
     "wasmedge-rt": {
       "evra": "0.15.0-4.fc43.aarch64"
@@ -1340,6 +1340,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-02-03T00:00:00Z"
+    "generated": "2026-02-04T00:00:00Z"
   }
 }
