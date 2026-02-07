@@ -1090,10 +1090,10 @@
       "evra": "4.9-5.fc43.s390x"
     },
     "selinux-policy": {
-      "evra": "42.22-1.fc43.noarch"
+      "evra": "42.23-1.fc43.noarch"
     },
     "selinux-policy-targeted": {
-      "evra": "42.22-1.fc43.noarch"
+      "evra": "42.23-1.fc43.noarch"
     },
     "setup": {
       "evra": "2.15.0-26.fc43.noarch"
@@ -1228,10 +1228,10 @@
       "evra": "2.8.4-1.fc43.s390x"
     },
     "vim-data": {
-      "evra": "2:9.1.2114-1.fc43.noarch"
+      "evra": "2:9.1.2128-2.fc43.noarch"
     },
     "vim-minimal": {
-      "evra": "2:9.1.2114-1.fc43.s390x"
+      "evra": "2:9.1.2128-2.fc43.s390x"
     },
     "which": {
       "evra": "2.23-3.fc43.s390x"
@@ -1271,6 +1271,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-02-06T00:00:00Z"
+    "generated": "2026-02-07T00:00:00Z"
   }
 }
