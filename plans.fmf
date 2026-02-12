@@ -1,0 +1,5 @@
+/kola:
+  enabled: true
+  discover:
+    how: fmf
+    path: tmt

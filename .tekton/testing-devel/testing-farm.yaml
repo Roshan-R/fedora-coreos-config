@@ -1,0 +1,127 @@
+apiVersion: appstudio.redhat.com/v1beta2
+kind: IntegrationTestScenario
+metadata:
+  labels:
+  name: fedora-coreos-testing-devel-kola-tests-x86-64
+spec:
+  application: fedora-coreos-testing-devel
+  contexts:
+  - name: component_fedora-coreos-testing-devel
+  resolverRef:
+    params:
+    - name: url
+      value: https://gitlab.com/testing-farm/integrations-konflux
+    - name: revision
+      value: v3.16
+    - name: pathInRepo
+      value: pipeline/tmt-via-testing-farm/tmt-via-testing-farm.yaml
+    resolver: git
+  params:
+  - name: COMPOSE
+    value: Fedora-43
+  - name: ARCH
+    value: x86_64
+  - name: IMAGE_TAG
+    value: v3.16
+  - name: GIT_URL
+    value: https://github.com/Roshan-R/fedora-coreos-config
+  - name: GIT_REF
+    value: kola-testing-farm
+  - name: TMT_PLAN
+    value: tmt
+---
+apiVersion: appstudio.redhat.com/v1beta2
+kind: IntegrationTestScenario
+metadata:
+  labels:
+  name: fedora-coreos-testing-devel-kola-tests-aarch64
+spec:
+  application: fedora-coreos-testing-devel
+  contexts:
+  - name: component_fedora-coreos-testing-devel
+  resolverRef:
+    params:
+    - name: url
+      value: https://gitlab.com/testing-farm/integrations-konflux
+    - name: revision
+      value: v3.16
+    - name: pathInRepo
+      value: pipeline/tmt-via-testing-farm/tmt-via-testing-farm.yaml
+    resolver: git
+  params:
+  - name: COMPOSE
+    value: Fedora-43
+  - name: ARCH
+    value: aarch64
+  - name: IMAGE_TAG
+    value: v3.16
+  - name: GIT_URL
+    value: https://github.com/Roshan-R/fedora-coreos-config
+  - name: GIT_REF
+    value: kola-testing-farm
+  - name: TMT_PLAN
+    value: tmt
+---
+apiVersion: appstudio.redhat.com/v1beta2
+kind: IntegrationTestScenario
+metadata:
+  labels:
+  name: fedora-coreos-testing-devel-kola-tests-s390x
+spec:
+  application: fedora-coreos-testing-devel
+  contexts:
+  - name: component_fedora-coreos-testing-devel
+  resolverRef:
+    params:
+    - name: url
+      value: https://gitlab.com/testing-farm/integrations-konflux
+    - name: revision
+      value: v3.16
+    - name: pathInRepo
+      value: pipeline/tmt-via-testing-farm/tmt-via-testing-farm.yaml
+    resolver: git
+  params:
+  - name: COMPOSE
+    value: Fedora-43
+  - name: ARCH
+    value: s390x
+  - name: IMAGE_TAG
+    value: v3.16
+  - name: GIT_URL
+    value: https://github.com/Roshan-R/fedora-coreos-config
+  - name: GIT_REF
+    value: kola-testing-farm
+  - name: TMT_PLAN
+    value: tmt
+---
+apiVersion: appstudio.redhat.com/v1beta2
+kind: IntegrationTestScenario
+metadata:
+  labels:
+  name: fedora-coreos-testing-devel-kola-tests-ppc64le
+spec:
+  application: fedora-coreos-testing-devel
+  contexts:
+  - name: component_fedora-coreos-testing-devel
+  resolverRef:
+    params:
+    - name: url
+      value: https://gitlab.com/testing-farm/integrations-konflux
+    - name: revision
+      value: v3.16
+    - name: pathInRepo
+      value: pipeline/tmt-via-testing-farm/tmt-via-testing-farm.yaml
+    resolver: git
+  params:
+  - name: COMPOSE
+    value: Fedora-43
+  - name: ARCH
+    value: ppc64le
+  - name: IMAGE_TAG
+    value: v3.16
+  - name: GIT_URL
+    value: https://github.com/Roshan-R/fedora-coreos-config
+  - name: GIT_REF
+    value: kola-testing-farm
+  - name: TMT_PLAN
+    value: tmt

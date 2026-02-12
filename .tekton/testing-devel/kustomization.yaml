@@ -5,3 +5,4 @@ resources:
   - on-pull-request
   - on-pull-request-overrides
   - on-push
+  - testing-farm.yaml
