@@ -18,9 +18,14 @@ for event_kustomization in $REPO_ROOT/.tekton/*/*/kustomization.yaml; do
   if [[ "$event_name" = "base" ]] || [[ "$stream_name" = "base" ]]; then
     continue
   fi
-  echo -e "  generating ${stream_name}-${event_name} pipelinerun"
-  kustomize build "${event_dir}" -o "${event_dir}"
-  output_file=$(find ${event_dir}/tekton.dev*)
-  kustomize cfg cat "$output_file" > ${output_file/tekton.dev_*_pipelinerun_/}
-  rm -f "${output_file}"
+  if [[ "$event_name" = "testing-farm" ]]; then
+    echo -e "  generating ${stream_name}-testing-farm"
+    kustomize build "${event_dir}" > "${event_dir}/testing-farm.yaml"
+  else
+    echo -e "  generating ${stream_name}-${event_name} pipelinerun"
+    kustomize build "${event_dir}" -o "${event_dir}"
+    output_file=$(find ${event_dir}/tekton.dev*)
+    kustomize cfg cat "$output_file" > ${output_file/tekton.dev_*_pipelinerun_/}
+    rm -f "${output_file}"
+  fi
 done

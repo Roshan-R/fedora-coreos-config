@@ -1,0 +1,44 @@
+adjust+:
+  - when: arch == x86_64 or arch == aarch64
+    provision:
+      hardware:
+        cpu:
+          processors: ">= 4"
+        memory: ">= 8 GB"
+        disk:
+          - size: ">= 50 GB"
+        virtualization:
+          is-supported: true
+prepare:
+  - how: install
+    package:
+      - libvirt
+      - qemu-kvm
+      - qemu-img
+      - skopeo
+      - virt-install
+      - wget
+      - jq
+      - git
+  - how: shell
+    script: podman pull quay.io/coreos-assembler/coreos-assembler:latest
+execute:
+  how: tmt
+
+/kola-qemu:
+  summary: run kola qemu tests
+  discover+:
+    how: fmf
+    test:
+      - init
+      - build-qemu
+      - test-qemu
+
+/kola-testiso:
+  summary: run kola testiso tests
+  discover+:
+    how: fmf
+    test:
+      - init
+      - build-iso
+      - test-iso
