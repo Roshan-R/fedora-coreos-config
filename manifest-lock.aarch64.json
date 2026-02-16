@@ -1153,10 +1153,10 @@
       "evra": "4.9-5.fc43.aarch64"
     },
     "selinux-policy": {
-      "evra": "42.23-1.fc43.noarch"
+      "evra": "42.24-1.fc43.noarch"
     },
     "selinux-policy-targeted": {
-      "evra": "42.23-1.fc43.noarch"
+      "evra": "42.24-1.fc43.noarch"
     },
     "setup": {
       "evra": "2.15.0-26.fc43.noarch"
@@ -1340,6 +1340,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-02-15T00:00:00Z"
+    "generated": "2026-02-16T00:00:00Z"
   }
 }
