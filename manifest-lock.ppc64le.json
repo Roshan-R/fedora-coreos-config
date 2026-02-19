@@ -373,7 +373,7 @@
       "evra": "2.53.0-1.fc43.ppc64le"
     },
     "glib2": {
-      "evra": "2.86.3-1.fc43.ppc64le"
+      "evra": "2.86.4-1.fc43.ppc64le"
     },
     "glibc": {
       "evra": "2.42-9.fc43.ppc64le"
@@ -1282,10 +1282,10 @@
       "evra": "2.41.3-7.fc43.ppc64le"
     },
     "vim-data": {
-      "evra": "2:9.1.2128-2.fc43.noarch"
+      "evra": "2:9.1.2146-2.fc43.noarch"
     },
     "vim-minimal": {
-      "evra": "2:9.1.2128-2.fc43.ppc64le"
+      "evra": "2:9.1.2146-2.fc43.ppc64le"
     },
     "which": {
       "evra": "2.23-3.fc43.ppc64le"
@@ -1325,6 +1325,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-02-18T00:00:00Z"
+    "generated": "2026-02-19T00:00:00Z"
   }
 }
