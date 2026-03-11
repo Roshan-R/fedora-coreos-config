@@ -139,7 +139,7 @@
       "evra": "1.0.8-3.fc43.aarch64"
     },
     "conmon": {
-      "evra": "2:2.1.13-2.fc43.aarch64"
+      "evra": "2:2.2.1-2.fc43.aarch64"
     },
     "console-login-helper-messages": {
       "evra": "0.21.3-11.fc43.noarch"
@@ -1081,10 +1081,10 @@
       "evra": "3.9-7.fc43.aarch64"
     },
     "polkit": {
-      "evra": "126-6.fc43.aarch64"
+      "evra": "126-6.fc43.1.aarch64"
     },
     "polkit-libs": {
-      "evra": "126-6.fc43.aarch64"
+      "evra": "126-6.fc43.1.aarch64"
     },
     "popt": {
       "evra": "1.19-9.fc43.aarch64"
@@ -1340,6 +1340,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-03-09T00:00:00Z"
+    "generated": "2026-03-11T00:00:00Z"
   }
 }
