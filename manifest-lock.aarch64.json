@@ -172,10 +172,10 @@
       "evra": "0.26.0-1.fc43.aarch64"
     },
     "coreutils": {
-      "evra": "9.7-7.fc43.aarch64"
+      "evra": "9.7-8.fc43.aarch64"
     },
     "coreutils-common": {
-      "evra": "9.7-7.fc43.aarch64"
+      "evra": "9.7-8.fc43.aarch64"
     },
     "cpio": {
       "evra": "2.15-6.fc43.aarch64"
@@ -250,7 +250,7 @@
       "evra": "3.12-3.fc43.aarch64"
     },
     "dnf5": {
-      "evra": "5.2.18.0-1.fc43.aarch64"
+      "evra": "5.2.18.0-2.fc43.aarch64"
     },
     "dnsmasq": {
       "evra": "2.92-1.fc43.aarch64"
@@ -535,16 +535,16 @@
       "evra": "1.0.59-1.fc43.aarch64"
     },
     "kernel": {
-      "evra": "6.18.16-200.fc43.aarch64"
+      "evra": "6.19.6-200.fc43.aarch64"
     },
     "kernel-core": {
-      "evra": "6.18.16-200.fc43.aarch64"
+      "evra": "6.19.6-200.fc43.aarch64"
     },
     "kernel-modules": {
-      "evra": "6.18.16-200.fc43.aarch64"
+      "evra": "6.19.6-200.fc43.aarch64"
     },
     "kernel-modules-core": {
-      "evra": "6.18.16-200.fc43.aarch64"
+      "evra": "6.19.6-200.fc43.aarch64"
     },
     "kexec-tools": {
       "evra": "2.0.32-1.fc43.aarch64"
@@ -625,10 +625,10 @@
       "evra": "0.5.0-59.fc43.aarch64"
     },
     "libdnf5": {
-      "evra": "5.2.18.0-1.fc43.aarch64"
+      "evra": "5.2.18.0-2.fc43.aarch64"
     },
     "libdnf5-cli": {
-      "evra": "5.2.18.0-1.fc43.aarch64"
+      "evra": "5.2.18.0-2.fc43.aarch64"
     },
     "libdrm": {
       "evra": "2.4.131-1.fc43.aarch64"
@@ -1120,10 +1120,10 @@
       "evra": "6.0.1-1.fc43.aarch64"
     },
     "rpm-ostree": {
-      "evra": "2026.1-1.fc43.aarch64"
+      "evra": "2026.1-2.fc43.aarch64"
     },
     "rpm-ostree-libs": {
-      "evra": "2026.1-1.fc43.aarch64"
+      "evra": "2026.1-2.fc43.aarch64"
     },
     "rpm-plugin-selinux": {
       "evra": "6.0.1-1.fc43.aarch64"
@@ -1153,10 +1153,10 @@
       "evra": "4.9-5.fc43.aarch64"
     },
     "selinux-policy": {
-      "evra": "42.25-1.fc43.noarch"
+      "evra": "43.1-1.fc43.noarch"
     },
     "selinux-policy-targeted": {
-      "evra": "42.25-1.fc43.noarch"
+      "evra": "43.1-1.fc43.noarch"
     },
     "setup": {
       "evra": "2.15.0-26.fc43.noarch"
@@ -1340,6 +1340,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-03-11T00:00:00Z"
+    "generated": "2026-03-13T00:00:00Z"
   }
 }
