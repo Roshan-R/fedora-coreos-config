@@ -109,7 +109,7 @@
       "evra": "4.8-3.fc43.ppc64le"
     },
     "cifs-utils": {
-      "evra": "7.2-2.fc43.ppc64le"
+      "evra": "7.5-1.fc43.ppc64le"
     },
     "clevis": {
       "evra": "21-12.fc43.ppc64le"
@@ -151,7 +151,7 @@
       "evra": "0.21.3-11.fc43.noarch"
     },
     "container-selinux": {
-      "evra": "4:2.246.0-1.fc43.noarch"
+      "evra": "4:2.247.0-1.fc43.noarch"
     },
     "containerd": {
       "evra": "2.1.6-1.fc43.ppc64le"
@@ -520,16 +520,16 @@
       "evra": "1.0.59-1.fc43.ppc64le"
     },
     "kernel": {
-      "evra": "6.19.7-200.fc43.ppc64le"
+      "evra": "6.19.8-200.fc43.ppc64le"
     },
     "kernel-core": {
-      "evra": "6.19.7-200.fc43.ppc64le"
+      "evra": "6.19.8-200.fc43.ppc64le"
     },
     "kernel-modules": {
-      "evra": "6.19.7-200.fc43.ppc64le"
+      "evra": "6.19.8-200.fc43.ppc64le"
     },
     "kernel-modules-core": {
-      "evra": "6.19.7-200.fc43.ppc64le"
+      "evra": "6.19.8-200.fc43.ppc64le"
     },
     "kexec-tools": {
       "evra": "2.0.32-1.fc43.ppc64le"
@@ -688,7 +688,7 @@
       "evra": "10-1.fc43.ppc64le"
     },
     "libmaxminddb": {
-      "evra": "1.13.1-1.fc43.ppc64le"
+      "evra": "1.13.3-1.fc43.ppc64le"
     },
     "libmd": {
       "evra": "1.1.0-8.fc43.ppc64le"
@@ -1057,7 +1057,7 @@
       "evra": "2.3.0-3.fc43.ppc64le"
     },
     "podman": {
-      "evra": "5:5.7.1-1.fc43.ppc64le"
+      "evra": "5:5.8.1-1.fc43.ppc64le"
     },
     "podman-sequoia": {
       "evra": "0.2.0-3.fc43.ppc64le"
@@ -1282,10 +1282,10 @@
       "evra": "2.41.3-7.fc43.ppc64le"
     },
     "vim-data": {
-      "evra": "2:9.2.112-2.fc43.noarch"
+      "evra": "2:9.2.148-1.fc43.noarch"
     },
     "vim-minimal": {
-      "evra": "2:9.2.112-2.fc43.ppc64le"
+      "evra": "2:9.2.148-1.fc43.ppc64le"
     },
     "which": {
       "evra": "2.23-3.fc43.ppc64le"
@@ -1325,6 +1325,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-03-16T00:00:00Z"
+    "generated": "2026-03-17T00:00:00Z"
   }
 }
