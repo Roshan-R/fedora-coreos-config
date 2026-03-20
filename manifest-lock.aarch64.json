@@ -802,7 +802,7 @@
       "evra": "2:4.23.5-2.fc43.aarch64"
     },
     "libsolv": {
-      "evra": "0.7.35-3.fc43.aarch64"
+      "evra": "0.7.36-2.fc43.aarch64"
     },
     "libss": {
       "evra": "1.47.3-2.fc43.aarch64"
@@ -826,7 +826,7 @@
       "evra": "2.4.3-4.fc43.aarch64"
     },
     "libtasn1": {
-      "evra": "4.20.0-2.fc43.aarch64"
+      "evra": "4.21.0-1.fc43.aarch64"
     },
     "libtdb": {
       "evra": "1.4.14-3.fc43.aarch64"
@@ -1003,13 +1003,13 @@
       "evra": "2.6.10-4.fc43.aarch64"
     },
     "openssh": {
-      "evra": "10.0p1-6.fc43.aarch64"
+      "evra": "10.0p1-7.fc43.aarch64"
     },
     "openssh-clients": {
-      "evra": "10.0p1-6.fc43.aarch64"
+      "evra": "10.0p1-7.fc43.aarch64"
     },
     "openssh-server": {
-      "evra": "10.0p1-6.fc43.aarch64"
+      "evra": "10.0p1-7.fc43.aarch64"
     },
     "openssl": {
       "evra": "1:3.5.4-2.fc43.aarch64"
@@ -1340,6 +1340,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-03-18T00:00:00Z"
+    "generated": "2026-03-20T00:00:00Z"
   }
 }
