@@ -82,7 +82,7 @@
       "evra": "3.8.4-1.fc43.s390x"
     },
     "btrfs-progs": {
-      "evra": "6.17.1-1.fc43.s390x"
+      "evra": "6.19.1-1.fc43.s390x"
     },
     "bubblewrap": {
       "evra": "0.11.0-2.fc43.s390x"
@@ -1213,7 +1213,7 @@
       "evra": "4.1.3-8.fc43.s390x"
     },
     "tzdata": {
-      "evra": "2025c-1.fc43.noarch"
+      "evra": "2026a-1.fc43.noarch"
     },
     "userspace-rcu": {
       "evra": "0.15.3-2.fc43.s390x"
@@ -1271,6 +1271,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-03-21T00:00:00Z"
+    "generated": "2026-03-22T00:00:00Z"
   }
 }
