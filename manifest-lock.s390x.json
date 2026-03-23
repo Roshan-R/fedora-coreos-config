@@ -913,10 +913,10 @@
       "evra": "1:1.1.3-6.fc43.1.noarch"
     },
     "ngtcp2": {
-      "evra": "1.19.0-1.fc43.s390x"
+      "evra": "1.21.0-1.fc43.s390x"
     },
     "ngtcp2-crypto-gnutls": {
-      "evra": "1.19.0-1.fc43.s390x"
+      "evra": "1.21.0-1.fc43.s390x"
     },
     "nmstate": {
       "evra": "2.2.57-2.fc43.s390x"
@@ -1271,6 +1271,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-03-22T00:00:00Z"
+    "generated": "2026-03-23T00:00:00Z"
   }
 }
