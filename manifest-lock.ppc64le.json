@@ -520,16 +520,16 @@
       "evra": "1.0.59-1.fc43.ppc64le"
     },
     "kernel": {
-      "evra": "6.19.8-200.fc43.ppc64le"
+      "evra": "6.19.9-200.fc43.ppc64le"
     },
     "kernel-core": {
-      "evra": "6.19.8-200.fc43.ppc64le"
+      "evra": "6.19.9-200.fc43.ppc64le"
     },
     "kernel-modules": {
-      "evra": "6.19.8-200.fc43.ppc64le"
+      "evra": "6.19.9-200.fc43.ppc64le"
     },
     "kernel-modules-core": {
-      "evra": "6.19.8-200.fc43.ppc64le"
+      "evra": "6.19.9-200.fc43.ppc64le"
     },
     "kexec-tools": {
       "evra": "2.0.32-1.fc43.ppc64le"
@@ -589,7 +589,7 @@
       "evra": "2.76-3.fc43.ppc64le"
     },
     "libcap-ng": {
-      "evra": "0.9.1-1.fc43.ppc64le"
+      "evra": "0.9.2-1.fc43.ppc64le"
     },
     "libcbor": {
       "evra": "0.12.0-6.fc43.ppc64le"
@@ -1096,7 +1096,7 @@
       "evra": "20260309-1.fc43.noarch"
     },
     "qemu-user-static-x86": {
-      "evra": "2:10.1.4-1.fc43.ppc64le"
+      "evra": "2:10.1.5-1.fc43.ppc64le"
     },
     "readline": {
       "evra": "8.3-2.fc43.ppc64le"
@@ -1144,10 +1144,10 @@
       "evra": "4.9-5.fc43.ppc64le"
     },
     "selinux-policy": {
-      "evra": "43.1-1.fc43.noarch"
+      "evra": "43.3-1.fc43.noarch"
     },
     "selinux-policy-targeted": {
-      "evra": "43.1-1.fc43.noarch"
+      "evra": "43.3-1.fc43.noarch"
     },
     "servicelog": {
       "evra": "1.1.16-9.fc43.ppc64le"
@@ -1282,10 +1282,10 @@
       "evra": "2.41.3-7.fc43.ppc64le"
     },
     "vim-data": {
-      "evra": "2:9.2.148-1.fc43.noarch"
+      "evra": "2:9.2.240-1.fc43.noarch"
     },
     "vim-minimal": {
-      "evra": "2:9.2.148-1.fc43.ppc64le"
+      "evra": "2:9.2.240-1.fc43.ppc64le"
     },
     "which": {
       "evra": "2.23-3.fc43.ppc64le"
@@ -1325,6 +1325,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-03-26T00:00:00Z"
+    "generated": "2026-03-27T00:00:00Z"
   }
 }
