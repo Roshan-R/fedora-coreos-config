@@ -184,7 +184,7 @@
       "evra": "4.2-11.fc43.s390x"
     },
     "crun": {
-      "evra": "1.25.1-1.fc43.s390x"
+      "evra": "1.27-1.fc43.s390x"
     },
     "crypto-policies": {
       "evra": "20251125-1.git63291f8.fc43.noarch"
@@ -520,7 +520,7 @@
       "evra": "0.11.1-2.fc43.s390x"
     },
     "krb5-libs": {
-      "evra": "1.22.2-2.fc43.s390x"
+      "evra": "1.22.2-3.fc43.s390x"
     },
     "less": {
       "evra": "685-1.fc43.s390x"
@@ -1015,10 +1015,10 @@
       "evra": "3.9-7.fc43.s390x"
     },
     "polkit": {
-      "evra": "126-6.fc43.1.s390x"
+      "evra": "126-6.fc43.2.s390x"
     },
     "polkit-libs": {
-      "evra": "126-6.fc43.1.s390x"
+      "evra": "126-6.fc43.2.s390x"
     },
     "popt": {
       "evra": "1.19-9.fc43.s390x"
@@ -1090,10 +1090,10 @@
       "evra": "4.9-5.fc43.s390x"
     },
     "selinux-policy": {
-      "evra": "43.3-1.fc43.noarch"
+      "evra": "43.4-2.fc43.noarch"
     },
     "selinux-policy-targeted": {
-      "evra": "43.3-1.fc43.noarch"
+      "evra": "43.4-2.fc43.noarch"
     },
     "setup": {
       "evra": "2.15.0-26.fc43.noarch"
@@ -1271,6 +1271,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-04-01T00:00:00Z"
+    "generated": "2026-04-02T00:00:00Z"
   }
 }

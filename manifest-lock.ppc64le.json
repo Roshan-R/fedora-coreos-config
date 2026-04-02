@@ -187,7 +187,7 @@
       "evra": "4.2-11.fc43.ppc64le"
     },
     "crun": {
-      "evra": "1.25.1-1.fc43.ppc64le"
+      "evra": "1.27-1.fc43.ppc64le"
     },
     "crypto-policies": {
       "evra": "20251125-1.git63291f8.fc43.noarch"
@@ -550,7 +550,7 @@
       "evra": "0.11.1-2.fc43.ppc64le"
     },
     "krb5-libs": {
-      "evra": "1.22.2-2.fc43.ppc64le"
+      "evra": "1.22.2-3.fc43.ppc64le"
     },
     "less": {
       "evra": "685-1.fc43.ppc64le"
@@ -1066,10 +1066,10 @@
       "evra": "3.9-7.fc43.ppc64le"
     },
     "polkit": {
-      "evra": "126-6.fc43.1.ppc64le"
+      "evra": "126-6.fc43.2.ppc64le"
     },
     "polkit-libs": {
-      "evra": "126-6.fc43.1.ppc64le"
+      "evra": "126-6.fc43.2.ppc64le"
     },
     "popt": {
       "evra": "1.19-9.fc43.ppc64le"
@@ -1144,10 +1144,10 @@
       "evra": "4.9-5.fc43.ppc64le"
     },
     "selinux-policy": {
-      "evra": "43.3-1.fc43.noarch"
+      "evra": "43.4-2.fc43.noarch"
     },
     "selinux-policy-targeted": {
-      "evra": "43.3-1.fc43.noarch"
+      "evra": "43.4-2.fc43.noarch"
     },
     "servicelog": {
       "evra": "1.1.16-9.fc43.ppc64le"
@@ -1325,6 +1325,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-04-01T00:00:00Z"
+    "generated": "2026-04-02T00:00:00Z"
   }
 }
