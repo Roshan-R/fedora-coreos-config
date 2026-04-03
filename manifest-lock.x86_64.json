@@ -259,7 +259,7 @@
       "evra": "2.92-1.fc43.x86_64"
     },
     "docker-cli": {
-      "evra": "29.3.0-1.fc43.x86_64"
+      "evra": "29.3.1-1.fc43.x86_64"
     },
     "dosfstools": {
       "evra": "4.2-16.fc43.x86_64"
@@ -934,10 +934,10 @@
       "evra": "2:2.1-71.1.fc43.x86_64"
     },
     "moby-engine": {
-      "evra": "29.3.0-1.fc43.x86_64"
+      "evra": "29.3.1-1.fc43.x86_64"
     },
     "moby-filesystem": {
-      "evra": "29.3.0-1.fc43.noarch"
+      "evra": "29.3.1-1.fc43.noarch"
     },
     "mokutil": {
       "evra": "2:0.7.2-2.fc43.x86_64"
@@ -1346,6 +1346,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-04-02T00:00:00Z"
+    "generated": "2026-04-03T00:00:00Z"
   }
 }
