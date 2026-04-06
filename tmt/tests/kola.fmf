@@ -1,4 +1,4 @@
-test: ./test.sh
+test: ./entrypoint.sh
 
 /init:
   duration: 1h
