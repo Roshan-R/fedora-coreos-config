@@ -15,7 +15,7 @@ if [ "$TEST_CASE" = "test-qemu" ]; then
     # reprovision test
     KOLA_ACTION="run"
     KOLA_ID="kola-reprovision"
-    KOLA_EXTRA_ARGS="--tag='reprovision'"
+    KOLA_EXTRA_ARGS="--tag=reprovision"
     run_kola
     collect_kola_artifacts
 
