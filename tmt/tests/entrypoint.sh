@@ -13,10 +13,10 @@ case "$TEST_CASE" in
         ./build.sh
         ;;
     "test-qemu")
-        ./test-qemu.sh
+        ./test.sh
         ;;
     "test-iso")
-        ./test-iso.sh
+        ./test.sh
         ;;
     *)
         echo "Error: Test case '$TEST_CASE' not found!" >&2
