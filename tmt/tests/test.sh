@@ -1,5 +1,5 @@
 #!/bin/bash
-set -euo pipefail
+set -eEuo pipefail
 set -x
 
 source $HOME/utils.sh
