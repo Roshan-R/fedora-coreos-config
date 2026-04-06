@@ -15,11 +15,9 @@ prepare:
       - libvirt
       - qemu-kvm
       - qemu-img
-      - skopeo
       - virt-install
-      - wget
       - jq
-      - git
+      - git-core
   - how: shell
     script: podman pull quay.io/coreos-assembler/coreos-assembler:latest
 execute:
