@@ -32,6 +32,15 @@ execute:
       - build-qemu
       - test-qemu
 
+/kola-test-upgrade:
+  summary: run kola upgrade test
+  discover+:
+    how: fmf
+    test:
+      - init
+      - build-qemu
+      - test-kola-upgrade
+
 /kola-testiso:
   summary: run kola testiso tests
   discover+:

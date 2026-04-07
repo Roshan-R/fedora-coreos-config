@@ -19,6 +19,7 @@ if [ "$TEST_CASE" = "test-qemu" ]; then
     run_kola
     collect_kola_artifacts
 
+elif [ "$TEST_CASE" = "test-kola-upgrade" ]; then
     # upgrade test
     KOLA_ACTION="run-upgrade"
     KOLA_ID="run-upgrade"

@@ -15,6 +15,9 @@ case "$TEST_CASE" in
     "test-qemu")
         ./test.sh
         ;;
+    "test-kola-upgrade")
+        ./test.sh
+        ;;
     "test-iso")
         ./test.sh
         ;;
