@@ -20,7 +20,7 @@ spec:
     resolver: git
   params:
   - name: COMPOSE
-    value: Fedora-43
+    value: Rawhide
   - name: ARCH
     value: x86_64
   - name: IMAGE_TAG
@@ -53,7 +53,7 @@ spec:
     resolver: git
   params:
   - name: COMPOSE
-    value: Fedora-43
+    value: Rawhide
   - name: ARCH
     value: aarch64
   - name: IMAGE_TAG

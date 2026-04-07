@@ -10,15 +10,15 @@ spec:
   - name: component_fedora-coreos-testing-devel
   params:
   - name: COMPOSE
-    value: Fedora-43
+    value: Rawhide
   - name: ARCH
     value: aarch64
   - name: IMAGE_TAG
     value: v3.16
   - name: GIT_URL
-    value: https://github.com/coreos/fedora-coreos-config
+    value: https://github.com/Roshan-R/fedora-coreos-config
   - name: GIT_REF
-    value: testing-devel
+    value: testing-farm-kola
   - name: TMT_PLAN
     value: tmt
   resolverRef:
@@ -43,15 +43,15 @@ spec:
   - name: component_fedora-coreos-testing-devel
   params:
   - name: COMPOSE
-    value: Fedora-43
+    value: Rawhide
   - name: ARCH
     value: x86_64
   - name: IMAGE_TAG
     value: v3.16
   - name: GIT_URL
-    value: https://github.com/coreos/fedora-coreos-config
+    value: https://github.com/Roshan-R/fedora-coreos-config
   - name: GIT_REF
-    value: testing-devel
+    value: testing-farm-kola
   - name: TMT_PLAN
     value: tmt
   resolverRef:
