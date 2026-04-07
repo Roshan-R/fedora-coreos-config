@@ -22,11 +22,12 @@ patches:
     patch: |-
       - op: replace
         path: /metadata/name
-        value: fedora-coreos-kola-tests-testing-devel-x86-64
+        value: fedora-coreos-testing-devel-kola-tests-x86-64
   - target:
       kind: IntegrationTestScenario
       name: fedora-coreos-kola-tests-aarch64
     patch: |-
       - op: replace
         path: /metadata/name
-        value: fedora-coreos-kola-tests-testing-devel-aarch64
+        value: fedora-coreos-testing-devel-kola-tests-aarch64
+

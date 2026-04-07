@@ -3,7 +3,7 @@ kind: IntegrationTestScenario
 metadata:
   labels:
     test.appstudio.openshift.io/optional: "true"
-  name: fedora-coreos-kola-tests-testing-devel-aarch64
+  name: fedora-coreos-testing-devel-kola-tests-aarch64
 spec:
   application: fedora-coreos-testing-devel
   contexts:
@@ -36,7 +36,7 @@ kind: IntegrationTestScenario
 metadata:
   labels:
     test.appstudio.openshift.io/optional: "true"
-  name: fedora-coreos-kola-tests-testing-devel-x86-64
+  name: fedora-coreos-testing-devel-kola-tests-x86-64
 spec:
   application: fedora-coreos-testing-devel
   contexts:
