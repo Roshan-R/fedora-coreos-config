@@ -13,6 +13,9 @@ metadata:
     build.appstudio.redhat.com/target_branch: '{{target_branch}}'
     pipelinesascode.tekton.dev/max-keep-runs: "3"
     pipelinesascode.tekton.dev/on-cel-expression: 'true == false'
+    test.appstudio.openshift.io/pipeline_timeout: '8h'
+    test.appstudio.openshift.io/tasks_timeout: '5h'
+    test.appstudio.openshift.io/finally_timeout: '3h'
   creationTimestamp: null
 spec:
   params:
