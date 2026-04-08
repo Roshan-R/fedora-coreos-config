@@ -22,6 +22,7 @@ prepare:
     script: podman pull quay.io/coreos-assembler/coreos-assembler:latest
 execute:
   how: tmt
+  exit-first: true
 
 /kola-qemu:
   summary: run kola qemu tests
