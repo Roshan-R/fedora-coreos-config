@@ -23,8 +23,6 @@ spec:
       value: pipeline/tmt-via-testing-farm/tmt-via-testing-farm.yaml
     resolver: git
   params:
-  - name: COMPOSE
-    value: Rawhide
   - name: ARCH
     value: x86_64
   - name: IMAGE_TAG
@@ -60,8 +58,6 @@ spec:
       value: pipeline/tmt-via-testing-farm/tmt-via-testing-farm.yaml
     resolver: git
   params:
-  - name: COMPOSE
-    value: Rawhide
   - name: ARCH
     value: aarch64
   - name: IMAGE_TAG

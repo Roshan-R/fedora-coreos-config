@@ -13,8 +13,6 @@ spec:
   contexts:
   - name: component_fedora-coreos-testing-devel
   params:
-  - name: COMPOSE
-    value: Rawhide
   - name: ARCH
     value: aarch64
   - name: IMAGE_TAG
@@ -50,8 +48,6 @@ spec:
   contexts:
   - name: component_fedora-coreos-testing-devel
   params:
-  - name: COMPOSE
-    value: Rawhide
   - name: ARCH
     value: x86_64
   - name: IMAGE_TAG
