@@ -76,7 +76,7 @@
       "evra": "32:9.18.47-1.fc43.ppc64le"
     },
     "bootc": {
-      "evra": "1.14.1-1.fc43.ppc64le"
+      "evra": "1.15.0-1.fc43.ppc64le"
     },
     "bootupd": {
       "evra": "0.2.32-2.fc43.ppc64le"
@@ -331,7 +331,7 @@
       "evra": "0.6.1-13.fc43.ppc64le"
     },
     "fuse-common": {
-      "evra": "3.16.2-5.fc42.ppc64le"
+      "evra": "3.16.2-6.fc43.ppc64le"
     },
     "fuse-overlayfs": {
       "evra": "1.13-4.fc43.ppc64le"
@@ -340,10 +340,10 @@
       "evra": "3.7.5-1.fc43.ppc64le"
     },
     "fuse3": {
-      "evra": "3.16.2-5.fc42.ppc64le"
+      "evra": "3.16.2-6.fc43.ppc64le"
     },
     "fuse3-libs": {
-      "evra": "3.16.2-5.fc42.ppc64le"
+      "evra": "3.16.2-6.fc43.ppc64le"
     },
     "fwupd": {
       "evra": "2.0.20-1.fc43.ppc64le"
@@ -421,19 +421,19 @@
       "evra": "3.12-2.fc43.ppc64le"
     },
     "grub2-common": {
-      "evra": "1:2.12-42.fc43.noarch"
+      "evra": "1:2.12-43.fc43.noarch"
     },
     "grub2-ppc64le": {
-      "evra": "1:2.12-42.fc43.ppc64le"
+      "evra": "1:2.12-43.fc43.ppc64le"
     },
     "grub2-ppc64le-modules": {
-      "evra": "1:2.12-42.fc43.noarch"
+      "evra": "1:2.12-43.fc43.noarch"
     },
     "grub2-tools": {
-      "evra": "1:2.12-42.fc43.ppc64le"
+      "evra": "1:2.12-43.fc43.ppc64le"
     },
     "grub2-tools-minimal": {
-      "evra": "1:2.12-42.fc43.ppc64le"
+      "evra": "1:2.12-43.fc43.ppc64le"
     },
     "gzip": {
       "evra": "1.13-4.fc43.ppc64le"
@@ -520,16 +520,16 @@
       "evra": "1.0.59-1.fc43.ppc64le"
     },
     "kernel": {
-      "evra": "6.19.10-200.fc43.ppc64le"
+      "evra": "6.19.11-200.fc43.ppc64le"
     },
     "kernel-core": {
-      "evra": "6.19.10-200.fc43.ppc64le"
+      "evra": "6.19.11-200.fc43.ppc64le"
     },
     "kernel-modules": {
-      "evra": "6.19.10-200.fc43.ppc64le"
+      "evra": "6.19.11-200.fc43.ppc64le"
     },
     "kernel-modules-core": {
-      "evra": "6.19.10-200.fc43.ppc64le"
+      "evra": "6.19.11-200.fc43.ppc64le"
     },
     "kexec-tools": {
       "evra": "2.0.32-1.fc43.ppc64le"
@@ -577,7 +577,7 @@
       "evra": "0.1.1-59.fc43.ppc64le"
     },
     "libblkid": {
-      "evra": "2.41.3-7.fc43.ppc64le"
+      "evra": "2.41.4-7.fc43.ppc64le"
     },
     "libbpf": {
       "evra": "2:1.6.1-3.fc43.ppc64le"
@@ -628,7 +628,7 @@
       "evra": "2.1.12-16.fc43.ppc64le"
     },
     "libfdisk": {
-      "evra": "2.41.3-7.fc43.ppc64le"
+      "evra": "2.41.4-7.fc43.ppc64le"
     },
     "libffi": {
       "evra": "3.5.2-1.fc43.ppc64le"
@@ -679,7 +679,7 @@
       "evra": "1.6.7-4.fc43.ppc64le"
     },
     "liblastlog2": {
-      "evra": "2.41.3-7.fc43.ppc64le"
+      "evra": "2.41.4-7.fc43.ppc64le"
     },
     "libldb": {
       "evra": "2:4.23.5-2.fc43.ppc64le"
@@ -700,7 +700,7 @@
       "evra": "2.15.2-4.fc43.ppc64le"
     },
     "libmount": {
-      "evra": "2.41.3-7.fc43.ppc64le"
+      "evra": "2.41.4-7.fc43.ppc64le"
     },
     "libndp": {
       "evra": "1.9-4.fc43.ppc64le"
@@ -787,7 +787,7 @@
       "evra": "4.9.1-2.fc43.ppc64le"
     },
     "libsmartcols": {
-      "evra": "2.41.3-7.fc43.ppc64le"
+      "evra": "2.41.4-7.fc43.ppc64le"
     },
     "libsmbclient": {
       "evra": "2:4.23.5-2.fc43.ppc64le"
@@ -844,7 +844,7 @@
       "evra": "1.0.29-4.fc43.ppc64le"
     },
     "libuuid": {
-      "evra": "2.41.3-7.fc43.ppc64le"
+      "evra": "2.41.4-7.fc43.ppc64le"
     },
     "libuv": {
       "evra": "1:1.51.0-2.fc43.ppc64le"
@@ -1150,10 +1150,10 @@
       "evra": "4.9-5.fc43.ppc64le"
     },
     "selinux-policy": {
-      "evra": "43.4-2.fc43.noarch"
+      "evra": "43.6-1.fc43.noarch"
     },
     "selinux-policy-targeted": {
-      "evra": "43.4-2.fc43.noarch"
+      "evra": "43.6-1.fc43.noarch"
     },
     "servicelog": {
       "evra": "1.1.16-9.fc43.ppc64le"
@@ -1282,10 +1282,10 @@
       "evra": "0.15.3-2.fc43.ppc64le"
     },
     "util-linux": {
-      "evra": "2.41.3-7.fc43.ppc64le"
+      "evra": "2.41.4-7.fc43.ppc64le"
     },
     "util-linux-core": {
-      "evra": "2.41.3-7.fc43.ppc64le"
+      "evra": "2.41.4-7.fc43.ppc64le"
     },
     "vim-data": {
       "evra": "2:9.2.280-1.fc43.noarch"
@@ -1331,6 +1331,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-04-05T00:00:00Z"
+    "generated": "2026-04-11T00:00:00Z"
   }
 }
