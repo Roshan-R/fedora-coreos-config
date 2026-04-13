@@ -289,13 +289,13 @@
       "evra": "43-1.noarch"
     },
     "fedora-release-common": {
-      "evra": "43-26.noarch"
+      "evra": "43-27.noarch"
     },
     "fedora-release-coreos": {
-      "evra": "43-26.noarch"
+      "evra": "43-27.noarch"
     },
     "fedora-release-identity-coreos": {
-      "evra": "43-26.noarch"
+      "evra": "43-27.noarch"
     },
     "fedora-repos": {
       "evra": "43-1.noarch"
@@ -364,16 +364,16 @@
       "evra": "2.86.4-2.fc43.s390x"
     },
     "glibc": {
-      "evra": "2.42-10.fc43.s390x"
+      "evra": "2.42-11.fc43.s390x"
     },
     "glibc-common": {
-      "evra": "2.42-10.fc43.s390x"
+      "evra": "2.42-11.fc43.s390x"
     },
     "glibc-gconv-extra": {
-      "evra": "2.42-10.fc43.s390x"
+      "evra": "2.42-11.fc43.s390x"
     },
     "glibc-minimal-langpack": {
-      "evra": "2.42-10.fc43.s390x"
+      "evra": "2.42-11.fc43.s390x"
     },
     "gmp": {
       "evra": "1:6.3.0-4.fc43.s390x"
@@ -553,7 +553,7 @@
       "evra": "0.12.2-6.fc43.s390x"
     },
     "libcap": {
-      "evra": "2.76-3.fc43.s390x"
+      "evra": "2.76-4.fc43.s390x"
     },
     "libcap-ng": {
       "evra": "0.9.2-1.fc43.s390x"
@@ -1271,6 +1271,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-04-11T00:00:00Z"
+    "generated": "2026-04-13T00:00:00Z"
   }
 }
