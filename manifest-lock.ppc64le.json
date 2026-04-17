@@ -1063,7 +1063,7 @@
       "evra": "2.3.0-3.fc43.ppc64le"
     },
     "podman": {
-      "evra": "5:5.8.1-1.fc43.ppc64le"
+      "evra": "5:5.8.2-1.fc43.ppc64le"
     },
     "podman-sequoia": {
       "evra": "0.2.0-3.fc43.ppc64le"
@@ -1177,7 +1177,7 @@
       "evra": "2.4-2.fc43.ppc64le"
     },
     "skopeo": {
-      "evra": "1:1.22.0-2.fc43.ppc64le"
+      "evra": "1:1.22.2-1.fc43.ppc64le"
     },
     "slang": {
       "evra": "2.3.3-8.fc43.ppc64le"
@@ -1331,6 +1331,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-04-16T00:00:00Z"
+    "generated": "2026-04-17T00:00:00Z"
   }
 }

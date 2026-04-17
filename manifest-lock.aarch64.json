@@ -1078,7 +1078,7 @@
       "evra": "2.3.0-3.fc43.aarch64"
     },
     "podman": {
-      "evra": "5:5.8.1-1.fc43.aarch64"
+      "evra": "5:5.8.2-1.fc43.aarch64"
     },
     "podman-sequoia": {
       "evra": "0.2.0-3.fc43.aarch64"
@@ -1186,7 +1186,7 @@
       "evra": "15.8-3.aarch64"
     },
     "skopeo": {
-      "evra": "1:1.22.0-2.fc43.aarch64"
+      "evra": "1:1.22.2-1.fc43.aarch64"
     },
     "slang": {
       "evra": "2.3.3-8.fc43.aarch64"
@@ -1346,6 +1346,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-04-16T00:00:00Z"
+    "generated": "2026-04-17T00:00:00Z"
   }
 }
