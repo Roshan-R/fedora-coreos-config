@@ -373,7 +373,7 @@
       "evra": "2.53.0-1.fc43.ppc64le"
     },
     "glib2": {
-      "evra": "2.86.4-2.fc43.ppc64le"
+      "evra": "2.86.5-1.fc43.ppc64le"
     },
     "glibc": {
       "evra": "2.42-11.fc43.ppc64le"
@@ -1331,6 +1331,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-04-17T00:00:00Z"
+    "generated": "2026-04-18T00:00:00Z"
   }
 }
