@@ -1027,10 +1027,10 @@
       "evra": "1.81-10.fc43.aarch64"
     },
     "ostree": {
-      "evra": "2025.7-1.fc43.aarch64"
+      "evra": "2026.1-1.fc43.aarch64"
     },
     "ostree-libs": {
-      "evra": "2025.7-1.fc43.aarch64"
+      "evra": "2026.1-1.fc43.aarch64"
     },
     "p11-kit": {
       "evra": "0.26.2-1.fc43.aarch64"
@@ -1346,6 +1346,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-04-18T00:00:00Z"
+    "generated": "2026-04-19T00:00:00Z"
   }
 }
