@@ -37,10 +37,10 @@
       "evra": "1.33-3.fc43.x86_64"
     },
     "amd-gpu-firmware": {
-      "evra": "20260309-1.fc43.noarch"
+      "evra": "20260410-1.fc43.noarch"
     },
     "amd-ucode-firmware": {
-      "evra": "20260309-1.fc43.noarch"
+      "evra": "20260410-1.fc43.noarch"
     },
     "attr": {
       "evra": "2.5.2-6.fc43.x86_64"
@@ -82,7 +82,7 @@
       "evra": "32:9.18.48-1.fc43.x86_64"
     },
     "bootc": {
-      "evra": "1.15.0-1.fc43.x86_64"
+      "evra": "1.15.1-1.fc43.x86_64"
     },
     "bootupd": {
       "evra": "0.2.32-2.fc43.x86_64"
@@ -478,7 +478,7 @@
       "evra": "62-1.fc43.x86_64"
     },
     "intel-gpu-firmware": {
-      "evra": "20260309-1.fc43.noarch"
+      "evra": "20260410-1.fc43.noarch"
     },
     "ipcalc": {
       "evra": "1.0.3-12.fc43.x86_64"
@@ -544,16 +544,16 @@
       "evra": "1.0.61-1.fc43.x86_64"
     },
     "kernel": {
-      "evra": "6.19.12-200.fc43.x86_64"
+      "evra": "6.19.13-200.fc43.x86_64"
     },
     "kernel-core": {
-      "evra": "6.19.12-200.fc43.x86_64"
+      "evra": "6.19.13-200.fc43.x86_64"
     },
     "kernel-modules": {
-      "evra": "6.19.12-200.fc43.x86_64"
+      "evra": "6.19.13-200.fc43.x86_64"
     },
     "kernel-modules-core": {
-      "evra": "6.19.12-200.fc43.x86_64"
+      "evra": "6.19.13-200.fc43.x86_64"
     },
     "kexec-tools": {
       "evra": "2.0.32-1.fc43.x86_64"
@@ -886,10 +886,10 @@
       "evra": "1.5.7-2.fc43.x86_64"
     },
     "linux-firmware": {
-      "evra": "20260309-1.fc43.noarch"
+      "evra": "20260410-1.fc43.noarch"
     },
     "linux-firmware-whence": {
-      "evra": "20260309-1.fc43.noarch"
+      "evra": "20260410-1.fc43.noarch"
     },
     "lld18-libs": {
       "evra": "18.1.8-8.fc43.x86_64"
@@ -1006,7 +1006,7 @@
       "evra": "0.5-47.20150602git.fc43.x86_64"
     },
     "nvidia-gpu-firmware": {
-      "evra": "20260309-1.fc43.noarch"
+      "evra": "20260410-1.fc43.noarch"
     },
     "nvme-cli": {
       "evra": "2.16-1.fc43.x86_64"
@@ -1117,7 +1117,7 @@
       "evra": "20260116-1.fc43.noarch"
     },
     "qed-firmware": {
-      "evra": "20260309-1.fc43.noarch"
+      "evra": "20260410-1.fc43.noarch"
     },
     "readline": {
       "evra": "8.3-2.fc43.x86_64"
@@ -1246,7 +1246,7 @@
       "evra": "1.26.3-1.fc43.x86_64"
     },
     "sudo": {
-      "evra": "1.9.17-6.p2.fc43.x86_64"
+      "evra": "1.9.17-7.p2.fc43.x86_64"
     },
     "systemd": {
       "evra": "258.7-1.fc43.x86_64"
@@ -1352,6 +1352,6 @@
     }
   },
   "metadata": {
-    "generated": "2026-04-21T00:00:00Z"
+    "generated": "2026-04-23T00:00:00Z"
   }
 }
